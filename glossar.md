@@ -4,7 +4,7 @@
 
 Anerkennung oder anerkennen heißt, dass man einen Abschluss aus einem anderen Land mit einem Abschluss in Deutschland vergleicht. Der Vergleich heißt Verfahren.
 
-## [Aufenthaltserlaubnis](https://de.wikipedia.org/wiki/Aufenthaltserlaubnis_(Deutschland)#/media/File:Aufenthaltserlaubnis-Beschaeftigung.JPG)
+## [Aufenthaltserlaubnis](https://de.wikipedia.org/wiki/Datei:Aufenthaltserlaubnis-Beschaeftigung.JPG)
 
 Die Erlaubnis in Deutschland zu leben. Der Aufenthalt kann befristet oder unbefristet sein.
 
