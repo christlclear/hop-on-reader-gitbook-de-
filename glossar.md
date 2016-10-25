@@ -4,13 +4,13 @@
 
 Anerkennung oder anerkennen heißt, dass man einen Abschluss aus einem anderen Land mit einem Abschluss in Deutschland vergleicht. Der Vergleich heißt Verfahren.
 
-## [Aufenthaltserlaubnis](https://de.wikipedia.org/wiki/Aufenthaltserlaubnis_(Deutschland))
+## [Aufenthaltserlaubnis](https://de.wikipedia.org/wiki/Aufenthaltserlaubnis_(Deutschland)#/media/File:Aufenthaltserlaubnis-Beschaeftigung.JPG)
 
 Die Erlaubnis in Deutschland zu leben. Der Aufenthalt kann befristet oder unbefristet sein.
 
 Beispiel: Eine Person stellt einen Antrag auf Asyl. Das Asylverfahren ist beendet. Der Antrag auf Asyl wurde angenommen.
 
-## [Aufenthaltsgestattung](https://de.wikipedia.org/wiki/Aufenthaltsgestattung)
+## [Aufenthaltsgestattung](https://de.wikipedia.org/wiki/Aufenthaltsgestattung#/media/File:Aufenthaltsgestattung-Traegervordruck.jpg)
 
 Eine Person stellt einen Antrag auf Asyl. Das Asylverfahren ist noch nicht beendet. Es gibt noch keine Entscheidung vom BAMF.
 
@@ -86,7 +86,7 @@ Eine betriebliche Umschulung ist eine Umschulung in einer Firma. Wie in einer du
 
 Ein Bildungsgutschein ist die Bestätigung über eine Finanzierung eines Kurses durch die Agentur für Arbeit oder das Jobcenter.
 
-## [Duldung](https://de.wikipedia.org/wiki/Duldung_(Aufenthaltsrecht))
+## [Duldung](https://de.wikipedia.org/wiki/Duldung_(Aufenthaltsrecht)\)
 
 Eine Person stellt einen Antrag auf Asyl. Der Asylverfahren ist beendet. Der Antrag auf Asyl wurde abgelehnt. Eine Abschiebung ist aktuell nicht möglich.
 
