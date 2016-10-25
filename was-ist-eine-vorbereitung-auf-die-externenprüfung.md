@@ -100,11 +100,11 @@ Kurse zur Vorbereitung auf die Externenprüfung kosten Geld.
 
 Die Agentur für Arbeit ist verantwortlich. Die Agentur für Arbeit kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn man die Voraussetzungen erfüllt. Eine Voraussetzung ist, dass Sie
 
- · mindestens seit 3 Monaten in Deutschland leben und
+· mindestens seit 3 Monaten in Deutschland leben und
 
 · eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen können.
 
-Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf. 
+Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
