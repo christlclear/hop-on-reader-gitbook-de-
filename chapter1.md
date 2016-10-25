@@ -14,7 +14,7 @@ Wir konzentrieren uns hier besonders auf Erwachsene, die über ein Asylverfahren
 
 * eine [Duldung ](https://de.wikipedia.org/wiki/Duldung_(Aufenthaltsrecht)#/media/File:Duldung-Traegervordruck.jpg)oder
 
-* eine [Aufenthaltserlaubnis ](https://de.wikipedia.org/wiki/Aufenthaltserlaubnis_(Deutschland)#/media/File:Aufenthaltserlaubnis-Beschaeftigung.JPG)haben.
+* eine [Aufenthaltserlaubnis ](https://de.wikipedia.org/wiki/Datei:Aufenthaltserlaubnis-Beschaeftigung.JPG)haben.
 
 
 Wir möchten, dass alle die Informationen einfach verstehen können. Das heißt, wir nutzen zum Beispiel kurze Sätze und bekannte Wörter.
