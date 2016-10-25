@@ -10,7 +10,7 @@ Für Erwachsene gibt es neben der Ausbildung noch andere Wege zu einem Berufsabs
 
 Diese Wege zum Berufsabschluss gibt es für Erwachsene.
 
-GRAFIK
+[GRAFIK](#grafik)
 
 Die verschiedenen Wege sind kein Ersatz für eine Ausbildung. Erwachsene haben aber oft berufliche Erfahrungen und brauchen andere Formen des Lernens. Die Wege sind zum Beispiel eine Möglichkeit für Erwachsene:
 
