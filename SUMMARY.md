@@ -22,4 +22,6 @@
 * [Was ist eine betriebliche Umschulung?](was-ist-eine-betriebliche-umschulung.md)
 * [Was ist Anerkennung?](was-ist-anerkennung.md)
 * [Wo finde ich Beratungsangebote und Projekte?](wo-finde-ich-beratungsangebote-und-projekte.md)
+* [Wo kann ich Deutsch lernen?](wo-kann-ich-deutsch-lernen.md)
+* [Was machen die Agenturen für Arbeit?](was-machen-die-agenturen-für-arbeit.md)
 
