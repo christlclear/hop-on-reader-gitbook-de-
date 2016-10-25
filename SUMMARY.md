@@ -21,4 +21,5 @@
 * [Was ist eine Umschulung?](was-ist-eine-umschulung.md)
 * [Was ist eine betriebliche Umschulung?](was-ist-eine-betriebliche-umschulung.md)
 * [Was ist Anerkennung?](was-ist-anerkennung.md)
+* [Wo finde ich Beratungsangebote und Projekte?](wo-finde-ich-beratungsangebote-und-projekte.md)
 
