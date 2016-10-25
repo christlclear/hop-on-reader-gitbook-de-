@@ -27,4 +27,6 @@
 * [Wie registriere ich mich bei der Agentur für Arbeit?](wie-registriere-ich-mich-bei-der-agentur-für-arbeit.md)
 * [Was ist der Berufspsychologische Service?](was-ist-der-berufspsychologische-service.md)
 * [Was machen die Jobcenter?](was-machen-die-jobcenter.md)
+* [Was ist ein Bildungsgutschein?](was-ist-ein-bildungsgutschein.md)
+* [Wie finde ich Arbeit?](wie-finde-ich-arbeit.md)
 
