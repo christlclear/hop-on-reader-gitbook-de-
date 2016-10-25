@@ -137,48 +137,44 @@ Es gibt unterschiedliche Möglichkeiten der Finanzierung:
 ### _Sie arbeiten aktuell in dem Beruf, in dem Sie den Berufsabschluss machen möchten?_
 
 1. Finanzierung durch die Firma
+  Sie können Ihre Chefin oder Ihren Chef fragen, ob die Firma die Vorbereitung auf die Externenprüfung bezahlt. Fortbildungen können in Deutschland von der Firma bezahlt werden. Der Vorteil für die Firma ist, dass man mit einem Berufsabschluss als Fachkraft arbeiten kann.
 
-Sie können Ihre Chefin oder Ihren Chef fragen, ob die Firma die Vorbereitung auf die Externenprüfung bezahlt. Fortbildungen können in Deutschland von der Firma bezahlt werden. Der Vorteil für die Firma ist, dass man mit einem Berufsabschluss als Fachkraft arbeiten kann.
+2. Finanzierung durch die Agentur für Arbeit oder das Jobcenter
+  Sie können einen Antrag zusammen mit Ihrer Chefin oder Ihrem Chef stellen. Ein Programm für die Finanzierung von berufsbegleitender Qualifizierung heißt [WeGebAU](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Weiterbildung/Foerdermoeglichkeiten/Beschaeftigtenfoerderung/index.htm).
 
-1. Finanzierung durch die Agentur für Arbeit oder das Jobcenter
+3. Finanzierung durch das Bundesland oder den Europäischen Sozialfonds \(ESF\)
+  Manchmal gibt es spezielle Angebote in den Bundesländern. Das heißt, das Bundesland kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn zum Beispiel die Agentur für Arbeit oder das Jobcenter nicht finanzieren können.
 
-Sie können einen Antrag zusammen mit Ihrer Chefin oder Ihrem Chef stellen. Ein Programm für die Finanzierung von berufsbegleitender Qualifizierung heißt [WeGebAU](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Weiterbildung/Foerdermoeglichkeiten/Beschaeftigtenfoerderung/index.htm).
-
-1. Finanzierung durch das Bundesland oder den Europäischen Sozialfonds \(ESF\)
-
-Manchmal gibt es spezielle Angebote in den Bundesländern. Das heißt, das Bundesland kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn zum Beispiel die Agentur für Arbeit oder das Jobcenter nicht finanzieren können.
 
 ### _Sie sind arbeitslos und bekommen Geld vom Jobcenter oder der Agentur für Arbeit?_
 
 1. Finanzierung durch die Agentur für Arbeit oder das Jobcenter
+  Die Agentur für Arbeit oder das Jobcenter können eine Vorbereitung auf die Externenprüfung finanzieren, wenn Sie spezielle Voraussetzungen erfüllen. Sie bekommen weiter Geld vom Jobcenter oder der Agentur für Arbeit.
 
-Die Agentur für Arbeit oder das Jobcenter können eine Vorbereitung auf die Externenprüfung finanzieren, wenn Sie spezielle Voraussetzungen erfüllen. Sie bekommen weiter Geld vom Jobcenter oder der Agentur für Arbeit.
+  Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit und die Jobcenter entscheiden in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Vorbereitung auf die Externenprüfung machen möchte. Wichtig ist auch, dass man zeigt, dass man mit dem Berufsabschluss gute Chancen auf dem Arbeitsmarkt hat. Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.
 
-Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit und die Jobcenter entscheiden in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Vorbereitung auf die Externenprüfung machen möchte. Wichtig ist auch, dass man zeigt, dass man mit dem Berufsabschluss gute Chancen auf dem Arbeitsmarkt hat. Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.
+  [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
-[Was ist der Berufspsychologische Service?](#berufspsychologischer)
+2. Finanzierung durch das Bundesland oder den Europäischen Sozialfonds \(ESF\)
+  Manchmal gibt es spezielle Angebote in den Bundesländern. Das heißt, das Bundesland kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn zum Beispiel die Agentur für Arbeit oder das Jobcenter nicht finanzieren können.
 
-1. Finanzierung durch das Bundesland oder den Europäischen Sozialfonds \(ESF\)
-
-Manchmal gibt es spezielle Angebote in den Bundesländern. Das heißt, das Bundesland kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn zum Beispiel die Agentur für Arbeit oder das Jobcenter nicht finanzieren können.
 
 ### _Sie sind arbeitslos und bekommen kein Geld vom Jobcenter oder der Agentur für Arbeit?_
 
 1. Finanzierung durch die Agentur für Arbeit
+  Sie können sich bei der Agentur für Arbeit als „arbeitsuchend“ registrieren.
 
-Sie können sich bei der Agentur für Arbeit als „arbeitsuchend“ registrieren.
+  [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
 
-[Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
+  In einer Vorbereitung auf die Externenprüfung bekommen Sie kein Geld von einer Firma. Die Agentur für Arbeit kann eine Vorbereitung auf die Externenprüfung finanzieren. Die Agentur für Arbeit kann zum Beispiel auch Fahrtkosten finanzieren.
 
-In einer Vorbereitung auf die Externenprüfung bekommen Sie kein Geld von einer Firma. Die Agentur für Arbeit kann eine Vorbereitung auf die Externenprüfung finanzieren. Die Agentur für Arbeit kann zum Beispiel auch Fahrtkosten finanzieren.
+  Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Vorbereitung auf die Externenprüfung machen möchte. Wichtig ist auch, dass man zeigt, dass man mit dem Berufsabschluss gute Chancen auf dem Arbeitsmarkt hat. Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.
 
-Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Vorbereitung auf die Externenprüfung machen möchte. Wichtig ist auch, dass man zeigt, dass man mit dem Berufsabschluss gute Chancen auf dem Arbeitsmarkt hat. Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.
+  [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
-[Was ist der Berufspsychologische Service?](#berufspsychologischer)
+2. Finanzierung durch das Bundesland oder den Europäischen Sozialfonds \(ESF\)
+  Manchmal gibt es spezielle Angebote in den Bundesländern. Das heißt, das Bundesland kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn zum Beispiel die Agentur für Arbeit oder das Jobcenter nicht finanzieren können.
 
-1. Finanzierung durch das Bundesland oder den Europäischen Sozialfonds \(ESF\)
-
-Manchmal gibt es spezielle Angebote in den Bundesländern. Das heißt, das Bundesland kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn zum Beispiel die Agentur für Arbeit oder das Jobcenter nicht finanzieren können.
 
 ## Kann ich Hilfe bei der Kinderbetreuung bekommen, wenn ich eine Vorbereitung auf die Externenprüfung mache?
 
