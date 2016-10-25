@@ -19,4 +19,6 @@
 * [Was ist eine Vorbereitung auf die Externenprüfung?](was-ist-eine-vorbereitung-auf-die-externenprüfung.md)
 * [Was ist eine Vorbereitung auf die Nichtschülerprüfung?](was-ist-eine-vorbereitung-auf-die-nichtschülerprüfung.md)
 * [Was ist eine Umschulung?](was-ist-eine-umschulung.md)
+* [Was ist eine betriebliche Umschulung?](was-ist-eine-betriebliche-umschulung.md)
+* [Was ist Anerkennung?](was-ist-anerkennung.md)
 
