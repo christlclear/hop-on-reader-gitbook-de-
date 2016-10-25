@@ -50,7 +50,7 @@ Sie können auch in Ihrer Stadt nach Firmen suchen, die interessant für Sie sin
 
 Es gibt keine Regel für die Deutschkenntnisse.
 
-Wenn Sie nur wenige Deutschkenntnisse haben, ist es schwer, Arbeit zu finden. Es gibt nur wenige Arbeitsstellen, wo man keine Deutschkenntnisse braucht. englisch
+Wenn Sie nur wenige Deutschkenntnisse haben, ist es schwer, Arbeit zu finden. Es gibt nur wenige Arbeitsstellen, wo man keine Deutschkenntnisse braucht. 
 
 ### _Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich arbeiten?_
 
@@ -84,9 +84,7 @@ Es gibt viele Regeln und Ausnahmen von den Regeln. Deshalb ist es wichtig, dass 
 
 ### _Brauche ich einen Berufsabschluss, um Arbeit zu finden?_
 
-Nein.
-
-Aber ein Berufsabschluss hat Einfluss auf die beruflichen Möglichkeiten. Auch der regionale Arbeitsmarkt hat Einfluss auf die beruflichen Möglichkeiten.
+Nein. Aber ein Berufsabschluss hat Einfluss auf die beruflichen Möglichkeiten. Auch der regionale Arbeitsmarkt hat Einfluss auf die beruflichen Möglichkeiten.
 
 Es gibt einen Unterschied zwischen der Arbeit als Fachkraft und der Arbeit als Helferin oder Helfer.
 
