@@ -24,4 +24,6 @@
 * [Wo finde ich Beratungsangebote und Projekte?](wo-finde-ich-beratungsangebote-und-projekte.md)
 * [Wo kann ich Deutsch lernen?](wo-kann-ich-deutsch-lernen.md)
 * [Was machen die Agenturen für Arbeit?](was-machen-die-agenturen-für-arbeit.md)
+* [Wie registriere ich mich bei der Agentur für Arbeit?](wie-registriere-ich-mich-bei-der-agentur-für-arbeit.md)
+* [Was ist der Berufspsychologische Service?](was-ist-der-berufspsychologische-service.md)
 
