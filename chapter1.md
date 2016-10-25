@@ -12,7 +12,7 @@ Wir konzentrieren uns hier besonders auf Erwachsene, die über ein Asylverfahren
 
 * eine [Aufenthaltsgestattung](https://de.wikipedia.org/wiki/Aufenthaltsgestattung#/media/File:Aufenthaltsgestattung-Traegervordruck.jpg),
 
-* [Duldung ](https://de.wikipedia.org/wiki/Duldung_(Aufenthaltsrecht)#/media/File:Duldung-Traegervordruck.jpg)oder
+* eine [Duldung ](https://de.wikipedia.org/wiki/Duldung_(Aufenthaltsrecht)#/media/File:Duldung-Traegervordruck.jpg) oder
 
 * eine [Aufenthaltserlaubnis ](https://de.wikipedia.org/wiki/Datei:Aufenthaltserlaubnis-Beschaeftigung.JPG)haben.
 
