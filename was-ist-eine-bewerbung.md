@@ -12,6 +12,7 @@ Allgemein besteht eine Bewerbung in Deutschland aus drei Teilen:
 
 3. Zeugnisse.
 
+
 ## 1. Brief\/Anschreiben
 
 In dem Brief\/dem Anschreiben beschreibt man, warum man sich für diese Firma und diese Arbeitsstelle interessiert. Wenn man sich für eine Ausbildung oder ein Praktikum bewerben möchte, beschreibt man auch das Interesse.
@@ -42,13 +43,11 @@ Wo haben Sie studiert? Wie ist der Name der Universität?
 
 Wo haben Sie gearbeitet? Wie ist der Name der Firma?
 
-
-
 Es gibt viele Webseiten, wo Sie Formulare für einen Lebenslauf finden. Zum Beispiel gibt es den [EuroPass](http://europass.cedefop.europa.eu/de/documents/curriculum-vitae/templates-instructions). Auf dieser Webseite finden Sie Formulare in 27 Sprachen. Sie können dort auch online einen Lebenslauf schreiben.
 
-Hier sehen Sie ein einfaches Beispiel von einem Lebenslauf.  Dieser Lebenslauf ist nur ein Beispiel und kein Formular. GRAFIK
+ Wichtig sind die Struktur und das Format. Meistens beginnt man in Deutschland mit den aktuellsten beruflichen Erfahrungen oder dem letzten Abschluss einer Schule oder Universität. Meistens möchten die Firmen auch ein Foto. 
 
-Wichtig sind die Struktur und das Format. Meistens beginnt man in Deutschland mit den aktuellsten beruflichen Erfahrungen oder dem letzten Abschluss einer Schule oder Universität. Meistens möchten die Firmen auch ein Foto.
+Hier sehen Sie ein einfaches Beispiel von einem Lebenslauf.  Dieser Lebenslauf ist nur ein Beispiel und kein Formular. GRAFIK
 
 ## 3. Zeugnisse
 
