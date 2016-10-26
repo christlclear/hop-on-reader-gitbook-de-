@@ -38,9 +38,7 @@ Die Webseite [Careers4refugees](http://www.careers4refugees.de/de/) ist auf Deut
 
 Viele Firmen stellen ihre freien Arbeitsstellen nicht auf eine Webseite oder nur auf ihre eigene Webseite.
 
-Sehr oft findet man eine Arbeitsstelle durch persönliche Kontakte. Erzählen Sie allen Bekannten, dass Sie eine Arbeitsstelle suchen.
-
-Oft kann man auch über ein Praktikum eine Arbeitsstelle finden. 
+Sehr oft findet man eine Arbeitsstelle durch persönliche Kontakte. Erzählen Sie Ihren Bekannten, dass Sie eine Arbeitsstelle suchen. Auch in Vereinen und Organisationen kann man viele Menschen treffen, die vielleicht Tipps haben. In Deutschland gibt es zum Beispiel viele Migrantenorganisationen. Informationen über Migrantenorganisationen können Sie auch in der Migrationsberatung für Erwachsene bekommen.
 
 ## 3. Initiativbewerbung
 
@@ -56,9 +54,10 @@ Wenn Sie nur wenige Deutschkenntnisse haben, ist es schwer, Arbeit zu finden. Es
 
 Ja. Sie können arbeiten, wenn Sie
 
-· mindestens seit 3 Monaten in Deutschland leben und
+* mindestens seit 3 Monaten in Deutschland leben und
 
-· eine Beschäftigungserlaubnis von Ihrer Ausländerbehörde bekommen können.
+* eine Beschäftigungserlaubnis von Ihrer Ausländerbehörde bekommen können.
+
 
 Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
@@ -74,7 +73,7 @@ Die Agentur für Arbeit prüft, ob sich andere arbeitslose Personen \(zum Beispi
 
 In den meisten Bundesländern oder Regionen Deutschlands gibt es diese Vorrangprüfung aktuell nicht. In diesem [Dokument](http://www.bmas.de/SharedDocs/Downloads/DE/PDF-Schwerpunkte/vierte-verordnung-aenderung-beschaeftigungsverordnung.pdf;jsessionid=E834D34CDE40A83467AE2DD893282929?__blob=publicationFile&v=1) kann man sehen, wo es keine Vorrangprüfung gibt.
 
-Die Agentur für Arbeit prüft auch, ob Sie zum Beispiel auf Basis der gesetzlichen Regeln bezahlt werden.
+Die Agentur für Arbeit prüft auch, ob eine Firma zum Beispiel auf Basis der gesetzlichen Regeln bezahlt. Diese Prüfung heißt „Prüfung der Beschäftigungsbedingungen“.
 
 Die Prüfungen dauern manchmal sehr lange.
 
@@ -92,11 +91,9 @@ Fachkraft bedeutet, dass man einen Berufsabschluss hat. Man hat die Theorie und 
 
 Helfer oder Helferin heißt, dass man manche Aufgaben übernehmen kann und darf und andere nicht. Meistens verdient man deshalb nicht so viel Geld wie Menschen, die einen Berufsabschluss haben.
 
-Mit einem Berufsabschluss findet man oft leichter Arbeit. Man hat auch mehr Chancen, eine gute Arbeit zu finden. Gute Arbeit heißt zum Beispiel, dass man mehr Geld verdient oder bessere Arbeitsbedingungen hat im Vergleich zu einer Helferin oder einem Helfer.
+Ein Berufsabschluss ist keine Garantie für eine Arbeitsstelle. Aber mit einem Berufsabschluss findet man oft leichter Arbeit. Man hat auch mehr Chancen, eine gute Arbeit zu finden. Gute Arbeit heißt zum Beispiel, dass man mehr Geld verdient oder bessere Arbeitsbedingungen hat im Vergleich zu einer Helferin oder einem Helfer.
 
-Viele Menschen wollen eine eigene Firma gründen und selbständig arbeiten.
-
-Für einige Berufe braucht man in Deutschland einen besonderen Abschluss, um eine eigene Firma zu gründen. Ein Beruf ist zum Beispiel Friseurin oder Friseur. Wenn man einen eigenen Friseursalon eröffnen möchte, braucht man einen Abschluss als Meisterin oder Meister. Damit man Meisterin oder Meister werden kann, braucht man einen Berufsabschluss. Wenn man keine Meisterin oder kein Meister ist, muss man eine Meisterin oder einen Meister in seiner Firma beschäftigen.
+Viele Menschen wollen eine eigene Firma gründen und selbständig arbeiten. Für einige Berufe braucht man in Deutschland einen besonderen Abschluss, um eine eigene Firma zu gründen. Ein Beruf ist zum Beispiel Friseurin oder Friseur. Wenn man einen eigenen Friseursalon eröffnen möchte, braucht man einen Abschluss als Meisterin oder Meister. Damit man Meisterin oder Meister werden kann, braucht man einen Berufsabschluss. Wenn man keine Meisterin oder kein Meister ist, muss man eine Meisterin oder einen Meister in seiner Firma beschäftigen.
 
 Auf der Webseite [Wir gründen in Deutschland](http://www.wir-gruenden-in-deutschland.de/) finden Sie mehr Informationen auf Deutsch, Englisch, Französisch, Polnisch, Spanisch, Ukrainisch, Tigrinya und Türkisch zum Thema Selbständigkeit.
 

@@ -106,7 +106,9 @@ Mehr Informationen finden Sie unter_ Kann ich finanzielle Hilfe für eine berufs
 
 Das Integrationsgesetz hat eine neue Regel eingeführt. Die Regel steht im Aufenthaltsgesetz \([§60a AufenthG](https://dejure.org/gesetze/AufenthG/60a.html)\).
 
-Für die Zeit einer Ausbildung kann man eine Duldung bekommen. Duldung bedeutet eine „Aussetzung der Abschiebung“. Das heißt, dass man für die Zeit der Ausbildung in Deutschland bleiben kann.
+Für die Zeit einer Ausbildung kann man eine Duldung bekommen, wenn man die Voraussetzungen erfüllt. Duldung bedeutet eine „Aussetzung der Abschiebung“. Das heißt, dass man für die Zeit der Ausbildung in Deutschland bleiben kann.
+
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln.
 
 Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 

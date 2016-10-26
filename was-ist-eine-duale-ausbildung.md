@@ -24,13 +24,14 @@ Nicht überall in Deutschland gibt es für alle Berufe Ausbildungsplätze. Das i
 
 ## Wie lange dauert eine duale Ausbildung?
 
-Eine duale Ausbildung dauert 2 bis 3,5 Jahre. Das ist abhängig von dem Beruf. Man kann eine duale Ausbildung auch verkürzen, wenn man
+Eine duale Ausbildung dauert 2 bis 3,5 Jahre. Das ist abhängig von dem Beruf. Man kann eine duale Ausbildung auch verkürzen, wenn man zum Beispiel
 
-· berufliche Erfahrungen hat,
+* berufliche Erfahrungen hat,
 
-· einen hohen Schulabschluss hat oder
+* einen hohen Schulabschluss hat oder
 
-· sehr gute Leistungen hat.
+* sehr gute Leistungen hat.
+
 
 Die Regeln stehen im Berufsbildungsgesetz \([§8 BBiG](https://www.gesetze-im-internet.de/bbig_2005/__8.html)\).
 
@@ -208,11 +209,21 @@ Ausbildungsberufe mit der Handwerkskammer \(HWK\) als zuständige Stelle:
 
 [Lehrstellen-Radar im Handwerk](http://handwerk.de/lehrstellen-radar) Die Webseite ist auf Deutsch.
 
-Es gibt noch mehr Webseiten, wo Sie nach Ausbildungen suchen können. Oft sind es dieselben Webseiten, wo Sie auch nach Arbeit suchen können.
-
-[Wie finde ich Arbeit?](#arbeit)
+Es gibt noch mehr Webseiten, wo Sie nach Ausbildungen suchen können. Oft sind es dieselben Webseiten, wo Sie auch nach Arbeit suchen können. [Wie finde ich Arbeit?](#arbeit)
 
 Manche Firmen stellen ihre Ausbildungsplätze nicht auf eine Webseite oder nur auf ihre eigene Webseite. Sie können auch in Ihrer Stadt nach Firmen suchen, die interessant für Sie sind. Sie können die Chefin oder den Chef persönlich fragen, ob Sie eine Bewerbung für eine Ausbildung abgeben können.
 
-Oft kann man auch über ein Praktikum einen Ausbildungsplatz finden. [Was ist ein Praktikum? ](#praktikum)Auch eine Einstiegsqualifizierung kann helfen, einen Ausbildungsplatz zu bekommen.
+Oft kann man auch über ein [Praktikum ](#berufliche orientierung)einen Ausbildungsplatz finden.
+
+Auch eine Einstiegsqualifizierung kann helfen, einen Ausbildungsplatz zu bekommen.
+
+Eine Einstiegsqualifizierung ist wie ein langes Praktikum in einer Firma. Man kann zum Beispiel Ausbildungsberufe und die Arbeit in einer Firma kennenlernen. Man bekommt einen Arbeitsvertrag mit der Firma. Das heißt, man bekommt etwas Geld.
+
+Die Dauer der Einstiegsqualifizierung ist 6 bis 12 Monate. Das Ziel einer Einstiegsqualifizierung ist die duale Ausbildung. Nur Firmen, die eine Ausbildung machen dürfen, dürfen eine Einstiegsqualifizierung machen.
+
+Wenn man eine Einstiegsqualifizierung gemacht hat, kann man vielleicht eine Ausbildung verkürzen. Die Regeln dazu stehen im Berufsbildungsgesetz \([§8 BBiG](https://www.gesetze-im-internet.de/bbig_2005/__8.html)\).
+
+Die Agentur für Arbeit ist verantwortlich für die Einstiegsqualifizierung. 
+
+In diesem [Video](https://www.youtube.com/watch?v=xJQ7G897JSU) können Sie sehen, wie eine Einstiegsqualifizierung funktioniert. Das Video ist auf Deutsch.
 
