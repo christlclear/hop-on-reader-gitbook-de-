@@ -12,21 +12,20 @@ Die Regeln stehen im Sozialgesetzbuch II \([SGB II](http://www.gesetze-im-intern
 
 Die Jobcenter sind zum Beispiel verantwortlich für Menschen, die
 
-· länger als 12 Monate arbeitslos sind und kein Arbeitslosengeld mehr von der Agentur für Arbeit bekommen,
+* länger als 12 Monate arbeitslos sind und kein Arbeitslosengeld mehr von der Agentur für Arbeit bekommen,
 
-· Arbeit suchen und zu wenig Geld haben,
+* Arbeit suchen und zu wenig Geld haben,
 
-· arbeiten, aber immer noch finanzielle Hilfe brauchen,
+* arbeiten, aber immer noch finanzielle Hilfe brauchen,
 
-· wenig Arbeitslosengeld bekommen oder
+* wenig Arbeitslosengeld bekommen oder
 
-· in einem Haushalt \(das heißt mit anderen Personen\) mit wenig Geld leben. Das offizielle Wort ist „Bedarfsgemeinschaft“.
+* in einem Haushalt \(das heißt mit anderen Personen\) mit wenig Geld leben. Das offizielle Wort ist „Bedarfsgemeinschaft“.
+
 
 Das Arbeitslosengeld II und die Finanzierung von Kursen und Angeboten heißen offiziell Leistungen. Man muss spezielle Voraussetzungen erfüllen, um Leistungen zu bekommen.
 
 Wenn man in eine andere Stadt umziehen will, muss man vorher mit dem Jobcenter sprechen.
-
-
 
 Das Jobcenter kann auch die verschiedenen Wege zum Berufsabschluss finanzieren, wenn man die Voraussetzungen erfüllt.
 

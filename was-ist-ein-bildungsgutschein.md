@@ -14,8 +14,6 @@ Frau A. geht zu ihrer Agentur für Arbeit oder ihrem Jobcenter und stellt einen 
 
 Wenn die Agentur für Arbeit oder das Jobcenter einverstanden ist, bekommt Frau A. einen Bildungsgutschein. Dann kann sie die Nachqualifizierung beginnen.
 
-
-
 Es gibt Regeln über die Voraussetzungen für einen Bildungsgutschein.
 
 Die Agenturen für Arbeit und die Jobcenter prüfen zum Beispiel folgende Fragen
@@ -44,11 +42,12 @@ Frau K. möchte eine Umschulung zur Servicekauffrau im Luftverkehr machen. Sie h
 
 Sie möchte einen Antrag für eine Finanzierung bei ihrem Jobcenter stellen. Sie spricht mit ihrer Beraterin im Jobcenter. Außerdem schreibt Sie einen formalen Brief. In dem Brief beschreibt sie
 
-· warum sie einen Berufsabschluss machen möchte,
+* warum sie einen Berufsabschluss machen möchte,
 
-· warum sie sich für den Beruf als Servicekauffrau im Luftverkehr entschieden hat, und
+* warum sie sich für den Beruf als Servicekauffrau im Luftverkehr entschieden hat, und
 
-· dass sie verschiedene Arbeitsstellen in dem Beruf im Internet gefunden hat.
+* dass sie verschiedene Arbeitsstellen in dem Beruf im Internet gefunden hat.
+
 
 Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Für Erwachsene, ohne Berufsabschluss ist ein Kurs mit dem Ziel Berufsabschluss nach dem Gesetz notwendig.
 

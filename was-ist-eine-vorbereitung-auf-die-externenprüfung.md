@@ -4,9 +4,7 @@ Externenprüfung bedeutet, dass man nicht über eine Ausbildung zur Abschlusspr�
 
 Die Regeln für die Externenprüfung stehen im Berufsbildungsgesetz \([§45 BBiG](https://www.gesetze-im-internet.de/bbig_2005/__45.html)\). Eine Vorbereitung auf die Externenprüfung gibt es in dieser Form nur für Berufe mit dualer Ausbildung.
 
-Eine Externenprüfung ist nur für Erwachsene, die
-
-· berufliche Erfahrungen in dem Beruf haben, in dem sie einen Berufsabschluss machen möchten. Berufliche Erfahrungen sind zum Beispiel Arbeit, eine abgebrochene Ausbildung oder ein abgebrochenes Studium.
+Eine Externenprüfung ist nur für Erwachsene mit beruflichen Erfahrungen in dem Beruf, in dem sie einen Berufsabschluss machen möchten. Berufliche Erfahrungen sind zum Beispiel Arbeit, eine abgebrochene Ausbildung oder ein abgebrochenes Studium.
 
 Die Anzahl der Jahre der beruflichen Erfahrung ist abhängig von der Dauer der Ausbildung. Wenn eine Ausbildung 3 Jahre dauert, muss man 4,5 Jahre berufliche Erfahrung haben.
 
@@ -36,7 +34,7 @@ In Berufen mit schulischer Ausbildung gibt es andere Regeln. Die Regeln sind unt
 
 ## Wie lange dauert eine Vorbereitung auf die Externenprüfung?
 
-Das ist abhängig von der Form der Vorbereitung.
+Die Dauer ist abhängig von der Form der Vorbereitung.
 
 Wenn man sich alleine vorbereitet, kann man selber die Dauer bestimmen.
 
@@ -100,9 +98,10 @@ Kurse zur Vorbereitung auf die Externenprüfung kosten Geld.
 
 Die Agentur für Arbeit ist verantwortlich. Die Agentur für Arbeit kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn man die Voraussetzungen erfüllt. Eine Voraussetzung ist, dass Sie
 
-· mindestens seit 3 Monaten in Deutschland leben und
+* mindestens seit 3 Monaten in Deutschland leben und
 
-· eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen können.
+* eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen können.
+
 
 Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 

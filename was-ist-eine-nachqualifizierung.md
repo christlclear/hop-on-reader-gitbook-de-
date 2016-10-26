@@ -6,11 +6,12 @@ Nachqualifizierung ist nur für Erwachsene mit beruflichen Erfahrungen in dem Be
 
 Berufliche Erfahrungen können sein:
 
-· praktische Erfahrungen durch Arbeit,
+* praktische Erfahrungen durch Arbeit,
 
-· abgebrochene Ausbildung oder
+* abgebrochene Ausbildung oder
 
-· abgebrochenes Studium.
+* abgebrochenes Studium.
+
 
 Wenn man schon viele Erfahrungen und viel Wissen hat, muss man nicht an allen Modulen teilnehmen. Die Module werden am Anfang der Nachqualifizierung geplant. Eine Ausbilderin oder ein Ausbilder prüft, was man schon kann und weiß. Das heißt, man kann zeigen, was man in der Praxis kann und in der Theorie über den Beruf weiß. Das Ergebnis kann auch sein, dass eine Nachqualifizierung nicht der passende Weg zum Berufsabschluss ist.
 
@@ -104,13 +105,14 @@ Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei
 
 Ja. Aber es gibt zwei Faktoren, die Einfluss auf die Teilnahme haben.
 
-1. Aufenthalt
+### 1. Aufenthalt
 
 Man kann eine Nachqualifizierung machen, wenn man:
 
-· mindestens seit 3 Monaten in Deutschland lebt und
+* mindestens seit 3 Monaten in Deutschland lebt und
 
-· eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann.
+* eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann.
+
 
 Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
@@ -122,7 +124,7 @@ Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder 
 
 Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
-1. Finanzierung
+### 2. Finanzierung
 
 Nachqualifizierungen werden von Bildungsinstituten organisiert. Das heißt, eine Nachqualifizierung kostet Geld. Die Agentur für Arbeit ist verantwortlich. Die Agentur für Arbeit kann eine Nachqualifizierung finanzieren. Wenn die Nachqualifizierung genau so lange dauert wie die Aufenthaltsgestattung oder Duldung, kann das gegen eine Finanzierung sprechen. Eine Möglichkeit ist die Teilnahme an einzelnen Modulen.
 

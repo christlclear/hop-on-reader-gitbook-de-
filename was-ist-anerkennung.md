@@ -4,11 +4,12 @@ Anerkennung oder anerkennen heißt, dass man einen Abschluss aus einem anderen L
 
 Verfahren zur Anerkennung gibt es für
 
-· Schulabschlüsse,
+* Schulabschlüsse,
 
-· Berufsabschlüsse und
+* Berufsabschlüsse und
 
-· einige akademische Abschlüsse.
+* einige akademische Abschlüsse.
+
 
 Für die meisten akademischen Berufe braucht man keine Anerkennung des Abschlusses, damit man in dem Beruf in Deutschland arbeiten kann. Für manche akademischen Berufe braucht man aber eine Anerkennung, damit man in dem Beruf in Deutschland arbeiten darf – zum Beispiel Medizinerin und Mediziner, Lehrerin und Lehrer oder Juristin und Jurist. Diese Berufe heißen reglementierte Berufe.
 
@@ -22,9 +23,10 @@ Sie können Ihren Schulabschluss aus einem anderen Land in Deutschland anerkenne
 
 Anerkennen oder Anerkennung heißt, man vergleicht den Schulabschluss aus einem anderen Land mit den deutschen Schulabschlüssen. Dabei wird zum Beispiel geprüft
 
-· wie viele Jahre Sie in der Schule waren und
+* wie viele Jahre Sie in der Schule waren und
 
-· welche und wie viele Fremdsprachen Sie in der Schule gelernt haben.
+* welche und wie viele Fremdsprachen Sie in der Schule gelernt haben.
+
 
 In der Datenbank [anabin](http://anabin.kmk.org/no_cache/filter/anerkennungs-und-beratungsstellen-in-deutschland.html) können Sie nach der richtigen Institution \(zuständige Stelle\) in Ihrer Region suchen. Die Seite ist auf Deutsch. Unter „Suche nach anderen Stellen“ muss man „Zeugnisanerkennung Hauptschulabschluss, Mittlerer Schulabschluss“ auswählen.
 
@@ -40,13 +42,14 @@ Auf der Webseite [Anerkennung in Deutschland](https://www.anerkennung-in-deutsch
 
 Der erste Schritt ist ein Termin bei der Anerkennungsberatung im Förderprogramm IQ. Dort können Sie erfahren,
 
-· ob es in Deutschland einen ähnlichen Ausbildungsberuf gibt \(Referenzberuf\),
+* ob es in Deutschland einen ähnlichen Ausbildungsberuf gibt \(Referenzberuf\),
 
-· ob eine Anerkennung notwendig oder sinnvoll ist,
+* ob eine Anerkennung notwendig oder sinnvoll ist,
 
-· welche Dokumente Sie brauchen und
+* welche Dokumente Sie brauchen und
 
-· wer für die Anerkennung Ihrer Ausbildung und Zeugnisse verantwortlich ist \(zuständige Stelle\).
+* wer für die Anerkennung Ihrer Ausbildung und Zeugnisse verantwortlich ist \(zuständige Stelle\).
+
 
 Sie können sich auch informieren, wenn Sie keine Zeugnisse Ihrer Ausbildung mitgebracht haben.
 
@@ -126,9 +129,10 @@ Wenn Sie noch nicht bei der Agentur für Arbeit registriert sind, können Sie si
 
 Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, müssen Sie für eine Finanzierung durch die Agentur für Arbeit spezielle Voraussetzungen erfüllen. Meistens müssen Sie
 
-· seit mindestens 3 Monaten in Deutschland leben und
+* seit mindestens 3 Monaten in Deutschland leben und
 
-· eine Beschäftigungserlaubnis bekommen können. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass Sie arbeiten dürfen.
+* eine Beschäftigungserlaubnis bekommen können. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass Sie arbeiten dürfen.
+
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“. Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 

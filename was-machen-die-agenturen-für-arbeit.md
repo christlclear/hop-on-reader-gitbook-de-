@@ -4,25 +4,25 @@ Es gibt eine Bundesagentur für Arbeit. Die Bundesagentur für Arbeit besteht au
 
 Die Agenturen für Arbeit haben verschiedene Aufgaben. Die Agenturen für Arbeit sind zum Beispiel verantwortlich für die Beratung von Menschen, die
 
-· Arbeit suchen oder einen Berufsabschluss machen wollen, aber kein Geld vom Jobcenter bekommen,
+* Arbeit suchen oder einen Berufsabschluss machen wollen, aber kein Geld vom Jobcenter bekommen,
 
-· Informationen zu beruflichen Möglichkeiten und Ausbildungsberufen brauchen,
+* Informationen zu beruflichen Möglichkeiten und Ausbildungsberufen brauchen,
 
-· arbeiten, aber bald arbeitslos werden. Das kann möglich sein, wenn man zum Beispiel einen Vertrag bei einer Firma für 1 Jahr hat. Das nennt man befristeten Arbeitsvertrag.
+* arbeiten, aber bald arbeitslos werden. Das kann möglich sein, wenn man zum Beispiel einen Vertrag bei einer Firma für 1 Jahr hat. Das nennt man befristeten Arbeitsvertrag.
+
 
 Die Agenturen für Arbeit sind auch verantwortlich für das Arbeitslosengeld. Arbeitslosengeld kann man bekommen, wenn man
 
-· arbeitslos ist und
-
-· mindestens 1 Jahr sozialversicherungspflichtig in Deutschland gearbeitet hat.
+arbeitslos ist und vorher mindestens 1 Jahr sozialversicherungspflichtig in Deutschland gearbeitet hat.
 
 Sozialversicherungspflichtig heißt:
 
-· man hat einen Vertrag mit einer Firma,
+* man hat einen Vertrag mit einer Firma,
 
-· die Firma bezahlt bestimmte Versicherungen \(zum Beispiel Krankenversicherung, Sozialversicherung\), und
+* die Firma bezahlt bestimmte Versicherungen \(zum Beispiel Krankenversicherung, Sozialversicherung\), und
 
-· man bekommt für eine Arbeit mehr als 450 Euro im Monat.
+* man bekommt für eine Arbeit mehr als 450 Euro im Monat.
+
 
 Es gibt verschiedene Formen von Arbeit. Ein Minijob oder eine selbständige Arbeit sind zum Beispiel keine sozialversicherungspflichtige Arbeit. Bei einer selbständigen Arbeit kann man freiwillig Sozialversicherung bezahlen.
 
@@ -30,15 +30,16 @@ Die Beratung, das Arbeitslosengeld und die Finanzierung von Kursen und Angeboten
 
 Andere Leistungen der Agenturen für Arbeit sind zum Beispiel:
 
-· finanzielle Hilfe in der Berufsausbildung \([Berufsausbildungsbeihilfe](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Ausbildung/FinanzielleHilfen/Berufsausbildungsbeihilfe/Detail/index.htm?dfContentId=L6019022DSTBAI485769)\),
+* finanzielle Hilfe in der Berufsausbildung \([Berufsausbildungsbeihilfe](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Ausbildung/FinanzielleHilfen/Berufsausbildungsbeihilfe/Detail/index.htm?dfContentId=L6019022DSTBAI485769)\),
 
-· [Einstiegsqualifizierung](https://www.arbeitsagentur.de/web/content/DE/Unternehmen/Ausbildung/Ausbildungsvorbereitung/Einstiegsqualifizierung/Detail/index.htm?dfContentId=L6019022DSTBAI516577) zur Vorbereitung auf eine duale Ausbildung,
+* [Einstiegsqualifizierung](https://www.arbeitsagentur.de/web/content/DE/Unternehmen/Ausbildung/Ausbildungsvorbereitung/Einstiegsqualifizierung/Detail/index.htm?dfContentId=L6019022DSTBAI516577) zur Vorbereitung auf eine duale Ausbildung,
 
-· Nachhilfe in einer Ausbildung \([ausbildungsbegleitende Hilfen](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Ausbildung/FinanzielleHilfen/FoerderungderBerufsausbildung/Detail/index.htm?dfContentId=L6019022DSTBAI515290)\),
+* Nachhilfe in einer Ausbildung \([ausbildungsbegleitende Hilfen](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Ausbildung/FinanzielleHilfen/FoerderungderBerufsausbildung/Detail/index.htm?dfContentId=L6019022DSTBAI515290)\),
 
-· Beratung von Firmen \([Arbeitgeberservice](https://www.arbeitsagentur.de/web/content/DE/Unternehmen/Detail/index.htm?dfContentId=L6019022DSTBAI494847)\),
+* Beratung von Firmen \([Arbeitgeberservice](https://www.arbeitsagentur.de/web/content/DE/Unternehmen/Detail/index.htm?dfContentId=L6019022DSTBAI494847)\),
 
-· Bezahlung von Prämien für Zwischenprüfungen und Abschlussprüfungen. Die Regeln stehen im Sozialgesetzbuch \([131a SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/131a.html)\). Diese Prämie kann man bekommen, wenn man an einem Kurs teilnimmt, der von der Agentur für Arbeit oder dem Jobcenter finanziert wird. Der Kurs muss einen Berufsabschluss zum Ziel haben – wie zum Beispiel eine Umschulung. Diese Kurse gehören zu den Maßnahmen zur Förderung der beruflichen Weiterbildung \(FbW\). Mehr Informationen gibt es auf der [Webseite der Bundesagentur für Arbeit](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Weiterbildung/Foerdermoeglichkeiten/Hauptschulabschluss/Detail/index.htm?dfContentId=L6019022DSTBAI518201). Für die Teilnahme braucht man einen Bildungsgutschein.
+* Bezahlung von Prämien für Zwischenprüfungen und Abschlussprüfungen. Die Regeln stehen im Sozialgesetzbuch \([131a SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/131a.html)\). Diese Prämie kann man bekommen, wenn man an einem Kurs teilnimmt, der von der Agentur für Arbeit oder dem Jobcenter finanziert wird. Der Kurs muss einen Berufsabschluss zum Ziel haben – wie zum Beispiel eine Umschulung. Diese Kurse gehören zu den Maßnahmen zur Förderung der beruflichen Weiterbildung \(FbW\). Mehr Informationen gibt es auf der [Webseite der Bundesagentur für Arbeit](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Weiterbildung/Foerdermoeglichkeiten/Hauptschulabschluss/Detail/index.htm?dfContentId=L6019022DSTBAI518201). Für die Teilnahme braucht man einen Bildungsgutschein.
+
 
 [Was ist ein Bildungsgutschein?](#bildungsgutschein)
 
@@ -58,17 +59,18 @@ In den meisten Bundesländern oder Regionen Deutschlands gibt es diese Vorrangpr
 
 Sie können sich bei der Agentur für Arbeit als „arbeitsuchend“ melden. Sie bekommen kein Arbeitslosengeld, aber Sie können sich beraten lassen.
 
- Mit der Registrierung können Sie von der Agentur für Arbeit finanzielle Hilfe bekommen zum Beispiel für:
+Mit der Registrierung können Sie von der Agentur für Arbeit finanzielle Hilfe bekommen zum Beispiel für:
 
-· Übersetzungen Ihrer Zeugnisse,
+* Übersetzungen Ihrer Zeugnisse,
 
-· Anerkennung Ihrer Abschlüsse,
+* Anerkennung Ihrer Abschlüsse,
 
-· Kurse zu beruflichen Orientierung,
+* Kurse zu beruflichen Orientierung,
 
-· Bewerbungstrainings oder
+* Bewerbungstrainings oder
 
-· Kurse bei Bildungsinstituten.
+* Kurse bei Bildungsinstituten.
+
 
 Man muss spezielle Voraussetzungen erfüllen, um diese finanziellen Hilfen zu bekommen. Das Ziel einer finanziellen Hilfe ist immer, dass man eine Arbeitsstelle findet.
 
@@ -77,6 +79,4 @@ Die Agentur für Arbeit kann auch die verschiedenen Wege zum Berufsabschluss fin
 Jedes Jahr analysieren die Agenturen für Arbeit zusammen mit anderen Institutionen auch den regionalen Arbeitsmarkt. Sie planen, welche Kurse besonders wichtig sind für die Region. Diese Kurse findet man in der „Bildungszielplanung“. Für diese Kurse ist es einfacher, eine Finanzierung zu bekommen. Die Bestätigung über eine Finanzierung heißt Bildungsgutschein.
 
 Mehr Informationen finden Sie unter [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung) und [Was ist ein Bildungsgutschein?](#bildungsgutschein)
-
-
 

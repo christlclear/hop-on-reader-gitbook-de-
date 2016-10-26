@@ -14,11 +14,12 @@ Diese Wege zum Berufsabschluss gibt es für Erwachsene.
 
 Die verschiedenen Wege sind kein Ersatz für eine Ausbildung. Erwachsene haben aber oft berufliche Erfahrungen und brauchen andere Formen des Lernens. Die Wege sind zum Beispiel eine Möglichkeit für Erwachsene:
 
-· mit beruflichen Erfahrungen in dem Beruf, in dem sie einen Berufsabschluss machen wollen,
+* mit beruflichen Erfahrungen in dem Beruf, in dem sie einen Berufsabschluss machen wollen,
 
-· die in dem Beruf arbeiten, in dem sie einen Berufsabschluss machen möchten, oder
+* die in dem Beruf arbeiten, in dem sie einen Berufsabschluss machen möchten, oder
 
-· die keinen Ausbildungsplatz finden.
+* die keinen Ausbildungsplatz finden.
+
 
 Manche Wege zum Berufsabschluss gibt es nicht für alle Berufe und nicht in allen Regionen in Deutschland. Ein Grund ist zum Beispiel, dass es für viele Berufe zu wenig Nachfrage von Personen oder dem Arbeitsmarkt gibt.
 
@@ -26,11 +27,12 @@ Für jeden Weg muss man Voraussetzungen erfüllen. Es gibt auch viele Regeln zum
 
 Meistens kann man finanzielle Hilfe bekommen. Das ist zum Beispiel abhängig davon, ob
 
-· man arbeitet oder arbeitslos ist,
+* man arbeitet oder arbeitslos ist,
 
-· man bei der Agentur für Arbeit oder dem Jobcenter registriert ist oder
+* man bei der Agentur für Arbeit oder dem Jobcenter registriert ist oder
 
-· welchen Aufenthaltsstatus man hat.
+* welchen Aufenthaltsstatus man hat.
+
 
 Wir möchten hier Antworten auf mögliche Fragen zu den Wegen geben.
 

@@ -4,15 +4,16 @@ Eine betriebliche Umschulung ist eine Umschulung in einer Firma. Wie in einer du
 
 Die Theorie lernt man in einer Berufsschule oder einem Bildungsinstitut.
 
-Wie eine Umschulung ist eine betriebliche Umschulung für Erwachsene, die einen Beruf neu lernen. Die Gründe für Erwachsene sind dieselben wie bei einer Umschulung. Zum Beispiel, weil sie:
+Wie eine Umschulung ist eine betriebliche Umschulung für Erwachsene, die einen Beruf neu lernen. Die Gründe für Erwachsene sind dieselben wie bei einer Umschulung. Zum Beispiel, weil sie
 
-· nicht mehr in ihrem Beruf arbeiten können. Zum Beispiel, wenn sie Probleme mit der Gesundheit haben.
+* nicht mehr in ihrem Beruf arbeiten können. Zum Beispiel, wenn sie Probleme mit der Gesundheit haben.
 
-· nicht genug berufliche Erfahrungen für eine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung haben.
+* nicht genug berufliche Erfahrungen für eine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung haben.
 
-· in einer Region wohnen, wo es keine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung gibt.
+* in einer Region wohnen, wo es keine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung gibt.
 
-· einen Beruf lernen möchten, in dem es keine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung gibt.
+* einen Beruf lernen möchten, in dem es keine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung gibt.
+
 
 Betriebliche Umschulung ist kürzer als eine duale Ausbildung. Man beginnt nicht in dem ersten Jahr der Ausbildung, sondern im zweiten Jahr. Am Ende macht man dieselbe Abschlussprüfung wie nach einer Ausbildung.
 
@@ -98,9 +99,10 @@ Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei
 
 Ja. Man kann eine betriebliche Umschulung machen, wenn man
 
-· mindestens seit 3 Monaten in Deutschland lebt.
+* mindestens seit 3 Monaten in Deutschland lebt.
 
-· eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann.
+* eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann.
+
 
 Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf. Weil man in einer betrieblichen Umschulung in einer Firma arbeitet, braucht man die Beschäftigungserlaubnis auch für die betriebliche Umschulung.
 

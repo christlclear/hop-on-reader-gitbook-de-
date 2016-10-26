@@ -6,9 +6,10 @@ In wenigen Berufen mit schulischer Ausbildung gibt es die Möglichkeit, die Ausb
 
 Berufsbegleitende Ausbildung ist nur für Erwachsene, die
 
-· berufliche Erfahrungen in dem Beruf haben, in dem sie einen Berufsabschluss machen möchten, und
+* berufliche Erfahrungen in dem Beruf haben, in dem sie einen Berufsabschluss machen möchten, und
 
-· Arbeit in dem Beruf haben oder finden, in dem sie einen Berufsabschluss machen möchten. Meistens gibt es eine Regel, wie viele Stunden man in der Woche arbeiten muss.
+* Arbeit in dem Beruf haben oder finden, in dem sie einen Berufsabschluss machen möchten. Meistens gibt es eine Regel, wie viele Stunden man in der Woche arbeiten muss.
+
 
 Berufsbegleitende Ausbildung ist organisiert wie eine duale Ausbildung.
 

@@ -8,11 +8,11 @@ Nichtschülerprüfung bedeutet dasselbe wie Externenprüfung. Das heißt, dass m
 
 Eine Vorbereitung auf die Nichtschülerprüfung ist nur für Erwachsene, die
 
-· einen Schulabschluss haben. Meistens braucht man mindestens einen Mittleren Schulabschluss.
+* einen Schulabschluss haben. Meistens braucht man mindestens einen Mittleren Schulabschluss.
 
 und\/oder
 
-· einen Berufsabschluss in einem anderen Beruf haben. Manchmal zählen auch mehrere Jahre berufliche Erfahrungen.
+* einen Berufsabschluss in einem anderen Beruf haben. Manchmal zählen auch mehrere Jahre berufliche Erfahrungen.
 
 Es gibt viele Voraussetzungen, die man erfüllen muss.
 

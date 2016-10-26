@@ -59,7 +59,7 @@ Ja. Sie können arbeiten, wenn Sie
 * eine Beschäftigungserlaubnis von Ihrer Ausländerbehörde bekommen können.
 
 
-Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
+Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf. Meistens kann man die Beschäftigungserlaubnis bekommen, wenn man 3 Monate in Deutschland lebt. Aber manchmal können es auch 6 Monate sein, wenn man noch in einer Erstaufnahmeeinrichtung wohnen muss.
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 

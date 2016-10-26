@@ -6,21 +6,23 @@ Berufsbegleitend heißt, dass man weiter arbeitet und dasselbe Geld verdient. Ne
 
 Berufsbegleitende Nachqualifizierung ist für Erwachsene, die
 
-· berufliche Erfahrungen in dem Beruf haben, in dem sie einen Berufsabschluss machen möchten. Berufliche Erfahrungen sind zum Beispiel Arbeit, eine abgebrochene Ausbildung oder ein abgebrochenes Studium.
+* berufliche Erfahrungen in dem Beruf haben, in dem sie einen Berufsabschluss machen möchten. Berufliche Erfahrungen sind zum Beispiel Arbeit, eine abgebrochene Ausbildung oder ein abgebrochenes Studium.
 
-· sozialversicherungspflichtig in dem Beruf arbeiten, in dem sie einen Berufsabschluss machen möchten.
+* sozialversicherungspflichtig in dem Beruf arbeiten, in dem sie einen Berufsabschluss machen möchten.
+
 
 Sozialversicherungspflichtig heißt:
 
-· man hat einen Vertrag mit einer Firma,
+* man hat einen Vertrag mit einer Firma,
 
-· die Firma bezahlt bestimmte Versicherungen \(zum Beispiel Krankenversicherung, Sozialversicherung\), und
+* die Firma bezahlt bestimmte Versicherungen \(zum Beispiel Krankenversicherung, Sozialversicherung\), und
 
-· man bekommt für die Arbeit mehr als 450 Euro im Monat.
+* man bekommt für die Arbeit mehr als 450 Euro im Monat.
+
 
 Es gibt verschiedene Formen von Arbeit. Ein Minijob oder eine selbständige Arbeit sind zum Beispiel keine sozialversicherungspflichtige Arbeit.
 
-In manchen Angeboten vom Bundesland gibt es Ausnahmen von der Regel zur sozialversicherungspflichtigen Arbeit.
+In manchen Angeboten eines Bundeslandes gibt es Ausnahmen von der Regel zur sozialversicherungspflichtigen Arbeit.
 
 In diesem [Video](https://www.youtube.com/watch?v=tIAGtossFkc) wird berufsbegleitende Nachqualifizierung ohne Sprache erklärt.
 
@@ -165,6 +167,4 @@ Es gibt keine Webseite, wo man alle berufsbegleitenden Nachqualifizierungen in D
 In einer Bildungsberatung kann man sich informieren. Manchmal gibt es auch spezielle Beratungsstellen für Nachqualifizierung.
 
 [Wo finde ich Beratungsangebote und Projekte?](#beratung)
-
-
 

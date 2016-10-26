@@ -1,14 +1,15 @@
 # Was ist eine Umschulung?
 
-In einer Umschulung erlernt man einen neuen Beruf. Es gibt verschiedene Gründe, warum Erwachsene eine Umschulung machen. Zum Beispiel, weil sie:
+In einer Umschulung erlernt man einen neuen Beruf. Es gibt verschiedene Gründe, warum Erwachsene eine Umschulung machen. Zum Beispiel, weil sie
 
-· nicht mehr in ihrem Beruf arbeiten können. Zum Beispiel, wenn sie Probleme mit der Gesundheit haben.
+* nicht mehr in ihrem Beruf arbeiten können. Zum Beispiel, wenn sie Probleme mit der Gesundheit haben.
 
-· nicht genug berufliche Erfahrungen für eine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung haben.
+* nicht genug berufliche Erfahrungen für eine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung haben.
 
-· in einer Region wohnen, wo es keine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung gibt.
+* in einer Region wohnen, wo es keine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung gibt.
 
-· einen Beruf lernen möchten, in dem es keine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung gibt.
+* einen Beruf lernen möchten, in dem es keine Nachqualifizierung oder eine Vorbereitung auf die Externenprüfung gibt.
+
 
 Eigentlich ist eine Umschulung für Erwachsene mit Berufsabschluss, die einen neuen Beruf lernen müssen. Man kann aber auch eine Umschulung machen, wenn man keinen Berufsabschluss hat.
 
@@ -92,9 +93,10 @@ Ja. Aber es gibt zwei Faktoren, die Einfluss auf die Möglichkeit der Teilnahme 
 
 Man kann eine Umschulung machen, wenn man
 
-· mindestens seit 3 Monaten in Deutschland lebt
+* mindestens seit 3 Monaten in Deutschland lebt
 
-· eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann.
+* eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann.
+
 
 Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
