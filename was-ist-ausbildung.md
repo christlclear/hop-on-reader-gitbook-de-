@@ -14,11 +14,12 @@ Schulische Ausbildung heißt, man lernt einen Beruf vor allem in einer spezielle
 
 Jeder Beruf hat eine Ausbildungsordnung. In der schulischen Ausbildung heißt das manchmal Verordnung. In der Ausbildungsordnung oder Verordnung steht zum Beispiel:
 
-· was man lernen muss,
+* was man lernen muss,
 
-· wie lange man lernen muss und
+* wie lange man lernen muss und
 
-· was man in der Abschlussprüfung wissen muss.
+* was man in der Abschlussprüfung wissen muss.
+
 
 Die Abschlussprüfung findet bei der zuständigen Stelle statt. Eine zuständige Stelle ist die Institution, die für einen bestimmten Beruf und die Prüfungen verantwortlich ist.
 
@@ -30,13 +31,12 @@ Die zuständigen Stellen für Berufe mit schulischen Ausbildungen haben ganz unt
 
 In den Berufsschulen und Fachschulen hat man Unterricht in beruflichen Fächern und in allgemein bildenden Fächern. Die allgemein bildenden Fächer sind zum Beispiel:
 
-· Mathematik
+* Mathematik
 
-· Deutsch
+* Deutsch
 
-· Wirtschaft
+* Wirtschaft
 
-· Sozialkunde
+* Sozialkunde
 
- 
 
