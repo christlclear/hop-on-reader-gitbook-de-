@@ -116,9 +116,10 @@ Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberat
 
 Ja. Man kann eine duale Ausbildung machen, wenn man
 
-· mindestens seit 3 Monaten in Deutschland lebt und
+* mindestens seit 3 Monaten in Deutschland lebt und
 
-· eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann.
+* eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann.
+
 
 Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf. Weil man in einer dualen Ausbildung in einer Firma arbeitet, braucht man die Beschäftigungserlaubnis auch für die Ausbildung.
 
@@ -126,7 +127,7 @@ In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz
 
 Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland)) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
 ## Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich für die Zeit der dualen Ausbildung eine Aufenthaltserlaubnis bekommen?
 
@@ -186,6 +187,7 @@ Die Suche nach einer dualen Ausbildung funktioniert wie die Suche nach Arbeit:
 
 3. Man muss eine Bewerbung schreiben. [Was ist eine Bewerbung?](#bewerbung)
 
+
 Duale Ausbildungen beginnen meistens zweimal im Jahr - im Februar\/März oder im August\/September. Die meisten dualen Ausbildungen beginnen im August\/September.
 
 Hier finden Sie einige Webseiten, wo Sie nach Ausbildungsplätzen suchen können:
@@ -213,6 +215,4 @@ Es gibt noch mehr Webseiten, wo Sie nach Ausbildungen suchen können. Oft sind e
 Manche Firmen stellen ihre Ausbildungsplätze nicht auf eine Webseite oder nur auf ihre eigene Webseite. Sie können auch in Ihrer Stadt nach Firmen suchen, die interessant für Sie sind. Sie können die Chefin oder den Chef persönlich fragen, ob Sie eine Bewerbung für eine Ausbildung abgeben können.
 
 Oft kann man auch über ein Praktikum einen Ausbildungsplatz finden. [Was ist ein Praktikum? ](#praktikum)Auch eine Einstiegsqualifizierung kann helfen, einen Ausbildungsplatz zu bekommen.
-
-
 
