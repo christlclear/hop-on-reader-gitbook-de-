@@ -102,7 +102,7 @@ Die Agentur für Arbeit kann eine Vorbereitung auf die Nichtschülerprüfung fin
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“. Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung)
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung)
 
 Mit einer Aufenthaltsgestattung oder Duldung ist es schwer, eine Finanzierung durch die Agentur für Arbeit zu bekommen. Wenn die Dauer Ihrer Aufenthaltsgestattung oder Duldung kürzer als die Vorbereitung auf die Nichtschülerprüfung ist, kann das gegen eine Finanzierung sprechen.
 
@@ -132,7 +132,7 @@ Es gibt verschiedene Möglichkeiten für die Finanzierung:
 
 Sie können Ihre Chefin oder Ihren Chef fragen, ob die Firma die Vorbereitung auf die Nichtschülerprüfung bezahlt. Fortbildungen können in Deutschland von der Firma bezahlt werden. Der Vorteil für die Firma ist, dass man mit einem Berufsabschluss als Fachkraft arbeiten kann.
 
-2. Finanzierung durch die Agentur für Arbeit
+1. Finanzierung durch die Agentur für Arbeit
 
 Sie können einen Antrag bei der Agentur für Arbeit zusammen mit Ihrer Chefin oder Ihrem Chef stellen. Ein Programm für die Finanzierung von berufsbegleitender Qualifizierung heißt [WeGebAU](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Weiterbildung/Foerdermoeglichkeiten/Beschaeftigtenfoerderung/index.htm).
 

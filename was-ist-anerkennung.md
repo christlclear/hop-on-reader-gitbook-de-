@@ -132,13 +132,11 @@ Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, müssen Sie für eine Fi
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“. Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung)
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung)
 
 Das Förderprogramm IQ hat viele Angebote für Personen, die einen Abschluss anerkennen lassen. Auf der [Webseite](http://www.netzwerk-iq.de/anerkennung/beratung.html) des Förderprogramms IQ können Sie nach einer Beratungsstelle in Ihrer Nähe suchen. Die Webseite ist auf Deutsch.
 
 Hier finden Sie eine [App](https://www.anerkennung-in-deutschland.de/html/de/app.php), wo Sie wichtige Informationen auf Englisch, Arabisch, Dari, Farsi, Tigrinya und Paschtu finden. Sie können auch mit der App auch eine Beratungsstelle in Ihrer Nähe finden.
 
 Manchmal kann auch das Bundesland einige Kosten der Anerkennung finanzieren. Hier finden Sie Informationen für [Baden-Württemberg](http://ikubiz.de/weiterbildung/stipendienprogramm-berufliche-anerkennung/), [Berlin](https://www.anerkennung-in-deutschland.de/html/de/news_2497.php) und [Hamburg](http://www.hamburg.de/migranten/nofl/2668894/anerkennung-abschluesse.html).
-
-
 

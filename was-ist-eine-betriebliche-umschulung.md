@@ -108,7 +108,7 @@ In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz
 
 Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
 ## Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich für die Zeit der betrieblichen Umschulung eine Aufenthaltserlaubnis bekommen?
 
@@ -152,9 +152,10 @@ Die Suche nach einer betrieblichen Umschulung funktioniert wie die Suche nach ei
 
 2. Man muss eine Firma finden, bei der man eine betriebliche Umschulung machen kann. Man kann nicht in jeder Firma eine betriebliche Umschulung machen. Eine Firma muss verschiedene Voraussetzungen erfüllen. Zum Beispiel muss in der Firma eine Ausbilderin oder ein Ausbilder für den Ausbildungsberuf arbeiten.
 
+
 Viele Firmen wissen nicht, wie betriebliche Umschulung funktioniert. Hilfe kann man bei der Agentur für Arbeit oder dem Jobcenter bekommen.
 
-3. Man muss eine Bewerbung schreiben. [Was ist eine Bewerbung?](#bewerbung) Bei der betrieblichen Umschulung braucht man eine gute Argumentation, warum man die Ausbildung in weniger Zeit machen will und kann.
+1. Man muss eine Bewerbung schreiben. [Was ist eine Bewerbung?](#bewerbung) Bei der betrieblichen Umschulung braucht man eine gute Argumentation, warum man die Ausbildung in weniger Zeit machen will und kann.
 
 Eine betriebliche Umschulung beginnt meistens zur selben Zeit wie eine duale Ausbildung. Das heißt zweimal im Jahr - im Februar\/März oder im August\/September. Meistens kann man im August\/September beginnen.
 

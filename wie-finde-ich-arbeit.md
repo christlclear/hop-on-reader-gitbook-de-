@@ -40,7 +40,7 @@ Viele Firmen stellen ihre freien Arbeitsstellen nicht auf eine Webseite oder nur
 
 Sehr oft findet man eine Arbeitsstelle durch persönliche Kontakte. Erzählen Sie allen Bekannten, dass Sie eine Arbeitsstelle suchen.
 
-Oft kann man auch über ein Praktikum eine Arbeitsstelle finden. Mehr Informationen zum Thema Praktikum finden Sie [hier](#orientierung).
+Oft kann man auch über ein Praktikum eine Arbeitsstelle finden. 
 
 ## 3. Initiativbewerbung
 
@@ -50,7 +50,7 @@ Sie können auch in Ihrer Stadt nach Firmen suchen, die interessant für Sie sin
 
 Es gibt keine Regel für die Deutschkenntnisse.
 
-Wenn Sie nur wenige Deutschkenntnisse haben, ist es schwer, Arbeit zu finden. Es gibt nur wenige Arbeitsstellen, wo man keine Deutschkenntnisse braucht. 
+Wenn Sie nur wenige Deutschkenntnisse haben, ist es schwer, Arbeit zu finden. Es gibt nur wenige Arbeitsstellen, wo man keine Deutschkenntnisse braucht.
 
 ### _Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich arbeiten?_
 
@@ -66,7 +66,7 @@ In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz
 
 Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
 In manchen Bundesländern oder Regionen Deutschlands gibt es eine spezielle Prüfung durch die Agentur für Arbeit, wenn Sie weniger als 15 Monate in Deutschland leben. Die Prüfung heißt Vorrangprüfung.
 
