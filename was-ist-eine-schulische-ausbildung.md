@@ -140,7 +140,7 @@ Diese Regel ist nur gültig für Ausbildungen, die mindestens 2 Jahre dauern.
 
 Mit einer Arbeit als Fachkraft kann man danach eine Aufenthaltserlaubnis für zunächst 2 Jahre bekommen.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln.
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln.
 
 Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
@@ -212,6 +212,4 @@ Bei „Bildungsbereich“ muss man „Berufsausbildung\/Umschulung“ auswählen
 Man kann sich auch persönlich in einer Beratung informieren.
 
 [Wo finde ich Beratungsangebote und Projekte?](#beratung)
-
-
 
