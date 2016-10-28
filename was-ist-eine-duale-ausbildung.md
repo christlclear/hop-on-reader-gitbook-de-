@@ -156,7 +156,7 @@ In einer dualen Ausbildung kann man einen Antrag auf finanzielle Hilfe stellen. 
 
 Die Agentur für Arbeit ist verantwortlich für die Berufsausbildungsbeihilfe.
 
-### _Sie haben eine Aufenthaltsgestattung oder Duldung?_
+_Sie haben eine Aufenthaltsgestattung oder Duldung?_
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, Berufsausbildungsbeihilfe zu bekommen. Die Regeln stehen im Sozialgesetzbuch \([§132 SBG III](https://dejure.org/gesetze/SGB_III/132.html)\).
 
@@ -166,9 +166,9 @@ Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtl
 
 Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
-### _Sie bekommen Geld vom Jobcenter?_
+_Sie bekommen Geld vom Jobcenter?_
 
-Wenn Sie keine Berufsausbildungsbeihilfe bekommen können, können Sie vielleicht weiter Geld vom Jobcenter bekommen. Die Regeln stehen im Sozialgesetzbuch [\(§ 27 SGB II](https://dejure.org/gesetze/SGB_II/27.html)\).
+Wenn Sie keine Berufsausbildungsbeihilfe bekommen können, können Sie vielleicht weiter Geld vom Jobcenter bekommen. Die Regeln stehen im Sozialgesetzbuch [\(§ 27 SGB II](https://dejure.org/gesetze/SGB_II/27.html)\). Sprechen Sie mit Ihrem Jobcenter.
 
 ## Kann ich Hilfe bei der Kinderbetreuung bekommen, wenn ich eine duale Ausbildung mache?
 
@@ -223,7 +223,7 @@ Die Dauer der Einstiegsqualifizierung ist 6 bis 12 Monate. Das Ziel einer Einsti
 
 Wenn man eine Einstiegsqualifizierung gemacht hat, kann man vielleicht eine Ausbildung verkürzen. Die Regeln dazu stehen im Berufsbildungsgesetz \([§8 BBiG](https://www.gesetze-im-internet.de/bbig_2005/__8.html)\).
 
-Die Agentur für Arbeit ist verantwortlich für die Einstiegsqualifizierung. 
+Die Agentur für Arbeit ist verantwortlich für die Einstiegsqualifizierung.
 
 In diesem [Video](https://www.youtube.com/watch?v=xJQ7G897JSU) können Sie sehen, wie eine Einstiegsqualifizierung funktioniert. Das Video ist auf Deutsch.
 

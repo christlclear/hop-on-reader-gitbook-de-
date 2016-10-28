@@ -1,16 +1,17 @@
 # Was ist eine schulische Ausbildung?
 
-Einige Berufe erlernt man in einer schulischen Ausbildung.
+Mehr als 100 Berufe erlernt man in einer schulischen Ausbildung.
 
 Schulische Ausbildung heißt, man lernt einen Beruf in einer speziellen Schule. Die Schulen heißen zum Beispiel Fachschulen, Berufsfachschulen oder Fachakademien. Wir benutzen hier das Wort Fachschule. Es gibt staatliche Fachschulen und private Fachschulen. Inhaltlich macht es keinen Unterschied, an welcher Fachschule man die Ausbildung macht.
 
 Es gibt verschiedene Formen von schulischer Ausbildung. Es gibt schulische Ausbildungen,
 
-· die nur in einer Fachschule stattfinden. Diese Ausbildungen nennt man vollschulisch.
+* die nur in einer Fachschule stattfinden. Diese Ausbildungen nennt man vollschulisch.
 
-· die in einer Fachschule und einer Firma stattfinden. Bei diesen schulischen Ausbildungen bekommt man manchmal ein Ausbildungsgeld. Das offizielle Wort ist Ausbildungsvergütung.
+* die in einer Fachschule und einer Firma stattfinden. Bei diesen schulischen Ausbildungen bekommt man manchmal ein Ausbildungsgeld. Das offizielle Wort ist Ausbildungsvergütung.
 
-· in denen man meistens Praktika in verschiedenen Institutionen macht. Manchmal kann man Geld im Praktikum bekommen.
+* in denen man meistens Praktika in verschiedenen Institutionen macht. Manchmal kann man Geld im Praktikum bekommen.
+
 
 Bei den meisten schulischen Ausbildungen bekommt man kein Geld.
 
@@ -24,19 +25,20 @@ Manchmal kann man auch zusätzlich zum Berufsabschluss ein Fachabitur oder ein A
 
 ## Welche Berufe kann ich in einer schulischen Ausbildung lernen?
 
-116 Berufe gehören zu den Berufen mit schulischer Ausbildung.
+Mehr als 100 Berufe gehören zu den Berufen mit schulischer Ausbildung.
 
 Das sind zum Beispiel Berufe in den Bereichen:
 
-· Gesundheit \(Gesundheits- und Krankenpflegerin und Gesundheits- und Krankenpfleger, Ergotherapeutin und Ergotherapeut, Altenpflegehelferin und Altenpflegehelfer\),
+* Gesundheit \(Gesundheits- und Krankenpflegerin und Gesundheits- und Krankenpfleger, Ergotherapeutin und Ergotherapeut, Altenpflegehelferin und Altenpflegehelfer\),
 
-· Soziales \(Erzieherin und Erzieher, Sozialassistentin und Sozialassistent\),
+* Soziales \(Erzieherin und Erzieher, Sozialassistentin und Sozialassistent\),
 
-· Technik \(Chemisch-technische Assistentin und technischer Assistent, Pharmazeutisch-technische Assistentin und technischer Assistent\) oder
+* Technik \(Chemisch-technische Assistentin und technischer Assistent, Pharmazeutisch-technische Assistentin und technischer Assistent\) oder
 
-· Fremdsprachen \(Fremdsprachenkorrespondentin und Fremdsprachenkorrespondent, Fremdsprachensekretärin und Fremdsprachensekretär\)
 
-Im [Berufenet](https://berufenet.arbeitsagentur.de/berufenet/faces/index?path=null/suchergebnisse&fil=eJwzNDAwMDTABgBCGgTj) findet man alle Berufe mit einer schulischen Ausbildung. Das ist eine Datenbank der Bundesagentur für Arbeit mit allen Informationen über Ausbildungen und Weiterbildungen.
+* Fremdsprachen \(Fremdsprachenkorrespondentin und Fremdsprachenkorrespondent, Fremdsprachensekretärin und Fremdsprachensekretär\)
+
+Im [Berufenet](https://berufenet.arbeitsagentur.de/berufenet/faces/index?path=null/suchergebnisse&fil=eJwzNDAwMDTABgBCGgTj) der Bundesagentur für Arbeit findet man alle Berufe mit einer schulischen Ausbildung. Auf der [Webseite der Kultusministerkonferenz](https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2016/2016_01_29-Berufsabschluesse-an-Berufsfachschulen.pdf) findet man alle schulischen Ausbildungen, die von den Bundesländern geregelt sind.  Die Webseiten sind auf Deutsch.
 
 Videos über diese Berufe findet man zum Beispiel in der Sendung [BR Alpha – Ich mach’s](http://www.br.de/fernsehen/ard-alpha/sendungen/ich-machs/index.html). Die Sendung zeigt vor allem Beispiele aus Bayern. In anderen Bundesländern kann es andere Regeln geben.
 
@@ -120,7 +122,7 @@ Die Regeln stehen im Sozialgesetzbuch \(SGB\). Eine Altersgrenze gibt es nach de
 
 Ja.
 
-Für eine vollschulische Ausbildung braucht man auch keine Beschäftigungserlaubnis der Ausländerbehörde.
+Für eine vollschulische Ausbildung braucht man keine Beschäftigungserlaubnis der Ausländerbehörde.
 
 Bei schulischen Ausbildungen mit Praktika in einer Firma oder Ausbildungsgeld gibt es dieselben Regeln wie bei einer dualen Ausbildung. Das heißt, man braucht eine Beschäftigungserlaubnis der Ausländerbehörde.
 

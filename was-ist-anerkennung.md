@@ -34,7 +34,7 @@ Wenn Sie ein Abitur haben und studieren möchten, bekommen Sie auch Informatione
 
 ## Ich habe einen Beruf gelernt. Ich habe meinen Abschluss nicht in Deutschland gemacht. Was kann ich machen?
 
-Sie können Ihren Abschluss vielleicht anerkennen lassen. Seit 2012 gibt es ein neues Gesetz, was die Anerkennung von beruflichen Qualifikationen regelt. Das Gesetz heißt [Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen](http://www.gesetze-im-internet.de/bqfg/).
+Sie können Ihren Abschluss vielleicht anerkennen lassen. Seit 2012 gibt es ein neues Gesetz, was die Anerkennung von beruflichen Qualifikationen regelt. Das Gesetz heißt [Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen](http://www.gesetze-im-internet.de/bqfg/). 
 
 Anerkennung oder anerkennen heißt, die zuständige Stelle vergleicht Ihre Ausbildung mit der Ausbildung in Deutschland. Die zuständige Stelle ist die Institution, die für Ihren Beruf verantwortlich ist. Das offizielle Wort für Anerkennung ist Gleichwertigkeitsfeststellung.
 
