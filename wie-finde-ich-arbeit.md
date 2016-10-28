@@ -1,22 +1,20 @@
 # Wie finde ich Arbeit?
 
+Es gibt verschiedene Formen von Arbeit – zum Beispiel Minijobs oder Leiharbeit. Auf der [Webseite des Deutschen Gewerkschaftsbundes](http://www.faire-mobilitaet.de/informationen/fluechtlingsflyer/++co++0b9be6ae-0ac2-11e6-9f5b-52540023ef1a) finden Sie Informationen auf Arabisch, Deutsch, Englisch und Französisch. 
+
+
+
 Man muss wissen, in welchem Bereich man arbeiten will.
 
-Man muss eine Firma finden, die freie Arbeitsstellen hat.
 
-Die meisten Firmen möchten eine schriftliche Bewerbung. [Was ist eine Bewerbung?](#bewerbung)
 
-Es gibt verschiedene Möglichkeiten, eine Arbeitsstelle zu finden.
-
-## Tipp:
-
-Es gibt verschiedene Formen von Arbeit – zum Beispiel Minijobs oder Leiharbeit. Auf der [Webseite des Deutschen Gewerkschaftsbundes](http://www.faire-mobilitaet.de/informationen/fluechtlingsflyer/++co++0b9be6ae-0ac2-11e6-9f5b-52540023ef1a) finden Sie Informationen auf Arabisch, Deutsch, Englisch und Französisch.
+Man muss eine Firma finden, die freie Arbeitsstellen hat. Es gibt verschiedene Möglichkeiten, eine Arbeitsstelle zu finden.
 
 ## 1. Jobbörsen\/Webseiten
 
 Es gibt viele Webseiten, wo man nach Arbeit suchen kann.
 
-Eine lange Liste von Webseiten findet man auf der [Webseite der Bundesagentur für Arbeit](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/ArbeitundBeruf/ArbeitsJobsuche/Detail/index.htm?dfContentId=L6019022DSTBAI485347).
+Eine Liste von Webseiten findet man auf der [Webseite der Bundesagentur für Arbeit](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/ArbeitundBeruf/ArbeitsJobsuche/Detail/index.htm?dfContentId=L6019022DSTBAI485347).
 
 Die [Jobbörse](https://jobboerse.arbeitsagentur.de/vamJB/startseite.html?kgr=as&aa=1&m=1&vorschlagsfunktionaktiv=true) ist eine Webseite der Agentur für Arbeit. Die Webseite ist auf Deutsch, Englisch, Französisch, Italienisch, Russisch und Spanisch.
 
@@ -38,7 +36,7 @@ Die Webseite [Careers4refugees](http://www.careers4refugees.de/de/) ist auf Deut
 
 Viele Firmen stellen ihre freien Arbeitsstellen nicht auf eine Webseite oder nur auf ihre eigene Webseite.
 
-Sehr oft findet man eine Arbeitsstelle durch persönliche Kontakte. Erzählen Sie Ihren Bekannten, dass Sie eine Arbeitsstelle suchen. Auch in Vereinen und Organisationen kann man viele Menschen treffen, die vielleicht Tipps haben. In Deutschland gibt es zum Beispiel viele Migrantenorganisationen. Informationen über Migrantenorganisationen können Sie auch in der Migrationsberatung für Erwachsene bekommen.
+Sehr oft findet man eine Arbeitsstelle durch persönliche Kontakte. Erzählen Sie Ihren Bekannten, was für eine Arbeitsstelle Sie suchen. Auch in Vereinen und Organisationen kann man viele Menschen treffen, die vielleicht Tipps haben. In Deutschland gibt es zum Beispiel viele Migrantenorganisationen. Informationen über Migrantenorganisationen können Sie auch in der Migrationsberatung für Erwachsene bekommen.
 
 ## 3. Initiativbewerbung
 

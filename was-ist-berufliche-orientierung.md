@@ -74,7 +74,7 @@ Es gibt verschiedene Möglichkeiten für eine berufliche Orientierung.
 
 ## 1. Angebote für Newcomers
 
-In vielen Städten gibt es Angebote für Newcomers. Das größte Programm in Deutschland heißt „Integrationsrichtlinie Bund: Integration von Asylbewerbern und Flüchtlingen“ \(IvAF\). Das Programm wird finanziert vom Europäischen Sozialfonds \(ESF\) und dem Bundesministerium für Arbeit und Soziales \(BMAS\). In dem Programm gibt es verschiedene Projekte in allen Bundesländern. Die Projekte helfen Menschen, die einen Antrag auf Asyl gestellt haben. Die Projekte helfen auch Menschen, die eine Duldung oder eine Aufenthaltserlaubnis haben.
+In vielen Städten gibt es Angebote für Newcomers. Das größte Programm in Deutschland heißt „Integrationsrichtlinie Bund: Integration von Asylbewerbern und Flüchtlingen“ \(IvAF\). Das Programm wird finanziert vom Europäischen Sozialfonds \(ESF\) und dem Bundesministerium für Arbeit und Soziales \(BMAS\). In dem Programm gibt es verschiedene Projekte in allen Bundesländern. Die Projekte helfen Menschen, die einen Antrag auf Asyl gestellt haben. Das heißt Menschen, die eine Aufenthaltsgestattung, Duldung oder eine Aufenthaltserlaubnis haben.
 
 [Auf dieser Webseite](http://www.esf.de/SiteGlobals/Forms/IRBProjektrecherche/IRBProjektrecherche_Formular.html?resourceId=135606&input_=135656&pageLocale=de&templateQueryString=&cl2Categories_Handlungsschwerpunkte=Integration+von+Asylbewerbern+und+Fl%C3%BCchtlingen+%28IvAF%29&) können Sie nach Projekten von IvAF suchen. Die Webseite ist auf Deutsch. Viele Projekte können Ihnen bei der beruflichen Orientierung helfen oder eine Beratungsstelle mit Ihnen suchen.
 
@@ -97,23 +97,19 @@ Es gibt 2 Formen von Praktika:
 
 Ein Beispiel:
 
-Frau B. hat im Iran in einem Hotel gearbeitet. Sie hat eine Aufenthaltserlaubnis und ist beim Jobcenter registriert. Sie hat sich informiert und interessiert sich für den Beruf Hotelfachfrau. Sie ist nicht sicher, ob die Arbeit in einem Hotel in Deutschland anders ist.
+Frau B. hat im Iran in einem Hotel gearbeitet. Sie hat eine Aufenthaltserlaubnis und ist beim Jobcenter registriert. Sie hat sich informiert und interessiert sich für den Beruf Hotelfachfrau. Sie möchte gerne wissen, wie der Arbeitsalltag als Hotelfachfrau in Deutschland ist. 
 
-Sie möchte gerne wissen, wie der Arbeitsalltag als Hotelfachfrau ist.
+Zusammen mit einer Freundin findet sie im Internet verschiedene Hotels in ihrer Stadt. Sie schreibt Bewerbungen und schickt sie als E-Mail an die Hotels.
 
-Zusammen mit einer Freundin findet sie im Internet verschiedene Hotels, wo man ein Praktikum machen kann.
+Nach 1 Woche bekommt sie eine Einladung zu einem Gespräch mit der Chefin eines Hotels. Die Chefin fragt Frau B. welche Erfahrungen sie hat und warum sie ein Praktikum im Hotel machen möchte. Frau B. bekommt den Praktikumsplatz.
 
-Sie schreibt Bewerbungen und schickt sie als E-Mail an die Hotels.
-
-Nach 1 Woche bekommt sie eine Einladung zu einem Gespräch mit der Chefin eines Hotels. Sie verstehen sich gut. Frau B. bekommt kein Geld im Praktikum.
-
-Frau B. spricht mit ihrer Beraterin beim Jobcenter. Die Beraterin ist einverstanden.
+Danach spricht Frau B. mit ihrer Beraterin beim Jobcenter. Die Beraterin ist einverstanden.
 
 Frau B. beginnt das Praktikum. In der Zeit spricht sie auch mit den Kolleginnen und Kollegen über die Arbeit. Nach 3 Wochen Praktikum ist sie sicher, dass sie in der Zukunft als Hotelfachfrau arbeiten möchte.
 
 Die Suche nach einem Praktikum funktioniert wie die Suche nach Arbeit:
 
-1. Man muss überlegen, welche beruflichen Bereiche interessant sind.
+1. Man muss wissen, für welche beruflichen Bereiche man sich interessiert.
 
 2. Man muss eine Firma finden, die in diesem Bereich arbeitet. Die meisten Firmen möchten eine schriftliche Bewerbung. [Was ist eine Bewerbung?](#bewerbung)
 
@@ -124,17 +120,17 @@ Es gibt verschiedene Möglichkeiten, eine Firma und ein Praktikum zu suchen. Meh
 
 Wenn Sie eine Firma gefunden haben, brauchen Sie eine Erlaubnis von der Ausländerbehörde, dass Sie ein Praktikum machen dürfen. Das nennt man Beschäftigungserlaubnis oder Arbeitserlaubnis. Weil man in einem Praktikum in einer Firma arbeitet, braucht man die Beschäftigungserlaubnis auch für ein Praktikum.
 
+Es gibt viele Regeln und Ausnahmen von den Regeln. Zum Beispiel, was für eine Form von Praktikum Sie machen möchten. Deshalb ist es wichtig, dass Sie sich gut informieren.
+
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
 Meistens können Sie eine Beschäftigungserlaubnis bekommen, wenn Sie mindestens seit 3 Monaten in Deutschland leben.
 
-Wenn bei Ihnen der Satz steht „Beschäftigung\/Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer Rechtsberatung.
+Wenn bei Ihnen der Satz steht „Beschäftigung\/Erwerbstätigkeit nicht gestattet“, informieren Sie sich in einer Beratung.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich auch bei einer Rechtsberatung.
+Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich in einer Beratung.
 
-Es gibt viele Regeln und Ausnahmen von den Regeln. Deshalb ist es wichtig, dass Sie sich gut informieren.
-
-[Hier finden Sie Beratungsstellen, wo Sie sich informieren können.](file:///F:\HOOU\Fahrplan\Fertige%20Kapitel\aktuellste\@2016-09-03_ASA_de_formatiert.docx#migrationsberatung-rechtsberatung)
+[Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ## 3. Kurse zur beruflichen Orientierung der Agentur für Arbeit und Jobcenter
 
