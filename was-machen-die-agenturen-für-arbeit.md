@@ -1,8 +1,23 @@
 # Was machen die Agenturen für Arbeit?
 
-Es gibt eine Bundesagentur für Arbeit. Die Bundesagentur für Arbeit besteht aus 156 Agenturen für Arbeit.
+Es gibt eine Bundesagentur für Arbeit. Die Bundesagentur für Arbeit besteht aus mehr als 100 Agenturen für Arbeit.
 
-Die Agenturen für Arbeit haben verschiedene Aufgaben. Die Agenturen für Arbeit sind zum Beispiel verantwortlich für die Beratung von Menschen, die
+Die Agenturen für Arbeit haben verschiedene Aufgaben zum Beispiel:
+
+Beratung
+
+Arbeitslosengeld
+
+* Menschen, die eine Ausbildungs-Stelle suchen.
+* Menschen, die einen Arbeits-Platz suchen.
+* Menschen mit Behinderung
+* Menschen, die ihre Arbeit verlieren.
+
+  Sie können bei ihrer Agentur für Arbeit 
+
+   **► **[**Arbeitslosen-Geld**](https://www.arbeitsagentur.de/web/content/DE/Detail/index.htm?dfContentId=L6019022DSTBAI756056#ArbeitslosenGeld "Wörter-Buch in Leichter Sprache")** **beantragen.
+
+ Die Agenturen für Arbeit sind zum Beispiel verantwortlich für die Beratung von Menschen, die
 
 * Arbeit suchen oder einen Berufsabschluss machen wollen, aber kein Geld vom Jobcenter bekommen,
 
@@ -24,26 +39,26 @@ Sozialversicherungspflichtig heißt:
 * man bekommt für eine Arbeit mehr als 450 Euro im Monat.
 
 
-Es gibt verschiedene Formen von Arbeit. Ein Minijob oder eine selbständige Arbeit sind zum Beispiel keine sozialversicherungspflichtige Arbeit. Bei einer selbständigen Arbeit kann man freiwillig Sozialversicherung bezahlen.
+Es gibt verschiedene Formen von Arbeit. Ein Minijob oder eine selbständige Arbeit sind zum Beispiel keine sozialversicherungspflichtige Arbeit. 
 
 Die Beratung, das Arbeitslosengeld und die Finanzierung von Kursen und Angeboten heißen offiziell „Leistungen“.
 
-Andere Leistungen der Agenturen für Arbeit sind zum Beispiel:
 
-* finanzielle Hilfe in der Berufsausbildung \([Berufsausbildungsbeihilfe](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Ausbildung/FinanzielleHilfen/Berufsausbildungsbeihilfe/Detail/index.htm?dfContentId=L6019022DSTBAI485769)\),
+
+finanzielle Hilfe in der Berufsausbildung \([Berufsausbildungsbeihilfe](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Ausbildung/FinanzielleHilfen/Berufsausbildungsbeihilfe/Detail/index.htm?dfContentId=L6019022DSTBAI485769)\),
 
 * [Einstiegsqualifizierung](https://www.arbeitsagentur.de/web/content/DE/Unternehmen/Ausbildung/Ausbildungsvorbereitung/Einstiegsqualifizierung/Detail/index.htm?dfContentId=L6019022DSTBAI516577) zur Vorbereitung auf eine duale Ausbildung,
 
 * Nachhilfe in einer Ausbildung \([ausbildungsbegleitende Hilfen](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Ausbildung/FinanzielleHilfen/FoerderungderBerufsausbildung/Detail/index.htm?dfContentId=L6019022DSTBAI515290)\),
-
-* Beratung von Firmen \([Arbeitgeberservice](https://www.arbeitsagentur.de/web/content/DE/Unternehmen/Detail/index.htm?dfContentId=L6019022DSTBAI494847)\),
 
 * Bezahlung von Prämien für Zwischenprüfungen und Abschlussprüfungen. Die Regeln stehen im Sozialgesetzbuch \([131a SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/131a.html)\). Diese Prämie kann man bekommen, wenn man an einem Kurs teilnimmt, der von der Agentur für Arbeit oder dem Jobcenter finanziert wird. Der Kurs muss einen Berufsabschluss zum Ziel haben – wie zum Beispiel eine Umschulung. Diese Kurse gehören zu den Maßnahmen zur Förderung der beruflichen Weiterbildung \(FbW\). Mehr Informationen gibt es auf der [Webseite der Bundesagentur für Arbeit](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Weiterbildung/Foerdermoeglichkeiten/Hauptschulabschluss/Detail/index.htm?dfContentId=L6019022DSTBAI518201). Für die Teilnahme braucht man einen Bildungsgutschein.
 
 
 [Was ist ein Bildungsgutschein?](#bildungsgutschein)
 
-Die Bundesagentur für Arbeit ist auch verantwortlich für die Analyse des Arbeitsmarktes.
+Die Agenturen für Arbeit bieten auch Beratung für Firmen an \([Arbeitgeberservice](https://www.arbeitsagentur.de/web/content/DE/Unternehmen/Detail/index.htm?dfContentId=L6019022DSTBAI494847)\).
+
+Die Bundesagentur für Arbeit analysiert den Arbeitsmarkt.
 
 Auf Basis der Analyse entscheidet sie, in welchen Berufen und in welchen Regionen viele Mitarbeiterinnen und Mitarbeiter gesucht werden. Diese Berufe findet man in der [Positivliste](https://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mdex/~edisp/l6019022dstbai447048.pdf?_ba.sid=L6019022DSTBAI447051). Auf der Liste stehen viele handwerkliche Berufe wie Metallbauer, Mechatroniker, Sanitär-, Heizungs- und Klimatechniker, aber auch Krankenpfleger und Altenpfleger.
 
