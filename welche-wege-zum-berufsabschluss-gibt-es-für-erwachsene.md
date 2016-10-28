@@ -36,9 +36,7 @@ Meistens kann man finanzielle Hilfe bekommen. Das ist zum Beispiel abhängig dav
 
 Wir möchten hier Antworten auf mögliche Fragen zu den Wegen geben.
 
-Die Informationen sind kein Ersatz für eine persönliche Beratung.
-
-Es gibt spezielle Beratungsstellen für das Thema Bildung. Die Beratung nennt man Bildungsberatung. Die Beraterinnen und Berater können mit Ihnen individuelle Fragen klären.
+Die Informationen sind kein Ersatz für eine persönliche Beratung. Es gibt spezielle Beratungsstellen für das Thema Bildung. Die Beratung nennt man Bildungsberatung. Die Beraterinnen und Berater können mit Ihnen individuelle Fragen klären.
 
 Im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung) finden Sie Informationen über einige Beratungsangebote in den Bundesländern.
 
