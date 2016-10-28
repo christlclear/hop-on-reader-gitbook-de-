@@ -124,9 +124,13 @@ Ja.
 
 Für eine vollschulische Ausbildung braucht man keine Beschäftigungserlaubnis der Ausländerbehörde.
 
-Bei schulischen Ausbildungen mit Praktika in einer Firma oder Ausbildungsgeld gibt es dieselben Regeln wie bei einer dualen Ausbildung. Das heißt, man braucht eine Beschäftigungserlaubnis der Ausländerbehörde.
+Bei schulischen Ausbildungen mit Ausbildungsgeld gibt es dieselben Regeln wie bei einer dualen Ausbildung. Das heißt, man braucht eine Beschäftigungserlaubnis der Ausländerbehörde.  Die Beschäftigungserlaubnis kann man bekommen, wenn man mindestens seit 3 Monaten in Deutschland lebt.
 
-Aber:
+In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
+
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
 Der Aufenthalt hat Einfluss auf die finanzielle Hilfe in einer schulischen Ausbildung.
 
