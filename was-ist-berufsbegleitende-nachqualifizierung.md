@@ -15,7 +15,7 @@ Sozialversicherungspflichtig heißt:
 
 * man hat einen Vertrag mit einer Firma und
 
-* die Firma und die Mitarbeiterin oder der Mitarbeiter bezahlen bestimmte Versicherungen \(Krankenversicherung und Sozialversicherung\).
+* man selbst und die Firma bezahlen bestimmte Versicherungen \(Sozialversicherung, Krankenversicherung \).
 
 
 Es gibt verschiedene Formen von Arbeit. Ein Minijob oder eine selbständige Arbeit sind zum Beispiel keine sozialversicherungspflichtige Arbeit.

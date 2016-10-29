@@ -13,7 +13,16 @@ Es gibt verschiedene Formen von Arbeit, zum Beispiel
 * Leiharbeit.
 
 
-Auf der [Webseite des Deutschen Gewerkschaftsbundes](http://www.faire-mobilitaet.de/informationen/fluechtlingsflyer/++co++0b9be6ae-0ac2-11e6-9f5b-52540023ef1a) finden Sie Informationen auf Arabisch, Deutsch, Englisch und Französisch.
+ Sozialversicherungspflichtige Arbeit heißt:
+
+* man hat einen Vertrag mit einer Firma und
+
+* man selbst und die Firma bezahlen Versicherungen \(Sozialversicherung, Krankenversicherung\).
+
+
+Es gibt verschiedene Formen von Arbeit. Ein Minijob oder eine selbständige Arbeit sind zum Beispiel keine sozialversicherungspflichtige Arbeit.
+
+Auf der [Webseite des Deutschen Gewerkschaftsbundes](http://www.faire-mobilitaet.de/informationen/fluechtlingsflyer/++co++0b9be6ae-0ac2-11e6-9f5b-52540023ef1a) finden Sie mehr Informationen auf Arabisch, Deutsch, Englisch und Französisch.
 
 Wichtig ist, dass man weiß, in welchem Bereich man arbeiten will. Man muss eine Firma finden, die freie Arbeitsstellen hat.
 

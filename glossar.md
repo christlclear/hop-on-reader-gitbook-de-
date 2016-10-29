@@ -86,7 +86,7 @@ Eine betriebliche Umschulung ist eine Umschulung in einer Firma. Wie in einer du
 
 Ein Bildungsgutschein ist die Bestätigung über eine Finanzierung eines Kurses durch die Agentur für Arbeit oder das Jobcenter.
 
-## [Duldung](https://de.wikipedia.org/wiki/Duldung_(Aufenthaltsrecht)\)
+## [Duldung](https://de.wikipedia.org/wiki/Duldung_(Aufenthaltsrecht)
 
 Eine Person stellt einen Antrag auf Asyl. Der Asylverfahren ist beendet. Der Antrag auf Asyl wurde abgelehnt. Eine Abschiebung ist aktuell nicht möglich.
 
@@ -98,7 +98,7 @@ Der Inhalt der Externenprüfung ist derselbe wie bei der Abschlussprüfung nach 
 
 ## Fachkraft
 
-Fachkraft bedeutet, dass man einen Berufsabschluss hat. Man hat die Theorie und die Praxis gelernt, die in dem Ausbildungsberuf notwendig sind und die Abschlussprüfung bestanden. Für jeden Beruf gibt es Gesetze und Regeln, was man wissen muss \(Theorie\) und was man können muss \(Praxis\). Das Zeugnis kann zum Beispiel Gesellenbrief, Facharbeiterbrief, staatliche Urkunde oder Abschlusszeugnis heißen. Das ist abhängig von dem Beruf.
+Fachkraft bedeutet, dass man einen Berufsabschluss hat. Man hat die Theorie und die Praxis gelernt, die in dem Ausbildungsberuf geregelt sind und die Abschlussprüfung bestanden. Für jeden Beruf gibt es Gesetze und Regeln, was man wissen muss \(Theorie\) und was man können muss \(Praxis\). Das Zeugnis kann zum Beispiel Gesellenbrief, Facharbeiterbrief, staatliche Urkunde oder Abschlusszeugnis heißen. Das ist abhängig von dem Beruf.
 
 Mit diesem Zeugnis kann eine Firma einfacher verstehen, was man gelernt hat und was man kann.
 
@@ -116,11 +116,11 @@ Nichtschülerprüfung ist dasselbe wie eine Externenprüfung, Das bedeutet, dass
 
 ## Sozialversicherungspflichtige Arbeit
 
- Sozialversicherungspflichtig heißt:
+Sozialversicherungspflichtig heißt:
 
 * man hat einen Vertrag mit einer Firma und
 
-* die Firma und die Mitarbeiterin oder der Mitarbeiter bezahlen Versicherungen \(Krankenversicherung und Sozialversicherung\).
+* man selbst und die Firma bezahlen Versicherungen \(Sozialversicherung, Krankenversicherung \).
 
 
 Es gibt verschiedene Formen von Arbeit. Ein Minijob oder eine selbständige Arbeit sind zum Beispiel keine sozialversicherungspflichtige Arbeit.
