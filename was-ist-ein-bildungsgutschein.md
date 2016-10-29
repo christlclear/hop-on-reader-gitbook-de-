@@ -41,24 +41,22 @@ Es ist gut, wenn man eine schriftliche Argumentation hat. Man kann zum Beispiel 
 
 Ein Beispiel:
 
-Frau K. möchte eine Umschulung zur Servicekauffrau im Luftverkehr machen. Sie hat sich in einer Beratung informiert und ein Bildungsinstitut gefunden. Sie hat 2 kleine Kinder. 
+Frau K. ist 29 Jahre alt und möchte eine Umschulung zur Servicekauffrau im Luftverkehr machen. Sie hat sich in einer Beratung informiert und ein Bildungsinstitut gefunden. 
 
 Sie möchte einen Antrag für eine Finanzierung bei ihrem Jobcenter stellen. Sie spricht mit ihrer Beraterin im Jobcenter. Außerdem schreibt Sie einen formalen Brief. In dem Brief beschreibt sie,
 
 * warum sie einen Berufsabschluss machen möchte,
 
-* warum sie sich für den Beruf als Servicekauffrau im Luftverkehr entschieden hat, 
+* warum sie sich für den Beruf als Servicekauffrau im Luftverkehr entschieden hat,
 
-* dass der Vater der Kinder und eine Freundin in der Zeit der Umschulung bei der Kinderbetreuung helfen können, und
+* dass sie einen Ausbildungsplatz gesucht hat, aber nicht bekommen hat, und
 
 * dass sie verschiedene Arbeitsstellen in dem Beruf im Internet gefunden hat.
 
 
 Es ist wichtig, dass man Argumente für den Berufsabschluss und den Kurs hat. Man zeigt, dass man sich mit dem Beruf und dem Kurs beschäftigt hat. Wenn man einen schriftlichen Antrag stellt, bekommt man auch eine schriftliche Antwort, wenn eine Finanzierung nicht möglich ist.
 
-Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Für Erwachsene ohne Berufsabschluss ist ein Kurs mit dem Ziel Berufsabschluss nach dem Gesetz notwendig.
-
-Es gibt aber kein Recht auf eine Finanzierung. Die Agenturen für Arbeit und die Jobcenter entscheiden in jedem Einzelfall.
+Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Für Erwachsene ohne Berufsabschluss ist ein Kurs mit dem Ziel Berufsabschluss nach dem Gesetz notwendig. Es gibt aber kein Recht auf eine Finanzierung. Die Agenturen für Arbeit und die Jobcenter entscheiden in jedem Einzelfall. 
 
 Jedes Jahr analysieren die Agenturen für Arbeit zusammen mit anderen Institutionen auch den regionalen Arbeitsmarkt. Sie planen, welche Berufe und Kurse besonders wichtig sind für die Region. Diese Kurse findet man in der „Bildungszielplanung“. Für diese Kurse ist es allgemein einfacher, eine Finanzierung zu bekommen.
 
