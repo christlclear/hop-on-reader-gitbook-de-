@@ -40,3 +40,7 @@ In den Berufsschulen und Fachschulen hat man Unterricht in beruflichen Fächern 
 * Sozialkunde
 
 
+### Stand
+
+15.10.2016
+

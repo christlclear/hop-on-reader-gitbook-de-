@@ -83,7 +83,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
 
 ## Kann ich eine Umschulung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -100,7 +100,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung.](#beratung)
 
 Umschulungen werden von Bildungsinstituten organisiert. Bildungsinstitute kosten Geld.
 
@@ -177,4 +177,8 @@ Bei „Bildungsbereich“ muss man „Berufsausbildung\/Umschulung“ auswählen
 Man kann sich auch persönlich in einer Bildungsberatung informieren.
 
 [Wo finde ich Beratungsangebote und Projekte?](#beratung)
+
+### Stand
+
+15.10.2016
 

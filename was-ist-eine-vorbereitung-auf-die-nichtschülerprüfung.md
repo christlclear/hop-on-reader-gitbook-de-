@@ -84,7 +84,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
 
 ## Kann ich eine Vorbereitung auf die Nichtschülerprüfung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -100,9 +100,9 @@ Kurse zur Vorbereitung auf die Nichtschülerprüfung kosten Geld.
 
 Die Agentur für Arbeit kann eine Vorbereitung auf die Nichtschülerprüfung finanzieren. Es gibt viele Voraussetzungen für eine Finanzierung. Zum Beispiel müssen Sie eine Beschäftigungserlaubnis bekommen können.
 
-In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“. 
+In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer  [Rechtsberatung.](#beratung)
 
 Mit einer Aufenthaltsgestattung oder Duldung ist es schwer, eine Finanzierung durch die Agentur für Arbeit zu bekommen. Wenn die Dauer Ihrer Aufenthaltsgestattung oder Duldung kürzer als die Vorbereitung auf die Nichtschülerprüfung ist, kann das gegen eine Finanzierung sprechen.
 
@@ -173,4 +173,8 @@ Es gibt keine Webseite, wo man alle Kurse zur Vorbereitung auf die Nichtschüler
 In einer Bildungsberatung kann man Informationen bekommen.
 
 [Wo finde ich Beratungsangebote und Projekte?](#beratung)
+
+### Stand
+
+15.10.2016
 

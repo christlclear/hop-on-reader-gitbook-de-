@@ -40,7 +40,7 @@ Die Informationen sind kein Ersatz für eine persönliche Beratung. Es gibt spez
 
 Im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung) finden Sie Informationen über einige Beratungsangebote in den Bundesländern.
 
-Auch die Agenturen für Arbeit und die Jobcenter bieten Beratung bei diesen Fragen an.
+### Stand
 
-Es gibt auch Beratungsangebote zum Thema Aufenthalt\/Asylrecht. Die Gesetze und Regeln sind kompliziert. Im Kapitel [Migrationsberatung und Rechtsberatung](#migrationsberatung) finden Sie Informationen über einige Beratungsangebote in den Bundesländern.
+15.10.2016
 

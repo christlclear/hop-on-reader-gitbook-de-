@@ -97,7 +97,7 @@ Es gibt 2 Formen von Praktika:
 
 Ein Beispiel:
 
-Frau B. hat im Iran in einem Hotel gearbeitet. Sie hat eine Aufenthaltserlaubnis und ist beim Jobcenter registriert. Sie hat sich informiert und interessiert sich für den Beruf Hotelfachfrau. Sie möchte gerne wissen, wie der Arbeitsalltag als Hotelfachfrau in Deutschland ist. 
+Frau B. hat im Iran in einem Hotel gearbeitet. Sie hat eine Aufenthaltserlaubnis und ist beim Jobcenter registriert. Sie hat sich informiert und interessiert sich für den Beruf Hotelfachfrau. Sie möchte gerne wissen, wie der Arbeitsalltag als Hotelfachfrau in Deutschland ist.
 
 Zusammen mit einer Freundin findet sie im Internet verschiedene Hotels in ihrer Stadt. Sie schreibt Bewerbungen und schickt sie als E-Mail an die Hotels.
 
@@ -128,9 +128,7 @@ Meistens können Sie eine Beschäftigungserlaubnis bekommen, wenn Sie mindestens
 
 Wenn bei Ihnen der Satz steht „Beschäftigung\/Erwerbstätigkeit nicht gestattet“, informieren Sie sich in einer Beratung.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich in einer Beratung.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich in einer [Beratung](#beratung).
 
 ## 3. Kurse zur beruflichen Orientierung der Agentur für Arbeit und Jobcenter
 
@@ -144,13 +142,14 @@ Die Agenturen für Arbeit und die Jobcenter können diesen Kurs finanzieren. Fü
 
 Für eine Finanzierung durch die Agentur für Arbeit müssen Sie spezielle Voraussetzungen erfüllen. Meistens müssen Sie
 
-o seit mindestens 3 Monaten in Deutschland leben \(Eine Ausnahme ist möglich bei bestimmten Ländern.\) und
+* seit mindestens 3 Monaten in Deutschland leben \(Eine Ausnahme ist möglich bei bestimmten Ländern.\) und
 
-o eine Beschäftigungserlaubnis bekommen können. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass Sie arbeiten dürfen.
+* eine Beschäftigungserlaubnis bekommen können. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass Sie arbeiten dürfen.
+
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“. Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung)
+Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#beratung)
 
 Mehr Informationen finden Sie auf der [Webseite der Agentur für Arbeit](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/ArbeitundBeruf/ArbeitsJobsuche/ArbeitinDeutschland/Asylbewerber/Detail/index.htm?dfContentId=L6019022DSTBAI819890).
 
@@ -168,4 +167,8 @@ In Deutschland gibt es sehr viele Angebote und Möglichkeiten. Die Beraterinnen 
 
 
 Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
+
+### Stand
+
+15.10.2016
 

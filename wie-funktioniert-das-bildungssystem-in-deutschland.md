@@ -16,3 +16,7 @@ Deshalb sollten Sie sich immer gut informieren. Es gibt viele kostenlose Beratun
 
 [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
+### Stand
+
+15.10.2016
+

@@ -52,3 +52,7 @@ Es gibt viele Regeln. Wenn Sie Fragen zum Arbeitslosengeld II haben oder etwas n
 
 Manchmal sind Beratungsstellen spezialisiert auf bestimmte Themen oder Personen. Informieren Sie sich vor einem Termin. Sie können zum Beispiel eine E-Mail schreiben. Auch eine Freundin oder ein Freund kann anrufen und fragen.
 
+### Stand
+
+15.10.2016
+

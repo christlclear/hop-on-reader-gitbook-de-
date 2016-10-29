@@ -23,3 +23,7 @@ Es gibt viele Beratungsstellen und Projekte, die Ihnen helfen können. Die Berat
 
 [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
+### Stand
+
+15.10.2016
+

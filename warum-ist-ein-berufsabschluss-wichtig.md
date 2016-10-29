@@ -39,3 +39,7 @@ Viele Menschen machen erst einen Berufsabschluss und studieren danach. Es gibt v
 
 Es ist nicht einfach, das deutsche System zu verstehen. Es ist auch nicht einfach, als Erwachsener einen Berufsabschluss in Deutschland zu machen. Es kostet oft viel Zeit und Energie. Oft hat man in dieser Zeit nicht viel Geld. Ein Berufsabschluss ist auch keine Garantie für eine gute Arbeit. Aber mit einem Berufsabschluss hat man mehr Chancen auf dem deutschen oder dem internationalen Arbeitsmarkt.
 
+### Stand
+
+15.10.2016
+

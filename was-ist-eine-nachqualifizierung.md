@@ -116,7 +116,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung.](#beratung)
 
 Nachqualifizierungen werden von Bildungsinstituten organisiert. Das heißt, eine Nachqualifizierung kostet Geld. Die Agentur für Arbeit kann eine Nachqualifizierung finanzieren. Wenn die Nachqualifizierung genau so lange dauert wie die Aufenthaltsgestattung oder Duldung, kann das gegen eine Finanzierung sprechen. Eine Möglichkeit ist die Teilnahme an einzelnen Modulen.
 
@@ -132,7 +132,7 @@ Für die Zeit der Ausbildung kann man eine Duldung bekommen, wenn man spezielle 
 
 Die Regel nennt nur die Ausbildung. Nachqualifizierung wird dort nicht konkret genannt.
 
-Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Informieren Sie sich bei einer [Rechtsberatung](#beratung) .
 
 ## Kann ich finanzielle Hilfe für eine Nachqualifizierung bekommen?
 
@@ -185,4 +185,8 @@ Es gibt keine Webseite, wo man alle Nachqualifizierungen in Deutschland findet.
 In einer Bildungsberatung können Sie Informationen für Ihre Region bekommen. Manchmal gibt es auch spezielle Beratungsstellen für Nachqualifizierung.
 
 [Wo finde ich Beratungsangebote und Projekte?](#beratung)
+
+### Stand
+
+15.10.2016
 

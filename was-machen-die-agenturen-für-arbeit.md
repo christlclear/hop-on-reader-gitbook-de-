@@ -91,7 +91,7 @@ Man muss spezielle Voraussetzungen erfüllen, um diese finanziellen Hilfen zu be
 
 Wichtig ist, dass man eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung).
 
 **Berufsabschluss**
 
@@ -102,4 +102,8 @@ Jedes Jahr analysieren die Agenturen für Arbeit zusammen mit anderen Institutio
 Die Bestätigung über die Finanzierung durch die Agentur für Arbeit nennt man Bildungsgutschein. [Was ist ein Bildungsgutschein?](#bildungsgutschein)
 
 Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt. [Was ist der Berufspsychologische Service?](#berufspsychologischer)
+
+### Stand
+
+15.10.2016
 

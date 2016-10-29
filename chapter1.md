@@ -4,7 +4,7 @@ Ein GitBook ist ein digitales Buch. Man kann es speichern und ausdrucken.
 
 Das Buch ist für alle Erwachsenen, die Fragen zur beruflichen Bildung und zum Berufsabschluss in Deutschland haben.
 
-Das Buch gibt Antworten auf Fragen. Die Fragen haben wir auf Webseiten und in der Beratung gesammelt.  
+Das Buch gibt Antworten auf Fragen. Die Fragen haben wir auf Webseiten und in der Beratung gesammelt.
 
 Wir möchten, dass man die Informationen einfach verstehen kann. Das heißt, wir nutzen zum Beispiel kurze Sätze und bekannte Wörter.
 
@@ -21,7 +21,11 @@ Wir konzentrieren uns hier besonders auf Erwachsene, die über ein Asylverfahren
 
 Es gibt viele gesetzliche Regeln in der beruflichen Bildung. Auch der Aufenthaltsstatus hat Einfluss auf die Möglichkeiten einen Berufsabschluss zu machen. Gesetzliche Regeln können sich schnell ändern. Manchmal gibt es auch Ausnahmen von den Regeln und Entscheidungen über Einzelfälle. Eine Entscheidung im Einzelfall ist eine Entscheidung auf Basis einer Person, ihrer Erfahrungen und ihrer Situation.
 
-Das Buch und die Informationen sind kein Ersatz für eine persönliche Beratung. 
+Das Buch und die Informationen sind kein Ersatz für eine persönliche Beratung.
 
 [Wo finde ich Beratungsangebote und Projekte? ](#beratung)
+
+### Stand 
+
+15.10.2016
 

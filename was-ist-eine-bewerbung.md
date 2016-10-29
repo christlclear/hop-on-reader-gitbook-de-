@@ -1,6 +1,6 @@
 # Was ist eine Bewerbung?
 
-Das Thema von Hop-on ist der Berusfabschluss. Deshalb finden Sie hier nur allgemeine Informationen zum Thema Bewerbung. 
+Das Thema von Hop-on ist der Berusfabschluss. Deshalb finden Sie hier nur allgemeine Informationen zum Thema Bewerbung.
 
 Es gibt viele Webseiten, wo man sich über das Thema Bewerbung informieren kann. Die Webseiten sind meistens auf Deutsch.
 
@@ -80,9 +80,13 @@ Wenn Sie keine Zeugnisse haben, beschreiben Sie Ihre Erfahrungen so konkret wie 
 
 Wenn Sie bei der Agentur für Arbeit oder dem Jobcenter registriert sind, gibt es verschiedene Möglichkeiten – zum Beispiel Bewerbungstrainings.
 
-Wenn Sie nicht bei der Agentur für Arbeit oder dem Jobcenter registriert sind, können Sie sich bei der Agentur für Arbeit beraten lassen. Die Agentur für Arbeit kann auch Bewerbungstrainings finanzieren, wenn Sie spezielle Voraussetzungen erfüllen. Mehr Informationen finden Sie unter [Was machen die Agenturen für Arbeit?](#agentur) 
+Wenn Sie nicht bei der Agentur für Arbeit oder dem Jobcenter registriert sind, können Sie sich bei der Agentur für Arbeit beraten lassen. Die Agentur für Arbeit kann auch Bewerbungstrainings finanzieren, wenn Sie spezielle Voraussetzungen erfüllen. Mehr Informationen finden Sie unter [Was machen die Agenturen für Arbeit?](#agentur)
 
 Sie können sich auch bei einer Migrationsberatung für Erwachsene oder einer Bildungsberatung informieren.
 
 [Wo finde ich Beratungsangebote und Projekte?](#beratung)
+
+### Stand
+
+15.10.2016
 

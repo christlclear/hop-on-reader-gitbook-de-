@@ -109,7 +109,7 @@ Auch das Verfahren zur Anerkennung kostet Geld.
 
 ### _Sie bekommen Geld vom Jobcenter oder der Agentur für Arbeit?_
 
-Das Jobcenter oder die Agentur für Arbeit können die Übersetzung und\/oder das Verfahren zur Anerkennung finanzieren. Es gibt aber kein Recht auf Finanzierung. Sie müssen zeigen, dass eine Übersetzung oder ein Verfahren zur Anerkennung wichtig ist, um in der Zukunft eine Arbeit zu finden. Sprechen Sie vor einer Übersetzung oder einem Anerkennungsverfahren mit dem Jobcenter oder der Agentur für Arbeit über die Finanzierung. Die Agentur für Arbeit und das Jobcenter entscheiden in jedem Einzelfall. 
+Das Jobcenter oder die Agentur für Arbeit können die Übersetzung und\/oder das Verfahren zur Anerkennung finanzieren. Es gibt aber kein Recht auf Finanzierung. Sie müssen zeigen, dass eine Übersetzung oder ein Verfahren zur Anerkennung wichtig ist, um in der Zukunft eine Arbeit zu finden. Sprechen Sie vor einer Übersetzung oder einem Anerkennungsverfahren mit dem Jobcenter oder der Agentur für Arbeit über die Finanzierung. Die Agentur für Arbeit und das Jobcenter entscheiden in jedem Einzelfall.
 
 ### _Sie bekommen kein Geld vom Jobcenter oder der Agentur für Arbeit?_
 
@@ -119,7 +119,7 @@ Wenn Sie noch nicht bei der Agentur für Arbeit registriert sind, können Sie si
 
 [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
 
-_Sie haben eine Aufenthaltsgestattung oder Duldung?_ 
+_Sie haben eine Aufenthaltsgestattung oder Duldung?_
 
 Es gelten dieselben Regeln. Für eine Finanzierung durch die Agentur für Arbeit müssen Sie außerdem
 
@@ -130,15 +130,17 @@ Es gelten dieselben Regeln. Für eine Finanzierung durch die Agentur für Arbeit
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle.](#migrationsberatung-rechtsberatung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung.](#beratung) Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung.](#beratung)
 
-
-
-Das Förderprogramm IQ hat viele Angebote für Personen, die einen Abschluss anerkennen lassen. 
+Das Förderprogramm IQ hat viele Angebote für Personen, die einen Abschluss anerkennen lassen.
 
 Manchmal kann auch das Bundesland einige Kosten der Anerkennung finanzieren. Hier finden Sie Informationen auf Deutsch für [Baden-Württemberg](http://ikubiz.de/weiterbildung/stipendienprogramm-berufliche-anerkennung/), [Berlin](https://www.anerkennung-in-deutschland.de/html/de/news_2497.php) und [Hamburg](http://www.hamburg.de/migranten/nofl/2668894/anerkennung-abschluesse.html).
 
 Auf der [Webseite](http://www.netzwerk-iq.de/anerkennung/beratung.html) des Förderprogramms IQ können Sie nach einer Beratungsstelle in Ihrer Nähe suchen. Die Webseite ist auf Deutsch.
 
 Hier finden Sie eine [App](https://www.anerkennung-in-deutschland.de/html/de/app.php), wo Sie wichtige Informationen auf Englisch, Arabisch, Dari, Farsi, Tigrinya und Paschtu finden. Sie können auch mit der App auch eine Beratungsstelle in Ihrer Nähe finden.
+
+### Stand
+
+15.10.2016
 

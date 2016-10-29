@@ -145,3 +145,7 @@ Ein Programm der Agentur für Arbeit für die Finanzierung von berufsbegleitende
 
 Eine zuständige Stelle ist die Institution, die für einen Ausbildungsberuf und die Prüfungen verantwortlich ist.
 
+### Stand
+
+15.10.2016
+

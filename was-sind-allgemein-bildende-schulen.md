@@ -25,3 +25,7 @@ Man kann Schulabschlüsse aus einem anderen Land in Deutschland anerkennen lasse
 
 Mehr Informationen finden Sie im Kapitel [Was ist Anerkennung?](#anerkennung)
 
+### Stand
+
+15.10.2016
+

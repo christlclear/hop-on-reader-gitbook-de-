@@ -13,7 +13,7 @@ Es gibt verschiedene Formen von Arbeit, zum Beispiel
 * Leiharbeit.
 
 
- Sozialversicherungspflichtige Arbeit heißt:
+Sozialversicherungspflichtige Arbeit heißt:
 
 * man hat einen Vertrag mit einer Firma und
 
@@ -81,9 +81,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
-
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung).
 
 In manchen Bundesländern oder Regionen Deutschlands gibt es eine spezielle Prüfung durch die Agentur für Arbeit, wenn Sie weniger als 15 Monate in Deutschland leben. Die Prüfung heißt Vorrangprüfung.
 
@@ -112,4 +110,8 @@ Ein Berufsabschluss ist keine Garantie für eine Arbeitsstelle. Aber mit einem B
 Viele Menschen wollen eine eigene Firma gründen und selbständig arbeiten. Für einige Berufe braucht man in Deutschland einen besonderen Abschluss, um eine eigene Firma zu gründen. Ein Beruf ist zum Beispiel Friseurin oder Friseur. Wenn man einen eigenen Friseursalon eröffnen möchte, braucht man einen Abschluss als Meisterin oder Meister. Damit man Meisterin oder Meister werden kann, braucht man einen Berufsabschluss. Wenn man keine Meisterin oder kein Meister ist, muss man eine Meisterin oder einen Meister in seiner Firma beschäftigen.
 
 Auf der Webseite [Wir gründen in Deutschland](http://www.wir-gruenden-in-deutschland.de/) finden Sie mehr Informationen auf Deutsch, Englisch, Französisch, Polnisch, Spanisch, Ukrainisch, Tigrinya und Türkisch zum Thema Selbständigkeit.
+
+### Stand
+
+15.10.2016
 

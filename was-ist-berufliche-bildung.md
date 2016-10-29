@@ -28,3 +28,7 @@ Wenn Sie keinen Berufsabschluss haben oder Ihr Berufsabschluss nicht anerkannt w
 
 [Welche Wege zum Berufsabschluss gibt es für Erwachsene?](#wege zum berufsabschluss)
 
+### Stand
+
+15.10.2016
+

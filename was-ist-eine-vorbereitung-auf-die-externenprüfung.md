@@ -82,7 +82,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
 
 ## Kann ich eine Vorbereitung auf die Externenprüfung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -103,7 +103,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung.](#beratung)
 
 Mehr Informationen finden Sie unter_ Kann ich finanzielle Hilfe für eine Vorbereitung auf die Externenprüfung bekommen?_
 
@@ -115,7 +115,7 @@ Für die Zeit einer Ausbildung kann man eine Duldung bekommen. Duldung bedeutet 
 
 Die Regel nennt nur die Ausbildung. Eine Vorbereitung auf die Externenprüfung wird dort nicht konkret genannt.
 
-Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Informieren Sie sich bei einer [Rechtsberatung](#beratung).
 
 ## Kann ich finanzielle Hilfe für eine Vorbereitung auf die Externenprüfung bekommen?
 
@@ -184,4 +184,8 @@ Man kann sich bei der zuständigen Stelle informieren oder bei einer Bildungsber
 Manchmal gibt es auch spezielle Beratungsstellen für Nachqualifizierung. Dort bekommt man auch Informationen zur Vorbereitung auf die Externenprüfung.
 
 [Wo finde ich Beratungsangebote und Projekte?](#beratung)
+
+### Stand
+
+15.10.2016
 

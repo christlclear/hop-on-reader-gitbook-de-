@@ -92,7 +92,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
 
 ## Kann ich eine berufsbegleitende Nachqualifizierung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -114,7 +114,7 @@ Für die Zeit einer Ausbildung kann man eine Duldung bekommen, wenn man speziell
 
 Die Regel nennt nur die Ausbildung. Berufsbegleitende Nachqualifizierung wird dort nicht konkret genannt.
 
-Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Informieren Sie sich bei einer  [Rechtsberatung](#beratung).
 
 ## Kann ich finanzielle Hilfe für eine berufsbegleitende Nachqualifizierung bekommen?
 
@@ -165,4 +165,8 @@ Es gibt keine Webseite, wo man alle berufsbegleitenden Nachqualifizierungen in D
 In einer Bildungsberatung kann man sich informieren. Manchmal gibt es auch spezielle Beratungsstellen für Nachqualifizierung.
 
 [Wo finde ich Beratungsangebote und Projekte?](#beratung)
+
+### Stand
+
+15.10.2016
 

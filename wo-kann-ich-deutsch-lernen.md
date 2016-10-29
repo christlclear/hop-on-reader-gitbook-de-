@@ -137,3 +137,7 @@ Informieren Sie sich bei einer Volkshochschule, einer Migrationsberatung, einer 
 
 Sie können auch online einen berufsbezogenen Deutschkurs machen. Auf der Webseite vom [Goethe-Institut](https://www.goethe.de/de/spr/ueb/daa.html?wt_sc=daa) finden Sie Kurse für verschiedene berufliche Bereiche.
 
+### Stand
+
+15.10.2016
+

@@ -71,7 +71,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
 
 ## Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich eine berufsbegleitende Ausbildung machen?
 
@@ -88,11 +88,11 @@ Wenn man noch keine Arbeit in dem Beruf hat, kann man eine berufsbegleitende Aus
 * Arbeit in dem Beruf findet, in dem man einen Berufsabschluss machen möchte. Meistens gibt es eine Regel, wie viele Stunden man in der Woche arbeiten muss.
 
 
-Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf. 
+Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
-In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“. 
+In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer  [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer  [Rechtsberatung](#beratung).
 
 Berufsbegleitende Ausbildungen werden von staatlichen und von privaten Fachschulen organisiert. Private Fachschulen kosten Geld. Auch in staatlichen Fachschulen muss man manchmal ein Schulgeld bezahlen.
 
@@ -108,7 +108,7 @@ Für die Zeit einer Ausbildung kann man eine Duldung bekommen, wenn man die Vora
 
 Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln.
 
-Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Informieren Sie sich bei einer  [Rechtsberatung](#beratung).
 
 ## Kann ich finanzielle Hilfe für eine berufsbegleitende Ausbildung bekommen?
 
@@ -165,4 +165,8 @@ In einer Bildungsberatung kann man sich informieren.
 Manchmal gibt es auch spezielle Beratungsstellen. Aktuell gibt es ein Programm für die berufsbegleitende Ausbildung als Erzieherin oder Erzieher. Das Programm findet in 6 Bundesländern statt.
 
 Auf dieser [Webseite](http://www.chance-quereinstieg.de/modellprogramm/modellprogramm-quereinstieg/) finden Sie die Institutionen in den Bundesländern, die an dem Programm teilnehmen. Die Informationen sind auf Deutsch.
+
+### Stand
+
+15.10.2016
 

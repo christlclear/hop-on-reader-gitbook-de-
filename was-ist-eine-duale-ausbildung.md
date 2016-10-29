@@ -109,9 +109,7 @@ Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, ausbildungsbegleitende 
 
 Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, gibt es zum Beispiel Regeln, wie lange Sie in Deutschland leben müssen.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche Regeln für die ausbildungsbegleitenden Hilfen.
-
-Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche Regeln für die ausbildungsbegleitenden Hilfen. Informieren Sie sich bei einer [Rechtsberatung](#beratung) .
 
 ## Kann ich eine duale Ausbildung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -126,9 +124,9 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung).
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung).
 
 ## Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich für die Zeit der dualen Ausbildung eine Aufenthaltserlaubnis bekommen?
 
@@ -138,9 +136,7 @@ Für die Zeit der Ausbildung kann man eine Duldung bekommen, wenn man spezielle 
 
 Mit einer Arbeitsstelle als Fachkraft kann man danach eine Aufenthaltserlaubnis für zunächst 2 Jahre bekommen.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln.
-
-Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung) .
 
 ## Kann ich finanzielle Hilfe in einer dualen Ausbildung bekommen?
 
@@ -162,9 +158,7 @@ Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, Berufsausbildungsbeihil
 
 Es gibt zum Beispiel Regeln, wie lange Sie in Deutschland leben müssen, um Berufsausbildungsbeihilfe zu bekommen.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche Regeln für die Berufsausbildungsbeihilfe.
-
-Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche Regeln für die Berufsausbildungsbeihilfe. Informieren Sie sich bei einer [Rechtsberatung](#beratung).
 
 _Sie bekommen Geld vom Jobcenter?_
 
@@ -226,4 +220,8 @@ Wenn man eine Einstiegsqualifizierung gemacht hat, kann man vielleicht eine Ausb
 Die Agentur für Arbeit ist verantwortlich für die Einstiegsqualifizierung.
 
 In diesem [Video](https://www.youtube.com/watch?v=xJQ7G897JSU) können Sie sehen, wie eine Einstiegsqualifizierung funktioniert. Das Video ist auf Deutsch.
+
+### Stand
+
+15.10.2016
 

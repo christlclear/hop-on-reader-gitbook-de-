@@ -93,7 +93,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
 
 ## Kann ich eine betriebliche Umschulung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -108,7 +108,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer  [Rechtsberatung.](#beratung)
 
 ## Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich für die Zeit der betrieblichen Umschulung eine Aufenthaltserlaubnis bekommen?
 
@@ -183,5 +183,9 @@ Es gibt noch mehr Webseiten, wo Sie nach Ausbildungen suchen können. Oft sind e
 
 Manche Firmen stellen ihre Ausbildungsplätze nicht auf eine Webseite oder nur auf ihre eigene Webseite. Sie können auch in Ihrer Stadt nach Firmen suchen, die interessant für Sie sind. Sie können die Chefin oder den Chef persönlich fragen, ob Sie eine Bewerbung für eine betriebliche Umschulung abgeben können.
 
-Oft kann man auch über ein Praktikum eine Firma für eine betriebliche Umschulung finden. [Was ist ein Praktikum?](#praktikum)
+Oft kann man auch über ein [Praktikum ](#berufliche orientierung)eine Firma für eine betriebliche Umschulung finden.
+
+### Stand
+
+15.10.2016
 

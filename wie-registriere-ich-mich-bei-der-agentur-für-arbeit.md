@@ -18,15 +18,15 @@ Die Agentur für Arbeit in Ihrer Nähe ist für Sie verantwortlich. Die Agentur 
 
 Sie können sich auch persönlich melden oder online bei der [Jobbörse](https://jobboerse.arbeitsagentur.de/vamJB/registrierungAlsAsylbewerber.html;jsessionid=PnTwXDvXq1dGQf20ntzrkpWCnLhsyyJVCLpMg0sL9CT19yxQpdsP!1951931052?execution=e1s1). Sie müssen dort Fragen zu Ihrem Schulabschluss oder Ihren beruflichen Erfahrungen beantworten. Die Webseite ist auf Deutsch, Englisch, Französisch, Italienisch, Russisch, Spanisch und Türkisch. Sie bekommen dann eine schriftliche Einladung der Agentur für Arbeit.
 
-Die Agentur für Arbeit kann Sie immer beraten. Wenn Sie andere finanzielle Hilfe bekommen wollen, müssen Sie spezielle Voraussetzungen erfüllen.
+Die Agentur für Arbeit kann Sie immer beraten. Wenn Sie finanzielle Hilfe bekommen wollen, müssen Sie spezielle Voraussetzungen erfüllen.
 
 Wichtig ist, dass Sie eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen können. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf. Eine Beschäftigungserlaubnis können Sie meistens bekommen, wenn Sie mindestens seit 3 Monaten in Deutschland leben.
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung).
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+### Stand
 
-[Was machen die Agenturen für Arbeit?](#agentur)
+15.10.2016
 

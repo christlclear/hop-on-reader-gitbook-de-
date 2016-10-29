@@ -219,9 +219,7 @@ Die Projekte im Programm „Integrationsrichtlinie Bund – Integration von Asyl
 
 [Auf dieser Webseite](http://www.esf.de/SiteGlobals/Forms/IRBProjektrecherche/IRBProjektrecherche_Formular.html?resourceId=135606&input_=135656&pageLocale=de&templateQueryString=&cl2Categories_Handlungsschwerpunkte=Integration+von+Asylbewerbern+und+Fl%C3%BCchtlingen+%28IvAF%29&) können Sie nach Projekten von IvAF suchen. Die Webseite ist auf Deutsch. Viele Projekte können direkt helfen oder eine Beratungsstelle suchen. Die Projekte haben unterschiedliche Angebote. Informieren Sie sich vor einem Termin bei dem Projekt. Sie können zum Beispiel eine E-Mail schreiben. Auch eine Freundin oder ein Freund kann anrufen und fragen.
 
-Beraterinnen und Berater können zum Beispiel folgende Fragen beantworten:
-
-* Wann darf man arbeiten?
+Beraterinnen und Berater können zum Beispiel bei folgenden Fragen helfen:
 
 * Welche Rechte hat man mit einer Aufenthaltsgestattung oder Duldung?
 
@@ -229,6 +227,8 @@ Beraterinnen und Berater können zum Beispiel folgende Fragen beantworten:
 
 * Was macht man, wenn der Antrag auf Asyl abgelehnt wurde?
 
-* Welche Möglichkeiten hat man, seine Familie nach Deutschland zu holen?
 
+### Stand
+
+15.10.2016
 
