@@ -99,7 +99,7 @@ Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei
 
 Ja. Man kann eine betriebliche Umschulung machen, wenn man
 
-* mindestens seit 3 Monaten in Deutschland lebt.
+* mindestens seit 3 Monaten in Deutschland lebt und
 
 * eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann.
 
@@ -108,9 +108,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
-
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
 ## Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich für die Zeit der betrieblichen Umschulung eine Aufenthaltserlaubnis bekommen?
 

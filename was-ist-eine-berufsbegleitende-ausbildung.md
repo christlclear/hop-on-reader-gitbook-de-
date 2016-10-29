@@ -75,31 +75,28 @@ Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei
 
 ## Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich eine berufsbegleitende Ausbildung machen?
 
-Ja. Aber es gibt zwei Faktoren, die Einfluss auf die Möglichkeit der Teilnahme haben.
-
-### 1. Aufenthalt
+Ja. Aber es gibt Faktoren, die Einfluss auf die Möglichkeit der Teilnahme haben.
 
 Man kann eine berufsbegleitende Ausbildung machen, wenn man Arbeit in dem Beruf hat, in dem man einen Berufsabschluss machen möchte. Es gibt keine speziellen Regeln für eine Aufenthaltsgestattung oder Duldung, wenn man arbeitet.
 
 Wenn man noch keine Arbeit in dem Beruf hat, kann man eine berufsbegleitende Ausbildung machen, wenn man
 
-· mindestens seit 3 Monaten in Deutschland lebt,
+* mindestens seit 3 Monaten in Deutschland lebt,
 
-· eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann und
+* eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann und
 
-· Arbeit in dem Beruf findet, in dem man einen Berufsabschluss machen möchte. Meistens gibt es eine Regel, wie viele Stunden man in der Woche arbeiten muss.
+* Arbeit in dem Beruf findet, in dem man einen Berufsabschluss machen möchte. Meistens gibt es eine Regel, wie viele Stunden man in der Woche arbeiten muss.
 
-Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf. Weil man in einer berufsbegleitenden Ausbildung in einer Firma arbeitet, braucht man die Beschäftigungserlaubnis auch für die Ausbildung.
 
-In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“. Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf. 
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“. 
 
-### 2. Finanzierung
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
-Berufsbegleitende Ausbildungen werden auch von privaten Fachschulen organisiert. Private Fachschulen kosten Geld. Auch in staatlichen Fachschulen muss man manchmal ein Schulgeld bezahlen.
+Berufsbegleitende Ausbildungen werden von staatlichen und von privaten Fachschulen organisiert. Private Fachschulen kosten Geld. Auch in staatlichen Fachschulen muss man manchmal ein Schulgeld bezahlen.
 
-Die Agentur für Arbeit kann eine berufsbegleitende Ausbildung finanzieren. Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall. Mit einer Aufenthaltsgestattung oder Duldung ist es schwer, eine Finanzierung durch die Agentur für Arbeit zu bekommen. Wenn die berufsbegleitende Ausbildung genau so lange dauert wie die Aufenthaltsgestattung oder Duldung, kann das gegen eine Finanzierung sprechen.
+Die Agentur für Arbeit kann eine berufsbegleitende Ausbildung finanzieren, wenn man spezielle Voraussetzungen erfüllt.
 
 Mehr Informationen finden Sie unter_ Kann ich finanzielle Hilfe für eine berufsbegleitende Ausbildung bekommen?_
 

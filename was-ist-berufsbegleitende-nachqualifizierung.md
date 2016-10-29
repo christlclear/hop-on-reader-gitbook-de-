@@ -98,7 +98,7 @@ Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei
 
 Ja. Es gibt keine speziellen Regeln für eine Aufenthaltsgestattung oder Duldung, wenn man arbeitet.
 
-Es gibt aber Regeln für die Finanzierung durch die Agentur für Arbeit oder das Jobcenter.
+Es gibt aber Regeln für eine Finanzierung durch die Agentur für Arbeit oder das Jobcenter.
 
 Wenn die berufsbegleitende Nachqualifizierung genau so lange dauert wie die Aufenthaltsgestattung oder Duldung, kann das gegen eine Finanzierung sprechen. Eine Möglichkeit ist die Teilnahme an einzelnen Modulen.
 

@@ -103,9 +103,7 @@ Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei
 
 ## Kann ich eine Nachqualifizierung mit einer Aufenthaltsgestattung oder Duldung machen?
 
-Ja. Aber es gibt zwei Faktoren, die Einfluss auf die Teilnahme haben.
-
-### 1. Aufenthalt
+Ja. Aber es gibt Faktoren, die Einfluss auf die Teilnahme haben.
 
 Man kann eine Nachqualifizierung machen, wenn man:
 
@@ -116,17 +114,11 @@ Man kann eine Nachqualifizierung machen, wenn man:
 
 Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
-In einer Nachqualifizierung macht man meistens auch Praktika in Firmen. Deshalb braucht man die Beschäftigungserlaubnis auch für die Nachqualifizierung.
-
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
-
-### 2. Finanzierung
-
-Nachqualifizierungen werden von Bildungsinstituten organisiert. Das heißt, eine Nachqualifizierung kostet Geld. Die Agentur für Arbeit ist verantwortlich. Die Agentur für Arbeit kann eine Nachqualifizierung finanzieren. Wenn die Nachqualifizierung genau so lange dauert wie die Aufenthaltsgestattung oder Duldung, kann das gegen eine Finanzierung sprechen. Eine Möglichkeit ist die Teilnahme an einzelnen Modulen.
+Nachqualifizierungen werden von Bildungsinstituten organisiert. Das heißt, eine Nachqualifizierung kostet Geld. Die Agentur für Arbeit kann eine Nachqualifizierung finanzieren. Wenn die Nachqualifizierung genau so lange dauert wie die Aufenthaltsgestattung oder Duldung, kann das gegen eine Finanzierung sprechen. Eine Möglichkeit ist die Teilnahme an einzelnen Modulen.
 
 Manchmal gibt es spezielle Angebote in den Bundesländern. Das heißt, das Bundesland oder der Europäische Sozialfonds \(ESF\) kann eine Nachqualifizierung finanzieren.
 

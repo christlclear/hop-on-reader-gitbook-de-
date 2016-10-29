@@ -86,17 +86,13 @@ Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei
 
 ## Kann ich eine Vorbereitung auf die Externenprüfung mit einer Aufenthaltsgestattung oder Duldung machen?
 
-Ja.
-
-Man kann sich informieren und dann alleine vorbereiten.
+Ja. Man kann sich informieren und dann alleine vorbereiten.
 
 Man kann auch einen Kurs zur Vorbereitung auf die Externenprüfung machen. In den Kursen gibt es kein Praktikum. Das heißt, man braucht keine Beschäftigungserlaubnis von der Ausländerbehörde.
 
 Aber:
 
-Kurse zur Vorbereitung auf die Externenprüfung kosten Geld.
-
-Die Agentur für Arbeit ist verantwortlich. Die Agentur für Arbeit kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn man die Voraussetzungen erfüllt. Eine Voraussetzung ist, dass Sie
+Kurse zur Vorbereitung auf die Externenprüfung kosten Geld. Die Agentur für Arbeit kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn man die Voraussetzungen erfüllt. Eine wichtige Voraussetzung für eine Finanzierung ist, dass Sie
 
 * mindestens seit 3 Monaten in Deutschland leben und
 
@@ -107,9 +103,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
-
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung)
 
 Mehr Informationen finden Sie unter_ Kann ich finanzielle Hilfe für eine Vorbereitung auf die Externenprüfung bekommen?_
 

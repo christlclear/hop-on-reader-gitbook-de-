@@ -87,28 +87,20 @@ Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei
 
 ## Kann ich eine Umschulung mit einer Aufenthaltsgestattung oder Duldung machen?
 
-Ja. Aber es gibt zwei Faktoren, die Einfluss auf die Möglichkeit der Teilnahme haben.
-
-### 1. Aufenthalt
+Ja. Aber es gibt Faktoren, die Einfluss auf die Möglichkeit der Teilnahme haben.
 
 Man kann eine Umschulung machen, wenn man
 
-* mindestens seit 3 Monaten in Deutschland lebt
+* mindestens seit 3 Monaten in Deutschland lebt und
 
 * eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann.
 
 
 Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
-In einer Umschulung macht man meistens auch Praktika in Firmen. Deshalb braucht man die Beschäftigungserlaubnis auch für die Umschulung.
-
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
-
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
-
-### 2. Finanzierung
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
 Umschulungen werden von Bildungsinstituten organisiert. Bildungsinstitute kosten Geld.
 
