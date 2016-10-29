@@ -1,6 +1,6 @@
 # Was ist ein Bildungsgutschein?
 
-Ein Bildungsgutschein ist die Bestätigung über eine Finanzierung eines Kurses. Das heißt die Agentur für Arbeit oder das Jobcenter bezahlen einen Kurs bei einem Bildungsinstitut. Diese Kurse gehören zu den Maßnahmen zur Förderung der beruflichen Weiterbildung \(FbW\).
+Ein Bildungsgutschein ist die Bestätigung über eine Finanzierung eines Kurses durch die Agentur für Arbeit oder das Jobcenter. Das heißt die Agentur für Arbeit oder das Jobcenter bezahlen einen Kurs bei einem Bildungsinstitut. Diese Kurse gehören zu den Maßnahmen zur Förderung der beruflichen Weiterbildung \(FbW\).
 
 Es gibt verschiedene Formen von Kursen. Es gibt kurze und lange Kurse. Es gibt Kurse mit einem Zertifikat vom Bildungsinstitut oder mit einer Abschlussprüfung bei der zuständigen Stelle. Einen Berufsabschluss kann man zum Beispiel nur bekommen, wenn man die Abschlussprüfung bei der zuständigen Stelle besteht. Beispiele für diese Kurse sind die Vorbereitung auf die Externenprüfung oder Nichtschülerprüfung, die \(betriebliche\) Umschulung oder die \(berufsbegleitende\) Nachqualifizierung.
 

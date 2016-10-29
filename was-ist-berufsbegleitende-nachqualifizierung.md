@@ -13,11 +13,9 @@ Berufsbegleitende Nachqualifizierung ist für Erwachsene, die
 
 Sozialversicherungspflichtig heißt:
 
-* man hat einen Vertrag mit einer Firma,
+* man hat einen Vertrag mit einer Firma und
 
-* die Firma bezahlt bestimmte Versicherungen \(zum Beispiel Krankenversicherung, Sozialversicherung\), und
-
-* man bekommt für die Arbeit mehr als 450 Euro im Monat.
+* die Firma und die Mitarbeiterin oder der Mitarbeiter bezahlen bestimmte Versicherungen \(Krankenversicherung und Sozialversicherung\).
 
 
 Es gibt verschiedene Formen von Arbeit. Ein Minijob oder eine selbständige Arbeit sind zum Beispiel keine sozialversicherungspflichtige Arbeit.

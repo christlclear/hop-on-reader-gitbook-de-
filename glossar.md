@@ -114,6 +114,17 @@ Eine Nachqualifizierung ist auch manchmal berufsbegleitend möglich.
 
 Nichtschülerprüfung ist dasselbe wie eine Externenprüfung, Das bedeutet, dass man nicht über eine Ausbildung zur Abschlussprüfung geht. Für die Nichtschülerprüfung braucht man eine Erlaubnis von der zuständigen Stelle. Der Inhalt der Nichtschülerprüfung ist derselbe wie bei der Abschlussprüfung nach der Ausbildung.
 
+## Sozialversicherungspflichtige Arbeit
+
+ Sozialversicherungspflichtig heißt:
+
+* man hat einen Vertrag mit einer Firma und
+
+* die Firma und die Mitarbeiterin oder der Mitarbeiter bezahlen Versicherungen \(Krankenversicherung und Sozialversicherung\).
+
+
+Es gibt verschiedene Formen von Arbeit. Ein Minijob oder eine selbständige Arbeit sind zum Beispiel keine sozialversicherungspflichtige Arbeit.
+
 ## Umschulung
 
 In einer Umschulung erlernt man einen neuen Beruf. Eine Umschulung ist für Erwachsene mit Berufsabschluss, die einen neuen Beruf lernen müssen. Zum Beispiel, wenn sie Probleme mit der Gesundheit haben. Man kann aber auch eine Umschulung machen, wenn man keinen Berufsabschluss hat. Eine Umschulung ist meistens kürzer als eine Ausbildung.
