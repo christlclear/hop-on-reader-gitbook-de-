@@ -2,32 +2,32 @@
 
 Jobcenter sind Organisationen der Bundesagentur für Arbeit und einer anderen Institution. Es gibt auch andere Formen der Organisation.
 
-Nach dem Grundgesetz ist die Bundesrepublik ein „demokratischer und sozialer Bundesstaat“ \([Art. 20 GG](http://www.gesetze-im-internet.de/gg/art_20.html)\). Das heißt, dass soziale Sicherheit eine wichtige Aufgabe des Staates ist. Deshalb gibt es in Deutschland zum Beispiel Sozialhilfe und das Arbeitslosengeld II.
+Die Jobcenter sind verantwortlich für das Arbeitslosengeld II \(Hartz IV\). Das offizielle Wort ist „Grundsicherung“.
 
-Die Jobcenter sind verantwortlich für das Arbeitslosengeld II \(Hartz IV\). Das heißt offiziell „Grundsicherung“.
+Nach dem Grundgesetz ist die Bundesrepublik ein „demokratischer und sozialer Bundesstaat“ \([Art. 20 GG](http://www.gesetze-im-internet.de/gg/art_20.html)\). Das heißt, dass soziale Sicherheit eine wichtige Aufgabe des Staates ist. Deshalb gibt es zum Beispiel Sozialhilfe und das Arbeitslosengeld II für Menschen, die zu wenig Geld zum Leben haben. Die Regeln stehen im Sozialgesetzbuch II \([SGB II](http://www.gesetze-im-internet.de/sgb_2/)\). 
 
-Das Ziel der Hilfe durch die Jobcenter ist, dass man die Hilfe in der Zukunft nicht mehr braucht. Das heißt, dass man eine Arbeitsstelle findet.
+Das Ziel der finanziellen Hilfe durch die Jobcenter ist, dass man die Hilfe in der Zukunft nicht mehr braucht. Das heißt, dass man eine Arbeitsstelle findet. Man muss selber aktiv werden und Arbeit suchen. Das Jobcenter kann auch Arbeitsstellen vorschlagen. Dort muss man sich dann bewerben.
 
-Die Regeln stehen im Sozialgesetzbuch II \([SGB II](http://www.gesetze-im-internet.de/sgb_2/)\). Nicht alle Menschen haben ein Recht auf Arbeitslosengeld II. Studentinnen und Studenten an Universitäten bekommen kein Arbeitslosengeld II. Auch mit einer Aufenthaltsgestattung oder Duldung bekommt man kein Arbeitslosengeld II.
+Nicht alle Menschen haben ein Recht auf Arbeitslosengeld II. Studentinnen und Studenten an Universitäten bekommen kein Arbeitslosengeld II. Auch mit einer Aufenthaltsgestattung oder Duldung bekommt man kein Arbeitslosengeld II.
 
 Die Jobcenter sind zum Beispiel verantwortlich für Menschen, die
 
 * länger als 12 Monate arbeitslos sind und kein Arbeitslosengeld mehr von der Agentur für Arbeit bekommen,
 
+* weniger als 12 Monate arbeitlos sind, aber wenig Arbeitslosengeld von der Agentur für Arbeit bekommen,
+
 * Arbeit suchen und zu wenig Geld haben,
 
-* arbeiten, aber immer noch finanzielle Hilfe brauchen,
-
-* wenig Arbeitslosengeld bekommen oder
+* arbeiten, aber immer noch finanzielle Hilfe brauchen oder
 
 * in einem Haushalt \(das heißt mit anderen Personen\) mit wenig Geld leben. Das offizielle Wort ist „Bedarfsgemeinschaft“.
 
 
+Nur das Jobcenter in der Region ist verantwortlich. Wenn man in eine andere Stadt umziehen will, muss man vorher mit dem Jobcenter sprechen. Es gibt auch gesetzliche Regeln zum Aufenthalt.
+
 Das Arbeitslosengeld II und die Finanzierung von Kursen und Angeboten heißen offiziell Leistungen. Man muss spezielle Voraussetzungen erfüllen, um Leistungen zu bekommen.
 
-Wenn man in eine andere Stadt umziehen will, muss man vorher mit dem Jobcenter sprechen.
-
-Das Jobcenter kann auch die verschiedenen Wege zum Berufsabschluss finanzieren, wenn man die Voraussetzungen erfüllt.
+Die Jobcenter können auch die verschiedenen Wege zum Berufsabschluss finanzieren, wenn man die Voraussetzungen erfüllt.
 
 Jedes Jahr analysieren die Agenturen für Arbeit zusammen mit anderen Institutionen auch den regionalen Arbeitsmarkt. Sie planen, welche Kurse besonders wichtig sind für die Region. Diese Kurse findet man in der „Bildungszielplanung“. Für diese Kurse ist es einfacher, eine Finanzierung zu bekommen. Die Bestätigung über eine Finanzierung heißt Bildungsgutschein.
 
