@@ -41,24 +41,26 @@ Es ist gut, wenn man eine schriftliche Argumentation hat. Man kann zum Beispiel 
 
 Ein Beispiel:
 
-Frau K. möchte eine Umschulung zur Servicekauffrau im Luftverkehr machen. Sie hat sich in einer Beratung informiert und ein Bildungsinstitut gefunden. Sie hat 2 kleine Kinder. Der Vater der Kinder und eine Freundin von Frau K. können helfen.
+Frau K. möchte eine Umschulung zur Servicekauffrau im Luftverkehr machen. Sie hat sich in einer Beratung informiert und ein Bildungsinstitut gefunden. Sie hat 2 kleine Kinder. 
 
 Sie möchte einen Antrag für eine Finanzierung bei ihrem Jobcenter stellen. Sie spricht mit ihrer Beraterin im Jobcenter. Außerdem schreibt Sie einen formalen Brief. In dem Brief beschreibt sie,
 
 * warum sie einen Berufsabschluss machen möchte,
 
-* warum sie sich für den Beruf als Servicekauffrau im Luftverkehr entschieden hat, und
+* warum sie sich für den Beruf als Servicekauffrau im Luftverkehr entschieden hat, 
+
+* dass der Vater der Kinder und eine Freundin in der Zeit der Umschulung bei der Kinderbetreuung helfen können, und
 
 * dass sie verschiedene Arbeitsstellen in dem Beruf im Internet gefunden hat.
 
 
-Es ist wichtig, dass man Argumente für den Berufsabschluss und den Kurs hat. Man zeigt, dass man sich mit dem Beruf und dem Kurs beschäftigt hat.
+Es ist wichtig, dass man Argumente für den Berufsabschluss und den Kurs hat. Man zeigt, dass man sich mit dem Beruf und dem Kurs beschäftigt hat. Wenn man einen schriftlichen Antrag stellt, bekommt man auch eine schriftliche Antwort, wenn eine Finanzierung nicht möglich ist.
 
-Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Für Erwachsene, ohne Berufsabschluss ist ein Kurs mit dem Ziel Berufsabschluss nach dem Gesetz notwendig.
+Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Für Erwachsene ohne Berufsabschluss ist ein Kurs mit dem Ziel Berufsabschluss nach dem Gesetz notwendig.
 
 Es gibt aber kein Recht auf eine Finanzierung. Die Agenturen für Arbeit und die Jobcenter entscheiden in jedem Einzelfall.
 
-Jedes Jahr analysieren die Agenturen für Arbeit zusammen mit anderen Institutionen auch den regionalen Arbeitsmarkt. Sie planen, welche Berufe und Kurse besonders wichtig sind für die Region. Diese Kurse findet man in der „Bildungszielplanung“. Für diese Kurse ist es einfacher, eine Finanzierung zu bekommen.
+Jedes Jahr analysieren die Agenturen für Arbeit zusammen mit anderen Institutionen auch den regionalen Arbeitsmarkt. Sie planen, welche Berufe und Kurse besonders wichtig sind für die Region. Diese Kurse findet man in der „Bildungszielplanung“. Für diese Kurse ist es allgemein einfacher, eine Finanzierung zu bekommen.
 
 Wenn die Agentur für Arbeit oder das Jobcenter nicht sicher sind, ob sie den Kurs finanzieren, könnensie einen Termin bei dem Berufspsychologischen Service der Agentur für Arbeit machen. [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
@@ -68,7 +70,7 @@ Wenn man die Finanzierung des Kurses bekommt und die Prüfung besteht, kann man 
 
 Die Agentur für Arbeit ist für Sie verantwortlich. Sie können sich bei der Agentur für Arbeit in Ihrer Region als „arbeitsuchend“ melden. [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
 
-Die Agentur für Arbeit kann die verschiedenen Wege zum Berufsabschluss finanzieren. Das heißt, Sie können einen Bildungsgutschein bekommen, wenn Sie die Voraussetzungen erfüllen.
+Die Agentur für Arbeit kann die verschiedenen Wege zum Berufsabschluss finanzieren. Das heißt, Sie können einen Bildungsgutschein bekommen, wenn Sie die Voraussetzungen erfüllen. Es gelten dieselben Regeln für eine Finanzierung.
 
 Wichtig ist, dass Sie eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen können. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
