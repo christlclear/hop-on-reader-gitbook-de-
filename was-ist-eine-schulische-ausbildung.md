@@ -106,7 +106,7 @@ Aber:
 
 In einer vollschulischen Ausbildung sind diese Deutschkurse nicht möglich.
 
-Der Aufenthaltsstatus hat auch Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen. Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Der Aufenthaltsstatus hat auch Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen. Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
 
 Wenn Sie schon gute Deutschkenntnisse haben, aber noch weitere Hilfe brauchen, gibt es wenige Angebote in einer schulischen Ausbildung.
 
