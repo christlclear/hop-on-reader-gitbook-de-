@@ -87,13 +87,11 @@ Mit der Registrierung können Sie von der Agentur für Arbeit finanzielle Hilfe 
 * Bewerbungstrainings.
 
 
-Man muss spezielle Voraussetzungen erfüllen, um diese finanziellen Hilfen zu bekommen. Man muss zeigen, dass eine Übersetzung oder ein Verfahren zur Anerkennung wichtig ist, um in der Zukunft eine Arbeit zu finden. Das Ziel einer finanziellen Hilfe ist immer, dass man eine Arbeitsstelle findet.
+Man muss spezielle Voraussetzungen erfüllen, um diese finanziellen Hilfen zu bekommen. Man muss zeigen, dass eine Übersetzung oder ein Verfahren zur Anerkennung wichtig ist, um in der Zukunft eine Arbeit zu finden. Das Ziel einer finanziellen Hilfe ist immer, dass man eine Arbeitsstelle findet. Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall.
 
 Wichtig ist, dass man eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
-
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
 **Berufsabschluss**
 

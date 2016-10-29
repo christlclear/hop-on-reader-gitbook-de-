@@ -34,7 +34,7 @@ Wenn Sie ein Abitur haben und studieren möchten, bekommen Sie auch Informatione
 
 ## Ich habe einen Beruf gelernt. Ich habe meinen Abschluss nicht in Deutschland gemacht. Was kann ich machen?
 
-Sie können Ihren Abschluss vielleicht anerkennen lassen. Seit 2012 gibt es ein neues Gesetz, was die Anerkennung von beruflichen Qualifikationen regelt. Das Gesetz heißt [Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen](http://www.gesetze-im-internet.de/bqfg/). 
+Sie können Ihren Abschluss vielleicht anerkennen lassen. Seit 2012 gibt es ein neues Gesetz, was die Anerkennung von beruflichen Qualifikationen regelt. Das Gesetz heißt [Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen](http://www.gesetze-im-internet.de/bqfg/).
 
 Anerkennung oder anerkennen heißt, die zuständige Stelle vergleicht Ihre Ausbildung mit der Ausbildung in Deutschland. Die zuständige Stelle ist die Institution, die für Ihren Beruf verantwortlich ist. Das offizielle Wort für Anerkennung ist Gleichwertigkeitsfeststellung.
 
@@ -89,11 +89,7 @@ Das Förderprogramm IQ hat viele Angebote für Personen, die einen Abschluss ane
 
 ## Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich eine Anerkennung meines Abschlusses bekommen?
 
-Ja. Es gibt keine speziellen Regeln zum Aufenthalt.
-
-Aber ein Verfahren zur Anerkennung kostet Geld. Es gibt Regeln für eine Finanzierung.
-
-Informieren Sie sich bei einer Beratungsstelle im Förderprogramm IQ.
+Ja. Aber ein Verfahren zur Anerkennung kostet Geld. Es gibt Regeln für die finanzielle Hilfe.
 
 ## Was kostet eine Anerkennung? Kann ich finanzielle Hilfe bekommen?
 
@@ -113,34 +109,36 @@ Auch das Verfahren zur Anerkennung kostet Geld.
 
 ### _Sie bekommen Geld vom Jobcenter oder der Agentur für Arbeit?_
 
-Das Jobcenter oder die Agentur für Arbeit können die Übersetzung und\/oder das Verfahren zur Anerkennung finanzieren. Es gibt aber kein Recht auf Finanzierung. Sie müssen zeigen, dass eine Übersetzung oder ein Verfahren zur Anerkennung wichtig ist, um eine Arbeit zu finden. Sprechen Sie vor einer Übersetzung oder einem Anerkennungsverfahren mit dem Jobcenter oder der Agentur für Arbeit über die Finanzierung.
+Das Jobcenter oder die Agentur für Arbeit können die Übersetzung und\/oder das Verfahren zur Anerkennung finanzieren. Es gibt aber kein Recht auf Finanzierung. Sie müssen zeigen, dass eine Übersetzung oder ein Verfahren zur Anerkennung wichtig ist, um in der Zukunft eine Arbeit zu finden. Sprechen Sie vor einer Übersetzung oder einem Anerkennungsverfahren mit dem Jobcenter oder der Agentur für Arbeit über die Finanzierung. Die Agentur für Arbeit und das Jobcenter entscheiden in jedem Einzelfall. 
 
 ### _Sie bekommen kein Geld vom Jobcenter oder der Agentur für Arbeit?_
 
-Die Agentur für Arbeit kann die Übersetzung und\/oder das Anerkennungsverfahren von Abschlüssen finanzieren. Es gibt aber kein Recht auf Finanzierung. Sie müssen zeigen, dass eine Übersetzung oder ein Verfahren zur Anerkennung wichtig ist, um eine Arbeit zu finden.
+Die Agentur für Arbeit kann die Übersetzung und\/oder das Anerkennungsverfahren von Abschlüssen finanzieren. Es gibt aber kein Recht auf Finanzierung. Sie müssen zeigen, dass eine Übersetzung oder ein Verfahren zur Anerkennung wichtig ist, um in der Zukunft eine Arbeit zu finden. Sprechen Sie vor einer Übersetzung oder einem Verfahren zur Anerkennung mit der Agentur für Arbeit über die Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall.
 
-Sprechen Sie vor einer Übersetzung oder einem Verfahren zur Anerkennung mit der Agentur für Arbeit über die Finanzierung.
-
-Wenn Sie noch nicht bei der Agentur für Arbeit registriert sind, können Sie sich bei der Agentur für Arbeit als „arbeitsuchend“ melden. Sie bekommen kein Arbeitslosengeld, aber Sie können sich beraten lassen.
+Wenn Sie noch nicht bei der Agentur für Arbeit registriert sind, können Sie sich bei der Agentur für Arbeit als „arbeitsuchend“ melden.
 
 [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
 
-### _Sie haben eine Aufenthaltsgestattung oder Duldung?_
+_Sie haben eine Aufenthaltsgestattung oder Duldung?_ 
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, müssen Sie für eine Finanzierung durch die Agentur für Arbeit spezielle Voraussetzungen erfüllen. Meistens müssen Sie
+Es gelten dieselben Regeln. Für eine Finanzierung durch die Agentur für Arbeit müssen Sie außerdem
 
 * seit mindestens 3 Monaten in Deutschland leben und
 
 * eine Beschäftigungserlaubnis bekommen können. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass Sie arbeiten dürfen.
 
 
-In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“. Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle.](#migrationsberatung-rechtsberatung)
 
-Das Förderprogramm IQ hat viele Angebote für Personen, die einen Abschluss anerkennen lassen. Auf der [Webseite](http://www.netzwerk-iq.de/anerkennung/beratung.html) des Förderprogramms IQ können Sie nach einer Beratungsstelle in Ihrer Nähe suchen. Die Webseite ist auf Deutsch.
+
+
+Das Förderprogramm IQ hat viele Angebote für Personen, die einen Abschluss anerkennen lassen. 
+
+Manchmal kann auch das Bundesland einige Kosten der Anerkennung finanzieren. Hier finden Sie Informationen auf Deutsch für [Baden-Württemberg](http://ikubiz.de/weiterbildung/stipendienprogramm-berufliche-anerkennung/), [Berlin](https://www.anerkennung-in-deutschland.de/html/de/news_2497.php) und [Hamburg](http://www.hamburg.de/migranten/nofl/2668894/anerkennung-abschluesse.html).
+
+Auf der [Webseite](http://www.netzwerk-iq.de/anerkennung/beratung.html) des Förderprogramms IQ können Sie nach einer Beratungsstelle in Ihrer Nähe suchen. Die Webseite ist auf Deutsch.
 
 Hier finden Sie eine [App](https://www.anerkennung-in-deutschland.de/html/de/app.php), wo Sie wichtige Informationen auf Englisch, Arabisch, Dari, Farsi, Tigrinya und Paschtu finden. Sie können auch mit der App auch eine Beratungsstelle in Ihrer Nähe finden.
-
-Manchmal kann auch das Bundesland einige Kosten der Anerkennung finanzieren. Hier finden Sie Informationen für [Baden-Württemberg](http://ikubiz.de/weiterbildung/stipendienprogramm-berufliche-anerkennung/), [Berlin](https://www.anerkennung-in-deutschland.de/html/de/news_2497.php) und [Hamburg](http://www.hamburg.de/migranten/nofl/2668894/anerkennung-abschluesse.html).
 
