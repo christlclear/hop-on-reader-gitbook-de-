@@ -1,6 +1,6 @@
 # Wo finde ich Beratungsangebote und Projekte?
 
-## Bildungsberatung und Beratung zur Nachqualifizierung
+## 1. Bildungsberatung und Beratung zur Nachqualifizierung
 
 In fast allen Bundesländern gibt es Institutionen, die zu den Themen Bildung und berufliche Orientierung beraten. Diese Beratung nennt man Bildungsberatung.
 
@@ -156,7 +156,7 @@ Auf der Webseite [weiterbilden-sh](https://weiterbilden-sh.de/beratung/standorte
 
 In Thüringen gibt es keine Webseite für Bildungsberatung. Im [Welcome Cente](http://www.thaff-thueringen.de/welcome-center/)r bekommen Sie auch Informationen zum Thema Bildung und Berufsabschluss.
 
-## Migrationsberatung 
+## 2. Migrationsberatung
 
 ### **Migrationsberatung für Erwachsene**
 
@@ -195,7 +195,7 @@ Mehr Informationen bekommen Sie bei [Mein Weg nach Deutschland](http://www.goeth
 
 Auf der [Webseite](http://www.goethe.de/lrn/prj/wnd/ber/int/deindex.htm) können Sie mit der Postleitzahl oder der Stadt auch nach Beratungsstellen in Ihrer Nähe suchen.
 
-## **Rechtsberatung\/Beratung im Asylverfahren**
+## **3. Rechtsberatung\/Beratung im Asylverfahren**
 
 Das Aufenthaltsrecht ist kompliziert. Deshalb ist es wichtig, dass man sich gut informiert.
 

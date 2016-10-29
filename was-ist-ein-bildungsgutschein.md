@@ -66,6 +66,10 @@ Wenn man die Finanzierung des Kurses bekommt und die Prüfung besteht, kann man 
 
 ### _Sie haben eine Aufenthaltsgestattung oder Duldung?_
 
+Die Agentur für Arbeit ist für Sie verantwortlich. Sie können sich bei der Agentur für Arbeit in Ihrer Region als „arbeitsuchend“ melden. [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
+
+Die Agentur für Arbeit kann die verschiedenen Wege zum Berufsabschluss finanzieren. Das heißt, Sie können einen Bildungsgutschein bekommen, wenn Sie die Voraussetzungen erfüllen. 
+
 Wichtig ist, dass Sie eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen können. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
 Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).

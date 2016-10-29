@@ -1,14 +1,23 @@
 # Wie finde ich Arbeit?
 
-Es gibt verschiedene Formen von Arbeit – zum Beispiel Minijobs oder Leiharbeit. Auf der [Webseite des Deutschen Gewerkschaftsbundes](http://www.faire-mobilitaet.de/informationen/fluechtlingsflyer/++co++0b9be6ae-0ac2-11e6-9f5b-52540023ef1a) finden Sie Informationen auf Arabisch, Deutsch, Englisch und Französisch. 
+Das Thema von Hop-on ist der Berusfabschluss. Deshalb finden Sie hier nur allgemeine Informationen zum Thema Arbeitssuche.
+
+Es gibt verschiedene Formen von Arbeit, zum Beispiel
+
+* sozialversicherungspflichtige Arbeit,
+
+* selbständige Arbeit,
+
+* Minijobs oder
+
+* Leiharbeit.
 
 
+Auf der [Webseite des Deutschen Gewerkschaftsbundes](http://www.faire-mobilitaet.de/informationen/fluechtlingsflyer/++co++0b9be6ae-0ac2-11e6-9f5b-52540023ef1a) finden Sie Informationen auf Arabisch, Deutsch, Englisch und Französisch.
 
-Man muss wissen, in welchem Bereich man arbeiten will.
+Wichtig ist, dass man weiß, in welchem Bereich man arbeiten will. Man muss eine Firma finden, die freie Arbeitsstellen hat.
 
-
-
-Man muss eine Firma finden, die freie Arbeitsstellen hat. Es gibt verschiedene Möglichkeiten, eine Arbeitsstelle zu finden.
+Es gibt verschiedene Möglichkeiten, eine Arbeitsstelle zu finden.
 
 ## 1. Jobbörsen\/Webseiten
 
@@ -36,7 +45,9 @@ Die Webseite [Careers4refugees](http://www.careers4refugees.de/de/) ist auf Deut
 
 Viele Firmen stellen ihre freien Arbeitsstellen nicht auf eine Webseite oder nur auf ihre eigene Webseite.
 
-Sehr oft findet man eine Arbeitsstelle durch persönliche Kontakte. Erzählen Sie Ihren Bekannten, was für eine Arbeitsstelle Sie suchen. Auch in Vereinen und Organisationen kann man viele Menschen treffen, die vielleicht Tipps haben. In Deutschland gibt es zum Beispiel viele Migrantenorganisationen. Informationen über Migrantenorganisationen können Sie auch in der Migrationsberatung für Erwachsene bekommen.
+Sehr oft findet man eine Arbeitsstelle durch persönliche Kontakte. Erzählen Sie Ihren Bekannten, was für eine Arbeitsstelle Sie suchen und welche beruflichen Erfahrungen Sie haben.
+
+Auch in Vereinen und Organisationen kann man viele Menschen treffen, die vielleicht Tipps haben. In Deutschland gibt es zum Beispiel viele Migrantenorganisationen. Informationen über Migrantenorganisationen können Sie in der Migrationsberatung für Erwachsene bekommen.
 
 ## 3. Initiativbewerbung
 
@@ -73,21 +84,19 @@ In den meisten Bundesländern oder Regionen Deutschlands gibt es diese Vorrangpr
 
 Die Agentur für Arbeit prüft auch, ob eine Firma zum Beispiel auf Basis der gesetzlichen Regeln bezahlt. Diese Prüfung heißt „Prüfung der Beschäftigungsbedingungen“.
 
-Die Prüfungen dauern manchmal sehr lange.
-
 Es gibt viele Regeln und Ausnahmen von den Regeln. Deshalb ist es wichtig, dass Sie sich gut informieren.
 
 [Hier finden Sie Beratungsstellen, wo Sie sich informieren können.](file:///F:\HOOU\Fahrplan\Fertige%20Kapitel\aktuellste\@2016-09-03_ASA_de_formatiert.docx#migrationsberatung-rechtsberatung)
 
 ### _Brauche ich einen Berufsabschluss, um Arbeit zu finden?_
 
-Nein. Aber ein Berufsabschluss hat Einfluss auf die beruflichen Möglichkeiten. Auch der regionale Arbeitsmarkt hat Einfluss auf die beruflichen Möglichkeiten.
+Nein. Es gibt aber einige Berufe, in denen man nur mit einem Berufsabschluss arbeiten darf.  Auch der regionale Arbeitsmarkt hat Einfluss auf die beruflichen Möglichkeiten. Es gibt einige berufliche Bereiche, wo Firmen Fachkräfte suchen und keine Helferinnen und Helfer.
 
 Es gibt einen Unterschied zwischen der Arbeit als Fachkraft und der Arbeit als Helferin oder Helfer.
 
-Fachkraft bedeutet, dass man einen Berufsabschluss hat. Man hat die Theorie und die Praxis gelernt, die in dem Ausbildungsberuf notwendig sind und die Abschlussprüfung bestanden hat. Für jeden Beruf gibt es Gesetze und Regeln, was man wissen muss \(Theorie\) und was man können muss \(Praxis\). Als Fachkraft kann man Aufgaben übernehmen, für die man Fachwissen braucht.
+Fachkraft bedeutet, dass man einen Berufsabschluss hat. Man hat die Theorie und die Praxis gelernt, die in dem Ausbildungsberuf geregelt sind und die Abschlussprüfung bestanden hat. Für jeden Beruf gibt es Gesetze und Regeln, was man wissen muss \(Theorie\) und was man können muss \(Praxis\). Als Fachkraft kann man Aufgaben übernehmen, für die man Fachwissen braucht.
 
-Helfer oder Helferin heißt, dass man manche Aufgaben übernehmen kann und darf und andere nicht. Meistens verdient man deshalb nicht so viel Geld wie Menschen, die einen Berufsabschluss haben.
+Helfer oder Helferin heißt, dass man arbeitet ohne einen Berufsabschluss in diesem Beruf. Das heißt, dass man manche Aufgaben übernehmen kann und darf und andere nicht. Meistens verdient man deshalb nicht so viel Geld wie Menschen, die einen Berufsabschluss haben.
 
 Ein Berufsabschluss ist keine Garantie für eine Arbeitsstelle. Aber mit einem Berufsabschluss findet man oft leichter Arbeit. Man hat auch mehr Chancen, eine gute Arbeit zu finden. Gute Arbeit heißt zum Beispiel, dass man mehr Geld verdient oder bessere Arbeitsbedingungen hat im Vergleich zu einer Helferin oder einem Helfer.
 

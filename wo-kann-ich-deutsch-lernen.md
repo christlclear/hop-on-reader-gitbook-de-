@@ -38,7 +38,7 @@ Informationen bekommen Sie auch bei der Migrationsberatung, einer Bildungsberatu
 
 In fast jeder Stadt gibt es eine Volkshochschule. Die Volkshochschulen organisieren viele verschiedene Kurse. Die Kurse kosten weniger Geld als Kurse bei Privatschulen. Die Volkshochschulen haben auch verschiedene Deutschkurse.
 
-_Sie haben eine Aufenthaltsgestattung oder Duldung?_
+### _Sie haben eine Aufenthaltsgestattung oder Duldung?_
 
 Die Projekte im Programm „Integrationsrichtlinie Bund – Integration von Asylbewerbern und Flüchtlingen \(IvAF\)“ helfen Menschen, die einen Antrag auf Asyl gestellt haben. Die Projekte helfen auch Menschen, die eine Duldung oder eine Aufenthaltserlaubnis haben. Sie organisieren auch oft Deutschkurse.
 
@@ -56,7 +56,7 @@ Ein Angebot ist von den Volkshochschulen. Es heißt [Ich will Deutsch lernen](ht
 
 Auch auf [papagei.com](https://www.papagei.com/de/deutschkurse/) kann man online Deutsch lernen. Die Kurse sind auf dem Niveau A1. Die Kurse sind für Menschen, die Arabisch oder Englisch sprechen.
 
- Auf der [Webseite des Goethe Instituts](https://www.goethe.de/de/spr/flu.html) finden Sie noch mehr Angebote.
+Auf der [Webseite des Goethe Instituts](https://www.goethe.de/de/spr/flu.html) finden Sie noch mehr Angebote.
 
 Der Kurs bei [Almani Be Farsi](http://almanibefarsi.com/german) ist speziell für Menschen, die Persisch sprechen.
 
@@ -92,17 +92,18 @@ Mehr Informationen gibt es auf der [Webseite vom BAMF](http://www.bamf.de/DE/Wil
 
 ### Kann ich einen berufsbezogenen Deutschkurs mit einer Aufenthaltsgestattung oder Duldung machen?
 
-### _ESF-BAMF_
+### ESF-BAMF
 
 Für die Kurse von ESF-BAMF gibt es viele Regeln, die Sie [hier](http://www.bamf.de/DE/Willkommen/DeutschLernen/DeutschBeruf/Deutschberuf-esf/deutschberuf-esf-node.html) finden.
 
 An den Kursen von ESF-BAMF können Sie meistens teilnehmen, wenn Sie
 
-· seit mindestens 3 Monaten in Deutschland leben,
+* seit mindestens 3 Monaten in Deutschland leben,
 
-· eine Beschäftigungserlaubnis bekommen können und
+* eine Beschäftigungserlaubnis bekommen können und
 
-· mindestens ein A1 Niveau in Deutsch haben.
+* mindestens ein A1 Niveau in Deutsch haben.
+
 
 Informationen bekommen Sie im Programm „Integrationsrichtlinie Bund: Integration von Asylbewerbern und Flüchtlingen“ \(IvAF\). In dem Programm gibt es verschiedene Projekte in allen Bundesländern. Die Projekte helfen Menschen, die einen Antrag auf Asyl gestellt haben. Die Projekte helfen auch Menschen, die eine Duldung oder eine Aufenthaltserlaubnis haben.
 
@@ -110,7 +111,7 @@ Informationen bekommen Sie im Programm „Integrationsrichtlinie Bund: Integrati
 
 Informationen bekommen Sie auch bei einer Migrationsberatung, einer Bildungsberatung oder der Agentur für Arbeit.
 
-### _DeuFöV_
+### DeuFöV
 
 Für die Kurse von DeuFöV gibt es noch mehr Regeln. Die Regeln von DeuFöV stehen im Aufenthaltsgesetz \([§45a AufenthG](https://dejure.org/gesetze/AufenthG/45a.html)\).
 
