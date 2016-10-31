@@ -81,7 +81,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung). Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 In manchen Bundesländern oder Regionen Deutschlands gibt es eine spezielle Prüfung durch die Agentur für Arbeit, wenn Sie weniger als 15 Monate in Deutschland leben. Die Prüfung heißt Vorrangprüfung.
 
@@ -93,7 +93,7 @@ Die Agentur für Arbeit prüft auch, ob eine Firma zum Beispiel auf Basis der ge
 
 Es gibt viele Regeln und Ausnahmen von den Regeln. Deshalb ist es wichtig, dass Sie sich gut informieren.
 
-[Hier finden Sie Beratungsstellen, wo Sie sich informieren können.](file:///F:\HOOU\Fahrplan\Fertige%20Kapitel\aktuellste\@2016-09-03_ASA_de_formatiert.docx#migrationsberatung-rechtsberatung)
+Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ### _Brauche ich einen Berufsabschluss, um Arbeit zu finden?_
 

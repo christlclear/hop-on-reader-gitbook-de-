@@ -59,15 +59,11 @@ Ein Beispiel ist die Ausbildung zur Friseurin und zum Friseur. Meistens suchen d
 
 Es gibt verschiedene Berufe als Kauffrau und Kaufmann. Zum Beispiel Kauffrau und Kaufmann für Büromanagement oder Informatikkauffrau und Informatikkaufmann. In diesen Berufen arbeitet man mit Menschen, aber vor allem mit Zahlen und am Computer. Man schreibt Rechnungen, erstellt Kalkulationen und führt Statistiken. Das heißt, man muss gute Kenntnisse in der deutschen Sprache, aber auch in Mathematik haben. Bewerberinnen und Bewerber mit einem hohen Schulabschluss haben deshalb bessere Chancen, einen Ausbildungsplatz zu bekommen.
 
-Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.
-
-[Was ist Anerkennung?](#anerkennung)
+Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.  Mehr Informationen finden Sie im Kapitel [Was ist Anerkennung?](#anerkennung)
 
 Man kann einen Schulabschluss auch als Erwachsener nachholen. Das heißt, man macht einen Kurs und bereitet sich auf die Prüfung vor. In vielen Städten gibt es Angebote, wenn man den Hauptschulabschluss oder den Mittleren Schulabschluss nachholen will - zum Beispiel in den Volkshochschulen. Es gibt auch Angebote für das Fachabitur oder Abitur, wenn man spezielle Voraussetzungen erfüllt.
 
-In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ## Welche Deutschkenntnisse brauche ich für eine duale Ausbildung?
 
@@ -81,9 +77,7 @@ Es ist auch abhängig von dem Beruf. Wenn man in einem Beruf zum Beispiel viel s
 
 ## Was kann ich machen, wenn ich die Deutschkenntnisse noch nicht habe?
 
-Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.
-
-[Wo kann ich Deutsch lernen?](#Deutsch)
+Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.  Mehr Informationen finden Sie im Kapitel [Wo kann ich Deutsch lernen?](#Deutsch)
 
 Ab 2017 ist es möglich, eine Ausbildung mit einem berufsbezogenen Deutschkurs zu kombinieren. Berufsbezogen heißt, dass man nicht Deutsch für den Alltag, sondern Deutsch für den Beruf lernt. Die Kurse gehören zum neuen [Programm vom BAMF \(DeuFöV\).](http://www.bamf.de/DE/Willkommen/DeutschLernen/DeutschBeruf/Bundesprogramm-45a/bundesprogramm-45a-node.html)
 
@@ -95,7 +89,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer Beratungsstelle.  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte?
 
 ### _Ausbildungsbegleitende Hilfen_
 
@@ -109,7 +103,7 @@ Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, ausbildungsbegleitende 
 
 Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, gibt es zum Beispiel Regeln, wie lange Sie in Deutschland leben müssen.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche Regeln für die ausbildungsbegleitenden Hilfen. Informieren Sie sich bei einer [Rechtsberatung](#beratung) .
+Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche Regeln für die ausbildungsbegleitenden Hilfen. Informieren Sie sich bei einer [Rechtsberatung. ](#beratung) Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte?
 
 ## Kann ich eine duale Ausbildung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -126,7 +120,7 @@ In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz
 
 Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung).
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung).
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich für die Zeit der dualen Ausbildung eine Aufenthaltserlaubnis bekommen?
 
@@ -136,7 +130,7 @@ Für die Zeit der Ausbildung kann man eine Duldung bekommen, wenn man spezielle 
 
 Mit einer Arbeitsstelle als Fachkraft kann man danach eine Aufenthaltserlaubnis für zunächst 2 Jahre bekommen.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung) .
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung. ](#beratung) Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich finanzielle Hilfe in einer dualen Ausbildung bekommen?
 
@@ -158,7 +152,7 @@ Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, Berufsausbildungsbeihil
 
 Es gibt zum Beispiel Regeln, wie lange Sie in Deutschland leben müssen, um Berufsausbildungsbeihilfe zu bekommen.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche Regeln für die Berufsausbildungsbeihilfe. Informieren Sie sich bei einer [Rechtsberatung](#beratung).
+Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche Regeln für die Berufsausbildungsbeihilfe. Informieren Sie sich bei einer [Rechtsberatung](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 _Sie bekommen Geld vom Jobcenter?_
 
@@ -180,7 +174,7 @@ Die Suche nach einer dualen Ausbildung funktioniert wie die Suche nach Arbeit:
 
 2. Man muss eine Firma finden, bei der man eine duale Ausbildung machen kann. Man kann nicht in jeder Firma eine duale Ausbildung machen. Eine Firma muss verschiedene Voraussetzungen erfüllen. Zum Beispiel muss in der Firma eine Ausbilderin oder ein Ausbilder für den Ausbildungsberuf arbeiten.
 
-3. Man muss eine Bewerbung schreiben. [Was ist eine Bewerbung?](#bewerbung)
+3. Man muss eine Bewerbung schreiben.  Mehr Informationen finden Sie im Kapitel [Was ist eine Bewerbung?](#bewerbung)
 
 
 Duale Ausbildungen beginnen meistens zweimal im Jahr - im Februar\/März oder im August\/September. Die meisten dualen Ausbildungen beginnen im August\/September.
@@ -203,11 +197,11 @@ Ausbildungsberufe mit der Handwerkskammer \(HWK\) als zuständige Stelle:
 
 [Lehrstellen-Radar im Handwerk](http://handwerk.de/lehrstellen-radar) Die Webseite ist auf Deutsch.
 
-Es gibt noch mehr Webseiten, wo Sie nach Ausbildungen suchen können. Oft sind es dieselben Webseiten, wo Sie auch nach Arbeit suchen können. [Wie finde ich Arbeit?](#arbeit)
+Es gibt noch mehr Webseiten, wo Sie nach Ausbildungen suchen können. Oft sind es dieselben Webseiten, wo Sie auch nach Arbeit suchen können.  Mehr Informationen finden Sie im Kapitel [Wie finde ich Arbeit?](#arbeit)
 
 Manche Firmen stellen ihre Ausbildungsplätze nicht auf eine Webseite oder nur auf ihre eigene Webseite. Sie können auch in Ihrer Stadt nach Firmen suchen, die interessant für Sie sind. Sie können die Chefin oder den Chef persönlich fragen, ob Sie eine Bewerbung für eine Ausbildung abgeben können.
 
-Oft kann man auch über ein [Praktikum ](#berufliche orientierung)einen Ausbildungsplatz finden.
+Oft kann man auch über ein [Praktikum ](#berufliche orientierung)einen Ausbildungsplatz finden. Mehr Informationen finden Sie im Kapitel Was ist berufliche Orientierung?
 
 Auch eine Einstiegsqualifizierung kann helfen, einen Ausbildungsplatz zu bekommen.
 

@@ -58,7 +58,7 @@ Zum Beispiel:
 * Wo haben Sie gearbeitet? Wie ist der Name der Firma?
 
 
-Einen Lebenslauf braucht man nicht nur für eine Bewerbung. Auch in einer Beratung hilft es, wenn man einen Lebenslauf hat. 
+Einen Lebenslauf braucht man nicht nur für eine Bewerbung. Auch in einer Beratung hilft es, wenn man einen Lebenslauf hat.
 
 Es gibt viele Webseiten, wo Sie Formulare für einen Lebenslauf finden. Zum Beispiel gibt es den [EuroPass](http://europass.cedefop.europa.eu/de/documents/curriculum-vitae/templates-instructions). Auf dieser Webseite finden Sie Formulare in 27 Sprachen. Sie können dort auch online einen Lebenslauf schreiben.
 
@@ -72,13 +72,13 @@ Zeugnisse sind wichtig in Deutschland. Eine Firma kann dann einfacher verstehen,
 
 Es gibt verschiedene Zeugnisse:
 
-* Zeugnisse über den Abschluss einer Schule 
+* Zeugnisse über den Abschluss einer Schule
 
-* Zeugnisse über den Abschluss einer Ausbildung 
+* Zeugnisse über den Abschluss einer Ausbildung
 
-* Zeugnisse über den Abschluss eines Studiums 
+* Zeugnisse über den Abschluss eines Studiums
 
-* Zeugnisse über ein Praktikum \(Was hat man in dem Praktikum gemacht? 
+* Zeugnisse über ein Praktikum \(Was hat man in dem Praktikum gemacht?
 
 * Zeugnisse über die Arbeit in einer Firma \(Arbeitszeugnis\)
 
@@ -95,9 +95,7 @@ Wenn Sie bei der Agentur für Arbeit oder dem Jobcenter registriert sind, gibt e
 
 Wenn Sie nicht bei der Agentur für Arbeit oder dem Jobcenter registriert sind, können Sie sich bei der Agentur für Arbeit beraten lassen. Die Agentur für Arbeit kann Bewerbungstrainings finanzieren, wenn Sie spezielle Voraussetzungen erfüllen. Mehr Informationen finden Sie unter [Was machen die Agenturen für Arbeit?](#agentur)
 
-Sie können sich auch bei einer Migrationsberatung für Erwachsene oder einer Bildungsberatung informieren.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+Sie können sich auch bei einer Migrationsberatung für Erwachsene oder einer Bildungsberatung informieren.  Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ### Stand
 

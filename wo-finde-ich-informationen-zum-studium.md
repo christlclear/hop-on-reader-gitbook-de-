@@ -35,9 +35,7 @@ Man kann als Erwachsener auch einen Berufsabschluss machen, wenn man vorher stud
 
 Wenn Sie älter als 25 Jahre sind, können Sie in unserem [Fahrplan ](#fahrplan)sehen, welche Wege es für Sie gibt, einen Berufsabschluss nachzuholen.
 
-Wenn Sie jünger als 25 Jahre sind und wenig berufliche Erfahrungen haben, ist der Weg über eine Ausbildung der beste Weg für Sie.
-
-[Was ist Ausbildung?](#ausbildung)
+Wenn Sie jünger als 25 Jahre sind und wenig berufliche Erfahrungen haben, ist der Weg über eine Ausbildung der beste Weg für Sie. Mehr Informationen finden Sie im Kapitel [Was ist Ausbildung?](#ausbildung)
 
 ### Stand
 

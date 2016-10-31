@@ -54,15 +54,11 @@ Nein. Nach dem Gesetz gibt es keine Altersgrenze. Manchmal gibt es Altersgrenzen
 
 Ja. Für die Vorbereitung auf die Nichtschülerprüfung in Berufen mit schulischer Ausbildung braucht man nach dem Gesetz einen Schulabschluss. Meistens braucht man einen Mittleren Schulabschluss \(MSA\) und einen Berufsabschluss oder mehrere Jahre berufliche Erfahrungen. Mit einem Abitur\/Hochschulabschluss gibt es andere Regeln.
 
-Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.
-
-[Was ist Anerkennung?](#anerkennung)
+Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen. Mehr Informationen finden Sie im Kapitel [Was ist Anerkennung?](#anerkennung)
 
 Man kann einen Schulabschluss auch als Erwachsener nachholen. Das heißt, man macht einen Kurs und bereitet sich auf die Prüfung vor. In vielen Städten gibt es Angebote, wenn man den Hauptschulabschluss oder den Mittleren Schulabschluss nachholen will - zum Beispiel in den Volkshochschulen. Es gibt auch Angebote für das Fachabitur oder Abitur, wenn man spezielle Voraussetzungen erfüllt.
 
-In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ## Welche Deutschkenntnisse brauche ich für eine Vorbereitung auf die Nichtschülerprüfung?
 
@@ -72,9 +68,7 @@ Man muss in kurzer Zeit sehr viel Theorie lernen. In der Fachschule muss man seh
 
 ## Was kann ich machen, wenn ich die Deutschkenntnisse noch nicht habe?
 
-Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.
-
-[Wo kann ich Deutsch lernen?](#Deutsch)
+Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.  Mehr Informationen finden Sie im Kapitel [Wo kann ich Deutsch lernen?](#Deutsch)
 
 Ab 2017 ist es möglich, eine Vorbereitung auf die Nichtschülerprüfung mit einem berufsbezogenen Deutschkurs zu kombinieren. Berufsbezogen heißt, dass man nicht Deutsch für den Alltag, sondern Deutsch für den Beruf lernt. Die Kurse gehören zum neuen [Programm vom BAMF \(DeuFöV\).](http://www.bamf.de/DE/Willkommen/DeutschLernen/DeutschBeruf/Bundesprogramm-45a/bundesprogramm-45a-node.html)
 
@@ -84,7 +78,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich eine Vorbereitung auf die Nichtschülerprüfung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -102,7 +96,7 @@ Die Agentur für Arbeit kann eine Vorbereitung auf die Nichtschülerprüfung fin
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer  [Rechtsberatung.](#beratung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer  [Rechtsberatung. ](#beratung)Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 Mit einer Aufenthaltsgestattung oder Duldung ist es schwer, eine Finanzierung durch die Agentur für Arbeit zu bekommen. Wenn die Dauer Ihrer Aufenthaltsgestattung oder Duldung kürzer als die Vorbereitung auf die Nichtschülerprüfung ist, kann das gegen eine Finanzierung sprechen.
 
@@ -116,7 +110,7 @@ Für die Zeit der Ausbildung kann man eine Duldung bekommen. Duldung bedeutet ei
 
 Die Regel nennt nur die Ausbildung. Eine Vorbereitung auf die Nichtschülerprüfung wird dort nicht konkret genannt.
 
-Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Informieren Sie sich bei einer [Beratungsstelle.](#migrationsberatung-rechtsberatung) Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich finanzielle Hilfe für eine Vorbereitung auf die Nichtschülerprüfung bekommen?
 
@@ -142,23 +136,17 @@ Die Agentur für Arbeit oder das Jobcenter können eine Vorbereitung auf die Nic
 
 Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit und das Jobcenter entscheiden in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Vorbereitung auf die Nichtschülerprüfung machen möchte.
 
-Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.
-
-[Was ist der Berufspsychologische Service?](#berufspsychologischer)
+Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.  Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 ### _Sie sind arbeitslos und bekommen kein Geld vom Jobcenter oder der Agentur für Arbeit?_
 
-Sie können sich bei der Agentur für Arbeit als „arbeitsuchend“ registrieren.
-
-[Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
+Sie können sich bei der Agentur für Arbeit als „arbeitsuchend“ registrieren.  Mehr Informationen finden Sie im Kapitel [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
 
 Die Agentur für Arbeit kann eine Vorbereitung auf die Nichtschülerprüfung finanzieren, wenn Sie die Voraussetzungen erfüllen. Die Agentur für Arbeit kann auch zum Beispiel Fahrtkosten finanzieren.
 
 Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Vorbereitung auf die Nichtschülerprüfung machen möchte.
 
-Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.
-
-[Was ist der Berufspsychologische Service?](#berufspsychologischer)
+Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt. Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 ## Kann ich Hilfe bei der Kinderbetreuung bekommen, wenn ich eine Vorbereitung auf die Nichtschülerprüfung mache?
 
@@ -170,9 +158,7 @@ Informationen finden Sie auf Deutsch auf der [Webseite der Bundesagentur für Ar
 
 Es gibt keine Webseite, wo man alle Kurse zur Vorbereitung auf die Nichtschülerprüfung in Deutschland findet.
 
-In einer Bildungsberatung kann man Informationen bekommen.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man Informationen bekommen. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ### Stand
 

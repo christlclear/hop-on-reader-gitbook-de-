@@ -41,15 +41,11 @@ Ja. Für alle berufsbegleitenden Ausbildungen braucht man nach dem Gesetz einen 
 
 Wenn man Abitur hat, gibt es andere Regeln.
 
-Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.
-
-[Was ist Anerkennung?](#anerkennung)
+Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen. Mehr Informationen finden Sie im Kapitel [Was ist Anerkennung?](#anerkennung)
 
 Man kann einen Schulabschluss auch als Erwachsener nachholen. Das heißt, man macht einen Kurs und bereitet sich auf die Prüfung vor. In vielen Städten gibt es Angebote, wenn man den Hauptschulabschluss oder den Mittleren Schulabschluss nachholen will - zum Beispiel in den Volkshochschulen. Es gibt auch Angebote für das Fachabitur oder Abitur, wenn man spezielle Voraussetzungen erfüllt.
 
-In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ## Welche Deutschkenntnisse brauche ich für eine berufsbegleitende Ausbildung?
 
@@ -59,9 +55,7 @@ In der Fachschule muss man viel lesen und schreiben. Die Prüfungen sind auf Deu
 
 ## Was kann ich machen, wenn ich die Deutschkenntnisse noch nicht habe?
 
-Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.
-
-[Wo kann ich Deutsch lernen?](#Deutsch)
+Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.  Mehr Informationen finden Sie im Kapitel [Wo kann ich Deutsch lernen?](#Deutsch)
 
 Ab 2017 ist es möglich, eine berufsbegleitende Ausbildung mit einem berufsbezogenen Deutschkurs zu kombinieren. Berufsbezogen heißt, dass man nicht Deutsch für den Alltag, sondern Deutsch für den Beruf lernt. Die Kurse gehören zum neuen [Programm vom BAMF \(DeuFöV\).](http://www.bamf.de/DE/Willkommen/DeutschLernen/DeutschBeruf/Bundesprogramm-45a/bundesprogramm-45a-node.html)
 
@@ -71,7 +65,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich eine berufsbegleitende Ausbildung machen?
 
@@ -92,7 +86,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer  [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer  [Rechtsberatung](#beratung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer  [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung). Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 Berufsbegleitende Ausbildungen werden von staatlichen und von privaten Fachschulen organisiert. Private Fachschulen kosten Geld. Auch in staatlichen Fachschulen muss man manchmal ein Schulgeld bezahlen.
 
@@ -108,7 +102,7 @@ Für die Zeit einer Ausbildung kann man eine Duldung bekommen, wenn man die Vora
 
 Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln.
 
-Informieren Sie sich bei einer  [Rechtsberatung](#beratung).
+Informieren Sie sich bei einer [Rechtsberatung](#beratung). Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich finanzielle Hilfe für eine berufsbegleitende Ausbildung bekommen?
 
@@ -136,7 +130,7 @@ Ein Programm für die Finanzierung von berufsbegleitender Ausbildung heißt [WeG
 
 Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine berufsbegleitende Ausbildung machen möchte.
 
-Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt. [Was ist der Berufspsychologische Service?](#berufspsychologischer)
+Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.  Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 ### _Sie bekommen Geld vom Jobcenter?_
 
@@ -158,9 +152,7 @@ Es gibt keine Webseite, wo man alle berufsbegleitenden Ausbildungen in Deutschla
 
 Manchmal haben die Angebote auch andere Namen.
 
-In einer Bildungsberatung kann man sich informieren.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man sich informieren. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 Manchmal gibt es auch spezielle Beratungsstellen. Aktuell gibt es ein Programm für die berufsbegleitende Ausbildung als Erzieherin oder Erzieher. Das Programm findet in 6 Bundesländern statt.
 

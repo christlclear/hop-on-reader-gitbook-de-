@@ -21,7 +21,7 @@ Nachqualifizierung wird von einem Bildungsinstitut organisiert. In einer Nachqua
 
 Die Abschlussprüfung heißt Externenprüfung. Externenprüfung bedeutet, dass man nicht über eine Ausbildung zur Abschlussprüfung geht. Für die Externenprüfung braucht man eine Erlaubnis von der zuständigen Stelle. Die Regeln stehen im Berufsbildungsgesetz \([§45 BBiG](https://www.gesetze-im-internet.de/bbig_2005/__45.html)\). Der Inhalt der Externenprüfung ist derselbe wie bei der Abschlussprüfung nach der Ausbildung.
 
-Es gibt einen Zusammenhang zwischen Nachqualifizierung und der [Vorbereitung auf die Externenprüfung.](#externenpruefung) Eine Nachqualifizierung ist wie eine individuelle und längere Vorbereitung auf die Externenprüfung.
+Es gibt einen Zusammenhang zwischen Nachqualifizierung und der [Vorbereitung auf die Externenprüfung.](#externenpruefung) Eine Nachqualifizierung ist wie eine individuelle und längere Vorbereitung auf die Externenprüfung. 
 
 In diesem [Video](http://www.br.de/fernsehen/ard-alpha/sendungen/ich-mach-weiter/berufsabschluss-etappen-teilqualifizierung-100.html) vom Bayrischen Rundfunk berichtet eine Frau von einer Teilqualifikation als „Fachkraft für Büromanagement“. Nach diesem Kurs macht sie eine Prüfung und bekommt ein Zertifikat. Der Kurs bereitet nicht auf die Externenprüfung vor. Ein Mann berichtet von einer Vorbereitung auf die Externenprüfung im Beruf „Fachlagerist“. Das Video ist auf Deutsch.
 
@@ -43,7 +43,7 @@ Bei Berufen mit schulischer Ausbildung gibt es eine gesetzlich festgelegte Zeit.
 
 Eine Nachqualifizierung besteht aus Modulen. Man kann oft an einzelnen Modulen teilnehmen. Das heißt, man kann ein Zertifikat bekommen und Arbeit suchen. Oder man lernt weiter bis zum Berufsabschluss. Man bekommt nur einen Berufsabschluss, wenn man an allen notwendigen Modulen teilnimmt und die Abschlussprüfung besteht.
 
-Alle Module zusammen dauern meistens so lange wie eine Umschulung. [Was ist eine Umschulung?](#umschulung)
+Alle Module zusammen dauern meistens so lange wie eine Umschulung.  Mehr Informationen finden Sie im Kapitel [Was ist eine Umschulung?](#umschulung)
 
 Die meisten Angebote sind in Vollzeit. Vollzeit heißt, man lernt jeden Tag etwa 7 bis 8 Stunden zum Beispiel im Bildungsinstitut oder in einem Praktikum in einer Firma.
 
@@ -61,15 +61,11 @@ Nach dem Gesetz braucht man bei Berufen mit dualer Ausbildung keinen Schulabschl
 
 In Berufen mit schulischer Ausbildung braucht man nach dem Gesetz einen Schulabschluss. Die Art des Schulabschlusses ist abhängig von dem Beruf.
 
-Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.
-
-[Was ist Anerkennung?](#anerkennung)
+Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen. Mehr Informationen finden Sie im Kapitel [Was ist Anerkennung?](#anerkennung)
 
 Man kann einen Schulabschluss auch als Erwachsener nachholen. Das heißt, man macht einen Kurs und bereitet sich auf die Prüfung vor. In vielen Städten gibt es Angebote, wenn man den Hauptschulabschluss oder den Mittleren Schulabschluss nachholen will - zum Beispiel in den Volkshochschulen. Es gibt auch Angebote für das Fachabitur oder Abitur, wenn man spezielle Voraussetzungen erfüllt.
 
-In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ## Welche Deutschkenntnisse brauche ich für eine Nachqualifizierung?
 
@@ -85,9 +81,7 @@ Manchmal gibt es auch spezielle Nachqualifizierungen für Erwachsene mit Deutsch
 
 ## Was kann ich machen, wenn ich die Deutschkenntnisse noch nicht habe?
 
-Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.
-
-[Wo kann ich Deutsch lernen?](#Deutsch)
+Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.  Mehr Informationen finden Sie im Kapitel [Wo kann ich Deutsch lernen?](#Deutsch)
 
 Ab 2017 ist es möglich, eine Nachqualifizierung mit einem berufsbezogenen Deutschkurs zu kombinieren. Berufsbezogen heißt, dass man nicht Deutsch für den Alltag, sondern Deutsch für den Beruf lernt. Die Kurse gehören zum neuen [Programm vom BAMF \(DeuFöV\).](http://www.bamf.de/DE/Willkommen/DeutschLernen/DeutschBeruf/Bundesprogramm-45a/bundesprogramm-45a-node.html)
 
@@ -99,7 +93,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich eine Nachqualifizierung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -116,7 +110,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung.](#beratung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung. ](#beratung)Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 Nachqualifizierungen werden von Bildungsinstituten organisiert. Das heißt, eine Nachqualifizierung kostet Geld. Die Agentur für Arbeit kann eine Nachqualifizierung finanzieren. Wenn die Nachqualifizierung genau so lange dauert wie die Aufenthaltsgestattung oder Duldung, kann das gegen eine Finanzierung sprechen. Eine Möglichkeit ist die Teilnahme an einzelnen Modulen.
 
@@ -132,11 +126,11 @@ Für die Zeit der Ausbildung kann man eine Duldung bekommen, wenn man spezielle 
 
 Die Regel nennt nur die Ausbildung. Nachqualifizierung wird dort nicht konkret genannt.
 
-Informieren Sie sich bei einer [Rechtsberatung](#beratung) .
+Informieren Sie sich bei einer [Rechtsberatung. ](#beratung)Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich finanzielle Hilfe für eine Nachqualifizierung bekommen?
 
-In einer Nachqualifizierung bekommt man kein Geld von einer Firma. Eine Ausnahme ist die berufsbegleitende Nachqualifizierung. [Was ist eine berufsbegleitende Nachqualifizierung?](#berufsbegleitend)
+In einer Nachqualifizierung bekommt man kein Geld von einer Firma. Eine Ausnahme ist die berufsbegleitende Nachqualifizierung.  Mehr Informationen finden Sie im Kapitel [Was ist eine berufsbegleitende Nachqualifizierung?](#berufsbegleitend)
 
 Nachqualifizierungen werden von Bildungsinstituten organisiert. Das heißt, eine Nachqualifizierung kostet Geld.
 
@@ -154,7 +148,7 @@ Die Agentur für Arbeit oder das Jobcenter können eine Nachqualifizierung finan
 
 Die Regeln und Voraussetzungen für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit und das Jobcenter entscheiden in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Nachqualifizierung machen möchte. Wichtig ist auch, dass man zeigt, dass man mit dem Berufsabschluss gute Chancen auf dem Arbeitsmarkt hat.
 
-Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt. [Was ist der Berufspsychologische Service?](#berufspsychologischer)
+Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.  Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 ### _Sie bekommen kein Geld vom Jobcenter oder der Agentur für Arbeit?_
 
@@ -164,9 +158,7 @@ Es gelten dieselben Regeln für die Finanzierung.
 
 Der erste Schritt ist eine Registrierung bei der Agentur für Arbeit.
 
-Sie können sich bei der Agentur für Arbeit als „arbeitsuchend“ registrieren.
-
-[Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
+Sie können sich bei der Agentur für Arbeit als „arbeitsuchend“ registrieren.  Mehr Informationen finden Sie im Kapitel [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
 
 ### 3. Finanzierung durch das Bundesland oder den Europäischen Sozialfonds \(ESF\)
 
@@ -182,9 +174,7 @@ Informationen finden Sie auf der [Webseite der Bundesagentur für Arbeit](https:
 
 Es gibt keine Webseite, wo man alle Nachqualifizierungen in Deutschland findet.
 
-In einer Bildungsberatung können Sie Informationen für Ihre Region bekommen. Manchmal gibt es auch spezielle Beratungsstellen für Nachqualifizierung.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung können Sie Informationen für Ihre Region bekommen. Manchmal gibt es auch spezielle Beratungsstellen für Nachqualifizierung. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ### Stand
 

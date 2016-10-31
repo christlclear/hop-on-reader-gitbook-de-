@@ -115,9 +115,7 @@ Das Jobcenter oder die Agentur für Arbeit können die Übersetzung und\/oder da
 
 Die Agentur für Arbeit kann die Übersetzung und\/oder das Anerkennungsverfahren von Abschlüssen finanzieren. Es gibt aber kein Recht auf Finanzierung. Sie müssen zeigen, dass eine Übersetzung oder ein Verfahren zur Anerkennung wichtig ist, um in der Zukunft eine Arbeit zu finden. Sprechen Sie vor einer Übersetzung oder einem Verfahren zur Anerkennung mit der Agentur für Arbeit über die Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall.
 
-Wenn Sie noch nicht bei der Agentur für Arbeit registriert sind, können Sie sich bei der Agentur für Arbeit als „arbeitsuchend“ melden.
-
-[Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
+Wenn Sie noch nicht bei der Agentur für Arbeit registriert sind, können Sie sich bei der Agentur für Arbeit als „arbeitsuchend“ melden.  Mehr Informationen finden Sie im Kapitel [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
 
 _Sie haben eine Aufenthaltsgestattung oder Duldung?_
 
@@ -130,7 +128,7 @@ Es gelten dieselben Regeln. Für eine Finanzierung durch die Agentur für Arbeit
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung.](#beratung) Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung.](#beratung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung.](#beratung) Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung. ](#beratung) Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte?
 
 Das Förderprogramm IQ hat viele Angebote für Personen, die einen Abschluss anerkennen lassen.
 

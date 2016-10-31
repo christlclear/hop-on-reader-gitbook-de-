@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Impressum](test.md)
 * [Was ist das Hop-on GitBook?](chapter1.md)
 * [Was ist berufliche Bildung?](was-ist-berufliche-bildung.md)
 * [Warum ist ein Berufsabschluss wichtig?](warum-ist-ein-berufsabschluss-wichtig.md)

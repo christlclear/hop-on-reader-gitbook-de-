@@ -12,9 +12,7 @@ Es gibt Gesetze und Regeln, die überall in Deutschland gelten. Aber die Bundesl
 
 Es gibt viele Gesetze und Regeln in der Bildung. Manchmal gibt es aber auch Ausnahmen von den Regeln und Entscheidungen über Einzelfälle. Eine Entscheidung im Einzelfall ist eine Entscheidung auf Basis einer Person, ihrer Erfahrungen und ihrer Situation.
 
-Deshalb sollten Sie sich immer gut informieren. Es gibt viele kostenlose Beratungsstellen, die Ihnen helfen können.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+Deshalb sollten Sie sich immer gut informieren. Es gibt viele kostenlose Beratungsstellen, die Ihnen helfen können. Informationen zu Beratungsstellen finden sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ### Stand
 

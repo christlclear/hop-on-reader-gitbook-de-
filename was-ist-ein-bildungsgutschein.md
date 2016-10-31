@@ -41,7 +41,7 @@ Es ist gut, wenn man eine schriftliche Argumentation hat. Man kann zum Beispiel 
 
 Ein Beispiel:
 
-Frau K. ist 29 Jahre alt und möchte eine Umschulung zur Servicekauffrau im Luftverkehr machen. Sie hat sich in einer Beratung informiert und ein Bildungsinstitut gefunden. 
+Frau K. ist 29 Jahre alt und möchte eine Umschulung zur Servicekauffrau im Luftverkehr machen. Sie hat sich in einer Beratung informiert und ein Bildungsinstitut gefunden.
 
 Sie möchte einen Antrag für eine Finanzierung bei ihrem Jobcenter stellen. Sie spricht mit ihrer Beraterin im Jobcenter. Außerdem schreibt Sie einen formalen Brief. In dem Brief beschreibt sie,
 
@@ -56,25 +56,25 @@ Sie möchte einen Antrag für eine Finanzierung bei ihrem Jobcenter stellen. Sie
 
 Es ist wichtig, dass man Argumente für den Berufsabschluss und den Kurs hat. Man zeigt, dass man sich mit dem Beruf und dem Kurs beschäftigt hat. Wenn man einen schriftlichen Antrag stellt, bekommt man auch eine schriftliche Antwort, wenn eine Finanzierung nicht möglich ist.
 
-Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Für Erwachsene ohne Berufsabschluss ist ein Kurs mit dem Ziel Berufsabschluss nach dem Gesetz notwendig. Es gibt aber kein Recht auf eine Finanzierung. Die Agenturen für Arbeit und die Jobcenter entscheiden in jedem Einzelfall. 
+Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Für Erwachsene ohne Berufsabschluss ist ein Kurs mit dem Ziel Berufsabschluss nach dem Gesetz notwendig. Es gibt aber kein Recht auf eine Finanzierung. Die Agenturen für Arbeit und die Jobcenter entscheiden in jedem Einzelfall.
 
 Jedes Jahr analysieren die Agenturen für Arbeit zusammen mit anderen Institutionen auch den regionalen Arbeitsmarkt. Sie planen, welche Berufe und Kurse besonders wichtig sind für die Region. Diese Kurse findet man in der „Bildungszielplanung“. Für diese Kurse ist es allgemein einfacher, eine Finanzierung zu bekommen.
 
-Wenn die Agentur für Arbeit oder das Jobcenter nicht sicher sind, ob sie den Kurs finanzieren, könnensie einen Termin bei dem Berufspsychologischen Service der Agentur für Arbeit machen. [Was ist der Berufspsychologische Service?](#berufspsychologischer)
+Wenn die Agentur für Arbeit oder das Jobcenter nicht sicher sind, ob sie den Kurs finanzieren, könnensie einen Termin bei dem Berufspsychologischen Service der Agentur für Arbeit machen. Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 Wenn man die Finanzierung des Kurses bekommt und die Prüfung besteht, kann man eine Prämie bekommen. Diese Prämie kann man bekommen, wenn man an einem Kurs teilnimmt, der von der Agentur für Arbeit oder dem Jobcenter finanziert wird. Der Kurs muss einen Berufsabschluss zum Ziel haben – wie zum Beispiel eine Umschulung.  Die Regeln stehen im Sozialgesetzbuch \([131a SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/131a.html)\). Die Agentur für Arbeit ist verantwortlich für die Bezahlung der Prämie.
 
 ### _Sie haben eine Aufenthaltsgestattung oder Duldung?_
 
-Die Agentur für Arbeit ist für Sie verantwortlich. Sie können sich bei der Agentur für Arbeit in Ihrer Region als „arbeitsuchend“ melden. [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
+Die Agentur für Arbeit ist für Sie verantwortlich. Sie können sich bei der Agentur für Arbeit in Ihrer Region als „arbeitsuchend“ melden.  Mehr Informationen finden Sie im Kapitel [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
 
 Die Agentur für Arbeit kann die verschiedenen Wege zum Berufsabschluss finanzieren. Das heißt, Sie können einen Bildungsgutschein bekommen, wenn Sie die Voraussetzungen erfüllen. Es gelten dieselben Regeln für eine Finanzierung.
 
 Wichtig ist, dass Sie eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen können. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). 
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung) .
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung. ](#beratung)Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ### Stand
 

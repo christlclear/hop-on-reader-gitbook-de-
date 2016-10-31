@@ -30,7 +30,7 @@ Die Vorbereitung auf die Externenprüfung ist nur möglich in Berufen, in denen 
 
 Es gibt nicht für alle Berufe Kurse. Der Grund ist, dass es für viele Berufe zu wenig Nachfrage von Personen oder dem Arbeitsmarkt gibt.
 
-In Berufen mit schulischer Ausbildung gibt es andere Regeln. Die Regeln sind unter [Vorbereitung auf die Nichtschülerprüfung](#nichtschuelerpruefung) beschrieben.
+In Berufen mit schulischer Ausbildung gibt es andere Regeln. Die Regeln sind im Kapitel [Was ist eine Vorbereitung auf die Nichtschülerprüfung?](#nichtschuelerpruefung) beschrieben.
 
 ## Wie lange dauert eine Vorbereitung auf die Externenprüfung?
 
@@ -50,15 +50,11 @@ Nein. Nach dem Gesetz gibt es keine Altersgrenze. Manchmal gibt es Altersgrenzen
 
 Nach dem Gesetz braucht man bei Berufen mit dualer Ausbildung keinen Schulabschluss. Aber manchmal wird ein Schulabschluss von dem Bildungsinstitut oder der Agentur für Arbeit oder dem Jobcenter erwartet.
 
-Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.
-
-[Was ist Anerkennung?](#anerkennung)
+Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen. Mehr Informationen finden Sie im Kapitel [Was ist Anerkennung?](#anerkennung)
 
 Man kann einen Schulabschluss auch als Erwachsener nachholen. Das heißt, man macht einen Kurs und bereitet sich auf die Prüfung vor. In vielen Städten gibt es Angebote, wenn man den Hauptschulabschluss oder den Mittleren Schulabschluss nachholen will - zum Beispiel in den Volkshochschulen. Es gibt auch Angebote für das Fachabitur oder Abitur, wenn man spezielle Voraussetzungen erfüllt.
 
-In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ## Welche Deutschkenntnisse brauche ich für eine Vorbereitung auf die Externenprüfung?
 
@@ -68,9 +64,7 @@ Man muss in kurzer Zeit sehr viel Theorie lernen. Man muss viel lesen und schrei
 
 ## Was kann ich machen, wenn ich die Deutschkenntnisse noch nicht habe?
 
-Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.
-
-[Wo kann ich Deutsch lernen?](#Deutsch)
+Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.  Mehr Informationen finden Sie im Kapitel [Wo kann ich Deutsch lernen?](#Deutsch)
 
 Ab 2017 ist es möglich, eine Vorbereitung auf die Externenprüfung mit einem berufsbezogenen Deutschkurs zu kombinieren. Berufsbezogen heißt, dass man nicht Deutsch für den Alltag, sondern Deutsch für den Beruf lernt. Die Kurse gehören zum neuen [Programm vom BAMF \(DeuFöV\).](http://www.bamf.de/DE/Willkommen/DeutschLernen/DeutschBeruf/Bundesprogramm-45a/bundesprogramm-45a-node.html)
 
@@ -82,7 +76,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich eine Vorbereitung auf die Externenprüfung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -103,7 +97,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung.](#beratung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung. ](#beratung)Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 Mehr Informationen finden Sie unter_ Kann ich finanzielle Hilfe für eine Vorbereitung auf die Externenprüfung bekommen?_
 
@@ -115,7 +109,7 @@ Für die Zeit einer Ausbildung kann man eine Duldung bekommen. Duldung bedeutet 
 
 Die Regel nennt nur die Ausbildung. Eine Vorbereitung auf die Externenprüfung wird dort nicht konkret genannt.
 
-Informieren Sie sich bei einer [Rechtsberatung](#beratung).
+Informieren Sie sich bei einer [Rechtsberatung](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich finanzielle Hilfe für eine Vorbereitung auf die Externenprüfung bekommen?
 
@@ -144,9 +138,7 @@ Es gibt unterschiedliche Möglichkeiten der Finanzierung:
 1. Finanzierung durch die Agentur für Arbeit oder das Jobcenter
   Die Agentur für Arbeit oder das Jobcenter können eine Vorbereitung auf die Externenprüfung finanzieren, wenn Sie spezielle Voraussetzungen erfüllen. Sie bekommen weiter Geld vom Jobcenter oder der Agentur für Arbeit.
 
-  Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit und die Jobcenter entscheiden in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Vorbereitung auf die Externenprüfung machen möchte. Wichtig ist auch, dass man zeigt, dass man mit dem Berufsabschluss gute Chancen auf dem Arbeitsmarkt hat. Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.
-
-  [Was ist der Berufspsychologische Service?](#berufspsychologischer)
+  Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit und die Jobcenter entscheiden in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Vorbereitung auf die Externenprüfung machen möchte. Wichtig ist auch, dass man zeigt, dass man mit dem Berufsabschluss gute Chancen auf dem Arbeitsmarkt hat. Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.  Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 2. Finanzierung durch das Bundesland oder den Europäischen Sozialfonds \(ESF\)
   Manchmal gibt es spezielle Angebote in den Bundesländern. Das heißt, das Bundesland kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn zum Beispiel die Agentur für Arbeit oder das Jobcenter nicht finanzieren können.
@@ -155,15 +147,11 @@ Es gibt unterschiedliche Möglichkeiten der Finanzierung:
 ### _Sie sind arbeitslos und bekommen kein Geld vom Jobcenter oder der Agentur für Arbeit?_
 
 1. Finanzierung durch die Agentur für Arbeit
-  Sie können sich bei der Agentur für Arbeit als „arbeitsuchend“ registrieren.
-
-  [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
+  Sie können sich bei der Agentur für Arbeit als „arbeitsuchend“ registrieren.  Mehr Informationen finden Sie im Kapitel [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
 
   In einer Vorbereitung auf die Externenprüfung bekommen Sie kein Geld von einer Firma. Die Agentur für Arbeit kann eine Vorbereitung auf die Externenprüfung finanzieren. Die Agentur für Arbeit kann zum Beispiel auch Fahrtkosten finanzieren.
 
-  Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Vorbereitung auf die Externenprüfung machen möchte. Wichtig ist auch, dass man zeigt, dass man mit dem Berufsabschluss gute Chancen auf dem Arbeitsmarkt hat. Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.
-
-  [Was ist der Berufspsychologische Service?](#berufspsychologischer)
+  Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Vorbereitung auf die Externenprüfung machen möchte. Wichtig ist auch, dass man zeigt, dass man mit dem Berufsabschluss gute Chancen auf dem Arbeitsmarkt hat. Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.  Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 2. Finanzierung durch das Bundesland oder den Europäischen Sozialfonds \(ESF\)
   Manchmal gibt es spezielle Angebote in den Bundesländern. Das heißt, das Bundesland kann eine Vorbereitung auf die Externenprüfung finanzieren, wenn zum Beispiel die Agentur für Arbeit oder das Jobcenter nicht finanzieren können.
@@ -181,9 +169,7 @@ Es gibt keine Webseite, wo man alle Kurse zur Vorbereitung auf die Externenprüf
 
 Man kann sich bei der zuständigen Stelle informieren oder bei einer Bildungsberatung.
 
-Manchmal gibt es auch spezielle Beratungsstellen für Nachqualifizierung. Dort bekommt man auch Informationen zur Vorbereitung auf die Externenprüfung.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+Manchmal gibt es auch spezielle Beratungsstellen für Nachqualifizierung. Dort bekommt man auch Informationen zur Vorbereitung auf die Externenprüfung.  Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ### Stand
 

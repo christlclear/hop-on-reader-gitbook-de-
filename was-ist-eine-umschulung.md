@@ -45,15 +45,11 @@ Nach dem Gesetz braucht man bei Berufen mit dualer Ausbildung keinen Schulabschl
 
 In Berufen mit schulischer Ausbildung braucht man nach dem Gesetz einen Schulabschluss. Die Art des Schulabschlusses ist abhängig von dem Beruf.
 
-Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.
-
-[Was ist Anerkennung?](#anerkennung)
+Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.  Mehr Informationen finden Sie im Kapitel [Was ist Anerkennung?](#anerkennung)
 
 Man kann einen Schulabschluss auch als Erwachsener nachholen. Das heißt, man macht einen Kurs und bereitet sich auf die Prüfung vor. In vielen Städten gibt es Angebote, wenn man den Hauptschulabschluss oder den Mittleren Schulabschluss nachholen will - zum Beispiel in den Volkshochschulen. Es gibt auch Angebote für das Fachabitur oder Abitur, wenn man spezielle Voraussetzungen erfüllt.
 
-In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ## Welche Deutschkenntnisse brauche ich für eine Umschulung?
 
@@ -67,9 +63,7 @@ Es ist auch abhängig von dem Beruf und dem Angebot. Manchmal gibt es spezielle 
 
 ## Was kann ich machen, wenn ich die Deutschkenntnisse noch nicht habe?
 
-Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.
-
-[Wo kann ich Deutsch lernen?](#Deutsch)
+Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.  Mehr Informationen finden Sie im Kapitel [Wo kann ich Deutsch lernen?](#Deutsch)
 
 In einer Umschulung kann man keine ausbildungsbegleitenden Hilfen wie in einer Ausbildung bekommen.
 
@@ -83,7 +77,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich eine Umschulung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -100,7 +94,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung.](#beratung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung. ](#beratung) Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 Umschulungen werden von Bildungsinstituten organisiert. Bildungsinstitute kosten Geld.
 
@@ -116,13 +110,13 @@ Für die Zeit einer Ausbildung kann man eine Duldung bekommen. Duldung bedeutet 
 
 Die Regel nennt nur die Ausbildung. Eine Umschulung wird dort nicht konkret genannt.
 
-Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich finanzielle Hilfe für eine Umschulung bekommen?
 
 In einer Umschulung bekommt man kein Geld von einer Firma.
 
-Es gibt aber betriebliche Umschulung für Erwachsene. In der betrieblichen Umschulung bekommt man Geld von einer Firma. [Was ist eine betriebliche Umschulung?](#betrieblich)
+Es gibt aber betriebliche Umschulung für Erwachsene. In der betrieblichen Umschulung bekommt man Geld von einer Firma.  Mehr Informationen finden Sie im Kapitel [Was ist eine betriebliche Umschulung?](#betrieblich)
 
 Umschulungen werden von Bildungsinstituten organisiert. Bildungsinstitute sind wie Privatschulen. Privatschulen kosten Geld.
 
@@ -136,9 +130,7 @@ Die Agentur für Arbeit oder die Jobcenter können eine Umschulung finanzieren, 
 
 Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit und die Jobcenter entscheiden in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Umschulung machen möchte. Wichtig ist auch, dass man zeigt, dass man mit dem Berufsabschluss gute Chancen auf dem Arbeitsmarkt hat.
 
-Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.
-
-[Was ist der Berufspsychologische Service?](#berufspsychologischer)
+Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.  Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 Wenn Ihre Aufenthaltserlaubnis kürzer ist als die Umschulung, kann das gegen eine Finanzierung durch die Agentur für Arbeit oder das Jobcenter sprechen. Sie sollten auch mit Ihrer Ausländerbehörde sprechen, ob die Aufenthaltserlaubnis verlängert wird.
 
@@ -148,17 +140,13 @@ Es gibt nur wenige Umschulungen mit einer Finanzierung über das Bundesland oder
 
 1. Finanzierung durch die Agentur für Arbeit.
 
-Sie können sich bei der Agentur für Arbeit als „arbeitsuchend“ registrieren.
-
-[Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
+Sie können sich bei der Agentur für Arbeit als „arbeitsuchend“ registrieren.  Mehr Informationen finden Sie im Kapitel [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
 
 Die Agentur für Arbeit kann eine Umschulung finanzieren, wenn Sie spezielle Voraussetzungen erfüllen. Die Agentur für Arbeit kann auch zum Beispiel Fahrtkosten finanzieren.
 
 Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall. Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine Umschulung machen möchte. Wichtig ist auch, dass man zeigt, dass man mit dem Berufsabschluss gute Chancen auf dem Arbeitsmarkt hat.
 
-Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.
-
-[Was ist der Berufspsychologische Service?](#berufspsychologischer)
+Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.  Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 ## Kann ich Hilfe bei der Kinderbetreuung bekommen, wenn ich eine Umschulung mache?
 
@@ -174,9 +162,7 @@ Es gibt viele Webseiten auf Deutsch, wo man nach Umschulungen suchen kann. Die b
 
 Bei „Bildungsbereich“ muss man „Berufsausbildung\/Umschulung“ auswählen.
 
-Man kann sich auch persönlich in einer Bildungsberatung informieren.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+Man kann sich auch persönlich in einer Bildungsberatung informieren.  Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ### Stand
 

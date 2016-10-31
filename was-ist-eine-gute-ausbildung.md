@@ -17,11 +17,7 @@ Wenn man eine Antwort finden will, helfen zum Beispiel folgende Fragen:
 * Welche Chancen habe ich mit dem Beruf auf dem Arbeitsmarkt?
 
 
-Es gibt viele Beratungsstellen und Projekte, die Ihnen helfen können. Die Beraterinnen und Berater haben Informationen über Angebote in der Region und Kurse zur beruflichen Orientierung.
-
-[Was ist berufliche Orientierung?](#orientierung)
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+Es gibt viele Beratungsstellen und Projekte, die Ihnen helfen können. Die Beraterinnen und Berater haben Informationen über Angebote in der Region und Kurse zur beruflichen Orientierung. Mehr Informationen finden Sie in den Kapiteln [Was ist berufliche Orientierung? ](#orientierung) und[ ](#orientierung)[Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ### Stand
 

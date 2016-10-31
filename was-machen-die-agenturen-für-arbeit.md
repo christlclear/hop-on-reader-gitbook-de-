@@ -74,7 +74,7 @@ _Sie haben eine Aufenthaltsgestattung oder Duldung? _
 
 _Sie sind arbeitslos und bekommen kein Geld von der Agentur für Arbeit oder dem Jobcenter?_
 
-Sie können sich bei der Agentur für Arbeit in Ihrer Region als „arbeitsuchend“ melden.  [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
+Sie können sich bei der Agentur für Arbeit in Ihrer Region als „arbeitsuchend“ melden.   Mehr Informationen finden Sie im Kapitel  [Wie registriere ich mich bei der Agentur für Arbeit?](#agenturregistrierung)
 
 Mit der Registrierung können Sie von der Agentur für Arbeit finanzielle Hilfe bekommen zum Beispiel für:
 
@@ -91,7 +91,7 @@ Man muss spezielle Voraussetzungen erfüllen, um diese finanziellen Hilfen zu be
 
 Wichtig ist, dass man eine Beschäftigungserlaubnis von der Ausländerbehörde bekommen kann. Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man arbeiten darf.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung).
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 **Berufsabschluss**
 
@@ -99,9 +99,9 @@ Die Agentur für Arbeit kann auch die verschiedenen Wege zum Berufsabschluss fin
 
 Jedes Jahr analysieren die Agenturen für Arbeit zusammen mit anderen Institutionen auch den regionalen Arbeitsmarkt. Sie planen, welche Berufe und Kurse besonders wichtig sind für die Region. Diese Kurse findet man in der „Bildungszielplanung“. Für diese Kurse ist es einfacher, eine Finanzierung zu bekommen.
 
-Die Bestätigung über die Finanzierung durch die Agentur für Arbeit nennt man Bildungsgutschein. [Was ist ein Bildungsgutschein?](#bildungsgutschein)
+Die Bestätigung über die Finanzierung durch die Agentur für Arbeit nennt man Bildungsgutschein.  Mehr Informationen finden Sie im Kapitel  [Was ist ein Bildungsgutschein?](#bildungsgutschein)
 
-Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt. [Was ist der Berufspsychologische Service?](#berufspsychologischer)
+Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.  Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 ### Stand
 

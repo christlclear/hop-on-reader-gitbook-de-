@@ -72,15 +72,11 @@ Ja. Nach dem Gesetz braucht man für alle schulischen Ausbildungen einen Schulab
 
 Für kurze Ausbildungen braucht man meistens einen Hauptschulabschluss. Für längere Ausbildungen braucht man meistens einen Mittleren Schulabschluss.
 
-Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.
-
-[Was ist Anerkennung?](#anerkennung)
+Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.  Mehr Informationen finden Sie im Kapitel [Was ist Anerkennung?](#anerkennung)
 
 Man kann einen Schulabschluss auch als Erwachsener nachholen. Das heißt, man macht einen Kurs und bereitet sich auf die Prüfung vor. In vielen Städten gibt es Angebote, wenn man den Hauptschulabschluss oder den Mittleren Schulabschluss nachholen will - zum Beispiel in den Volkshochschulen. Es gibt auch Angebote für das Fachabitur oder Abitur, wenn man spezielle Voraussetzungen erfüllt.
 
-In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen.  Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ## Welche Deutschkenntnisse brauche ich für eine schulische Ausbildung?
 
@@ -94,9 +90,7 @@ Ein Beispiel ist der Ausbildungsberuf Erzieherin oder Erzieher. In einem Kinderg
 
 ## Was kann ich machen, wenn ich die Deutschkenntnisse noch nicht habe?
 
-Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.
-
-[Wo kann ich Deutsch lernen?](#Deutsch)
+Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.  Mehr Informationen finden Sie im Kapitel [Wo kann ich Deutsch lernen?](#Deutsch)
 
 Ab 2017 ist es möglich, eine Ausbildung mit einem berufsbezogenen Deutschkurs zu kombinieren. Berufsbezogen heißt, dass man nicht Deutsch für den Alltag, sondern Deutsch für den Beruf lernt. Die Kurse gehören zum neuen [Programm vom BAMF \(DeuFöV\).](http://www.bamf.de/DE/Willkommen/DeutschLernen/DeutschBeruf/Bundesprogramm-45a/bundesprogramm-45a-node.html)
 
@@ -106,7 +100,7 @@ Aber:
 
 In einer vollschulischen Ausbildung sind diese Deutschkurse nicht möglich.
 
-Der Aufenthaltsstatus hat auch Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen. Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
+Der Aufenthaltsstatus hat auch Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen. Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 Wenn Sie schon gute Deutschkenntnisse haben, aber noch weitere Hilfe brauchen, gibt es wenige Angebote in einer schulischen Ausbildung.
 
@@ -128,7 +122,7 @@ Bei schulischen Ausbildungen mit Ausbildungsgeld gibt es dieselben Regeln wie be
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer  [Rechtsberatung. ](#beratung)Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung.](#beratung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer  [Rechtsberatung. ](#beratung)Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung. ](#beratung) Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 Der Aufenthalt hat Einfluss auf die finanzielle Hilfe in einer schulischen Ausbildung.
 
@@ -144,7 +138,7 @@ Diese Regel ist nur gültig für Ausbildungen, die mindestens 2 Jahre dauern.
 
 Mit einer Arbeit als Fachkraft kann man danach eine Aufenthaltserlaubnis für zunächst 2 Jahre bekommen.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer  [Rechtsberatung.](#beratung)
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer  [Rechtsberatung. ](#beratung) Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich finanzielle Hilfe in einer schulischen Ausbildung bekommen?
 
@@ -182,7 +176,7 @@ Mit einer Aufenthaltsgestattung kann man kein BAföG bekommen.
 
 Mit einer Duldung kann man BAföG bekommen, wenn man seit 15 Monaten in Deutschland lebt.
 
-Mehr Informationen bekommen Sie bei dem Amt für Ausbildungsförderung oder bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Mehr Informationen bekommen Sie bei dem Amt für Ausbildungsförderung oder bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 Die Agentur für Arbeit kann schulische Ausbildungen bei privaten Fachschulen manchmal finanzieren. Die Regeln und Voraussetzungen für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](http://www.sozialgesetzbuch-sgb.de/sgbiii/81.html)\). Es gibt aber kein Recht auf eine Finanzierung. Die Agentur für Arbeit entscheidet in jedem Einzelfall.
 
@@ -202,18 +196,16 @@ Die Suche nach einer schulischen Ausbildung funktioniert wie die Suche nach Arbe
 
 2. Man muss eine Fachschule finden, bei der man die schulische Ausbildung machen kann. Es gibt staatliche Fachschulen und private Fachschulen.
 
-3. Man muss eine Bewerbung schreiben. [Was ist eine Bewerbung?](#bewerbung)
+3. Man muss eine Bewerbung schreiben.  Mehr Informationen finden Sie im Kapitel [Was ist eine Bewerbung?](#bewerbung)
 
 
 Meistens braucht man einen Lebenslauf, Fotos und eine Kopie vom Schulabschluss. Schulische Ausbildungen beginnen einmal oder zweimal im Jahr: im Februar\/März oder im September\/Oktober. Meistens muss man sich ein halbes Jahr vorher bewerben.
 
 Im [Kursnet der Bundesagentur für Arbeit](http://kursnet-finden.arbeitsagentur.de/kurs/start?region=venue&distance=25&elNotNull=true&ursprung=einfacheSuche&edugoal=&location=&portalSubmit=Suche+starten) kann man nach schulischen Ausbildungen in allen Bundesländern suchen. Die Webseite ist auf Deutsch.
 
-Bei „Bildungsbereich“ muss man „Berufsausbildung\/Umschulung“ auswählen. Das heißt, man sieht auch Umschulungen. Für Umschulungen gibt es aber andere Regeln. [Was ist Umschulung?](#umschulung)
+Bei „Bildungsbereich“ muss man „Berufsausbildung\/Umschulung“ auswählen. Das heißt, man sieht auch Umschulungen. Für Umschulungen gibt es aber andere Regeln.  Mehr Informationen finden Sie im Kapitel [Was ist Umschulung?](#umschulung)
 
-Man kann sich auch persönlich in einer Beratung informieren.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+Man kann sich auch persönlich in einer Beratung informieren.  Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ### Stand
 

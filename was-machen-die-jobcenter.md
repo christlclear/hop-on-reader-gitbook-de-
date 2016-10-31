@@ -44,9 +44,9 @@ Die Jobcenter können auch die verschiedenen Wege zum Berufsabschluss finanziere
 
 Jedes Jahr analysieren die Agenturen für Arbeit zusammen mit anderen Institutionen auch den regionalen Arbeitsmarkt. Sie planen, welche Berufe und Kurse besonders wichtig sind für die Region. Diese Kurse findet man in der „Bildungszielplanung“. Für diese Kurse ist es einfacher, eine Finanzierung zu bekommen.
 
-Die Bestätigung über die Finanzierung durch das Jobcenter nennt man Bildungsgutschein. [Was ist ein Bildungsgutschein?](#bildungsgutschein)
+Die Bestätigung über die Finanzierung durch das Jobcenter nennt man Bildungsgutschein.  Mehr Informationen finden Sie im Kapitel [Was ist ein Bildungsgutschein?](#bildungsgutschein)
 
-Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt. [Was ist der Berufspsychologische Service?](#berufspsychologischer)
+Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt. Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 Es gibt viele Regeln. Wenn Sie Fragen zum Arbeitslosengeld II haben oder etwas nicht verstehen, kann Ihnen eine Sozialberatung helfen. Auf dieser [Webseite](http://www.my-sozialberatung.de/adressen/@@suche-erweitert?-C=) können Sie mit der Postleitzahl nach einer Sozialberatung suchen. Die Webseite ist auf Deutsch.
 

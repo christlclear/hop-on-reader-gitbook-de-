@@ -111,7 +111,7 @@ Die Suche nach einem Praktikum funktioniert wie die Suche nach Arbeit:
 
 1. Man muss wissen, für welche beruflichen Bereiche man sich interessiert.
 
-2. Man muss eine Firma finden, die in diesem Bereich arbeitet. Die meisten Firmen möchten eine schriftliche Bewerbung. [Was ist eine Bewerbung?](#bewerbung)
+2. Man muss eine Firma finden, die in diesem Bereich arbeitet. Die meisten Firmen möchten eine schriftliche Bewerbung.  Mehr Informationen finden Sie im Kapitel [Was ist eine Bewerbung?](#bewerbung) 
 
 
 Es gibt verschiedene Möglichkeiten, eine Firma und ein Praktikum zu suchen. Mehr Informationen finden Sie unter [Wie finde ich Arbeit?](#arbeit)
@@ -128,7 +128,7 @@ Meistens können Sie eine Beschäftigungserlaubnis bekommen, wenn Sie mindestens
 
 Wenn bei Ihnen der Satz steht „Beschäftigung\/Erwerbstätigkeit nicht gestattet“, informieren Sie sich in einer Beratung.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich in einer [Beratung](#beratung).
+Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich in einer [Beratung](#beratung). Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte?
 
 ## 3. Kurse zur beruflichen Orientierung der Agentur für Arbeit und Jobcenter
 
@@ -149,9 +149,7 @@ Für eine Finanzierung durch die Agentur für Arbeit müssen Sie spezielle Vorau
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“. Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle](#beratung)
-
-Mehr Informationen finden Sie auf der [Webseite der Agentur für Arbeit](https://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/ArbeitundBeruf/ArbeitsJobsuche/ArbeitinDeutschland/Asylbewerber/Detail/index.htm?dfContentId=L6019022DSTBAI819890).
+Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Beratungsstelle. ](#beratung) Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## 4. Bildungsberatung
 

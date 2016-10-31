@@ -18,15 +18,11 @@ In der beruflichen Bildung meint das Wort "Beruf" aber meistens "Ausbildungsberu
 
 Einen Berufsabschluss hat man, wenn man einen Beruf gelernt und eine Abschlussprüfung bei der zuständigen Stelle bestanden hat. Eine zuständige Stelle ist die Institution, die für einen Ausbildungsberuf und die Prüfungen verantwortlich ist.
 
-Alle wichtigen Wörter finden Sie im [Glossar](#glossar).
+Alle wichtigen Wörter finden Sie im Kapitel [Glossar](#glossar).
 
-Wenn Sie einen Beruf gelernt haben und einen Abschluss gemacht haben, können Sie sich Ihren Berufsabschluss in Deutschland vielleicht anerkennen lassen. Seit 2012 gibt es ein neues Gesetz, was die Anerkennung von beruflichen Qualifikationen regelt. Anerkennung oder anerkennen heißt, man vergleicht eine Ausbildung aus einem anderen Land mit einer ähnlichen Ausbildung in Deutschland.
+Wenn Sie einen Beruf gelernt haben und einen Abschluss gemacht haben, können Sie sich Ihren Berufsabschluss in Deutschland vielleicht anerkennen lassen. Seit 2012 gibt es ein neues Gesetz, was die Anerkennung von beruflichen Qualifikationen regelt. Anerkennung oder anerkennen heißt, man vergleicht eine Ausbildung aus einem anderen Land mit einer ähnlichen Ausbildung in Deutschland. Mehr Informationen finden Sie im Kapitel [Was ist Anerkennung?](#anerkennung)
 
-[Was ist Anerkennung?](#anerkennung)
-
-Wenn Sie keinen Berufsabschluss haben oder Ihr Berufsabschluss nicht anerkannt werden kann, gibt es verschiedene Möglichkeiten und Wege, einen Berufsabschluss zu machen.
-
-[Welche Wege zum Berufsabschluss gibt es für Erwachsene?](#wege zum berufsabschluss)
+Wenn Sie keinen Berufsabschluss haben oder Ihr Berufsabschluss nicht anerkannt werden kann, gibt es verschiedene Möglichkeiten und Wege, einen Berufsabschluss zu machen. Mehr Informationen finden Sie im Kapitel [Welche Wege zum Berufsabschluss gibt es für Erwachsene?](#wege zum berufsabschluss)
 
 ### Stand
 

@@ -56,15 +56,11 @@ Nach dem Gesetz braucht man bei Berufen mit dualer Ausbildung keinen Schulabschl
 
 In Berufen mit schulischer Ausbildung braucht man nach dem Gesetz einen Schulabschluss. Die Art des Schulabschlusses ist abhängig von dem Beruf.
 
-Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.
-
-[Was ist Anerkennung?](#anerkennung)
+Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.  Mehr Informationen finden Sie im Kapitel [Was ist Anerkennung?](#anerkennung)
 
 Man kann einen Schulabschluss auch als Erwachsener nachholen. Das heißt, man macht einen Kurs und bereitet sich auf die Prüfung vor. In vielen Städten gibt es Angebote, wenn man den Hauptschulabschluss oder den Mittleren Schulabschluss nachholen will - zum Beispiel in den Volkshochschulen. Es gibt auch Angebote für das Fachabitur oder Abitur, wenn man spezielle Voraussetzungen erfüllt.
 
-In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ## Welche Deutschkenntnisse brauche ich für eine berufsbegleitende Nachqualifizierung?
 
@@ -78,9 +74,7 @@ Es ist auch abhängig von dem Beruf. Wenn man in einem Beruf zum Beispiel viel s
 
 ## Was kann ich machen, wenn ich die Deutschkenntnisse noch nicht habe?
 
-Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.
-
-[Wo kann ich Deutsch lernen?](#Deutsch)
+Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.  Mehr Informationen finden Sie im Kapitel [Wo kann ich Deutsch lernen?](#Deutsch)
 
 Ab 2017 ist es möglich, eine berufsbegleitende Nachqualifizierung mit einem berufsbezogenen Deutschkurs zu kombinieren. Berufsbezogen heißt, dass man nicht Deutsch für den Alltag, sondern Deutsch für den Beruf lernt. Die Kurse gehören zum neuen [Programm vom BAMF \(DeuFöV\).](http://www.bamf.de/DE/Willkommen/DeutschLernen/DeutschBeruf/Bundesprogramm-45a/bundesprogramm-45a-node.html)
 
@@ -92,7 +86,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich eine berufsbegleitende Nachqualifizierung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -114,7 +108,7 @@ Für die Zeit einer Ausbildung kann man eine Duldung bekommen, wenn man speziell
 
 Die Regel nennt nur die Ausbildung. Berufsbegleitende Nachqualifizierung wird dort nicht konkret genannt.
 
-Informieren Sie sich bei einer  [Rechtsberatung](#beratung).
+Informieren Sie sich bei einer [Rechtsberatung](#beratung). Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich finanzielle Hilfe für eine berufsbegleitende Nachqualifizierung bekommen?
 
@@ -142,7 +136,7 @@ Die Regeln für eine Finanzierung stehen im Sozialgesetzbuch \([§81 SGB III](ht
 
 Es ist gut, wenn man eine schriftliche Argumentation hat, warum man eine berufsbegleitende Nachqualifizierung machen möchte.
 
-Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt. [Was ist der Berufspsychologische Service?](#berufspsychologischer)
+Oft muss man für die Finanzierung an Tests teilnehmen. Ein Test findet bei dem Berufspsychologischen Service der Agentur für Arbeit statt.  Mehr Informationen finden Sie im Kapitel [Was ist der Berufspsychologische Service?](#berufspsychologischer)
 
 ### _Sie bekommen Geld vom Jobcenter?_
 
@@ -162,9 +156,7 @@ Informationen finden Sie auf der [Webseite der Bundesagentur für Arbeit](https:
 
 Es gibt keine Webseite, wo man alle berufsbegleitenden Nachqualifizierungen in Deutschland findet.
 
-In einer Bildungsberatung kann man sich informieren. Manchmal gibt es auch spezielle Beratungsstellen für Nachqualifizierung.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man sich informieren. Manchmal gibt es auch spezielle Beratungsstellen für Nachqualifizierung. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ### Stand
 

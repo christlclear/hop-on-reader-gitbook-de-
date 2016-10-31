@@ -47,15 +47,11 @@ Nach dem Gesetz braucht man bei Berufen mit dualer Ausbildung keinen Schulabschl
 
 In Berufen mit schulischer Ausbildung braucht man nach dem Gesetz einen Schulabschluss. Die Art des Schulabschlusses ist abhängig von dem Beruf.
 
-Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen.
-
-[Was ist Anerkennung?](#anerkennung)
+Wenn Sie Ihren Schulabschluss nicht in Deutschland gemacht haben, können Sie sich Ihren Schulabschluss anerkennen lassen. Mehr Informationen finden Sie im Kapitel [Was ist Anerkennung?](#anerkennung)
 
 Man kann einen Schulabschluss auch als Erwachsener nachholen. Das heißt, man macht einen Kurs und bereitet sich auf die Prüfung vor. In vielen Städten gibt es Angebote, wenn man den Hauptschulabschluss oder den Mittleren Schulabschluss nachholen will - zum Beispiel in den Volkshochschulen. Es gibt auch Angebote für das Fachabitur oder Abitur, wenn man spezielle Voraussetzungen erfüllt.
 
-In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen.
-
-[Wo finde ich Beratungsangebote und Projekte?](#beratung)
+In einer Bildungsberatung kann man Informationen über Angebote in der Region bekommen. Mehr Informationen finden Sie im Kapitel [Wo finde ich Beratungsangebote und Projekte?](#beratung)
 
 ## Welche Deutschkenntnisse brauche ich für eine betriebliche Umschulung?
 
@@ -67,9 +63,7 @@ Man muss viel lesen und schreiben. Die praktischen und schriftlichen Prüfungen 
 
 ## Was kann ich machen, wenn ich die Deutschkenntnisse noch nicht habe?
 
-Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.
-
-[Wo kann ich Deutsch lernen?](#Deutsch)
+Wenn man noch wenige Deutschkenntnisse hat, kann man einen Deutschkurs machen.  Mehr Informationen finden Sie im Kapitel [Wo kann ich Deutsch lernen?](#Deutsch)
 
 ### _Umschulungsbegleitende Hilfen_
 
@@ -93,7 +87,7 @@ Die Kurse wird es nicht in jeder Stadt geben.
 
 Der Aufenthaltsstatus hat Einfluss auf die Möglichkeit, an diesen Deutschkursen teilzunehmen.
 
-Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).
+Wenn Sie eine Aufenthaltsgestattung oder Duldung haben, informieren Sie sich bei einer [Beratungsstelle](#beratung).  Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich eine betriebliche Umschulung mit einer Aufenthaltsgestattung oder Duldung machen?
 
@@ -108,7 +102,7 @@ Eine Beschäftigungserlaubnis ist die Erlaubnis der Ausländerbehörde, dass man
 
 In Ihren Papieren \(Aufenthaltsgestattung oder Duldung\) steht meistens der Satz „Beschäftigung nur mit Erlaubnis der Ausländerbehörde“.
 
-Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer  [Rechtsberatung.](#beratung)
+Wenn in Ihren Papieren der Satz steht „Beschäftigung nicht gestattet“ oder „Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer [Rechtsberatung](#beratung). Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland) kommen und eine Aufenthaltsgestattung oder Duldung haben, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich bei einer [Rechtsberatung. ](#beratung)Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Ich habe eine Aufenthaltsgestattung oder Duldung. Kann ich für die Zeit der betrieblichen Umschulung eine Aufenthaltserlaubnis bekommen?
 
@@ -118,7 +112,7 @@ Für die Zeit einer Ausbildung kann man eine Duldung bekommen. Duldung bedeutet 
 
 Die Regel nennt nur die Ausbildung. Eine betriebliche Umschulung wird dort nicht konkret genannt.
 
-Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung).
+Informieren Sie sich bei einer [Beratungsstelle](#migrationsberatung-rechtsberatung). Mehr Informationen finden Sie im Kapitel Wo finde ich Beratungsangebote und Projekte? 
 
 ## Kann ich finanzielle Hilfe für eine betriebliche Umschulung bekommen?
 
@@ -150,12 +144,9 @@ Die Suche nach einer betrieblichen Umschulung funktioniert wie die Suche nach ei
 
 1. Man muss wissen, welchen Beruf man lernen will.
 
-2. Man muss eine Firma finden, bei der man eine betriebliche Umschulung machen kann. Man kann nicht in jeder Firma eine betriebliche Umschulung machen. Eine Firma muss verschiedene Voraussetzungen erfüllen. Zum Beispiel muss in der Firma eine Ausbilderin oder ein Ausbilder für den Ausbildungsberuf arbeiten.
+2. Man muss eine Firma finden, bei der man eine betriebliche Umschulung machen kann. Man kann nicht in jeder Firma eine betriebliche Umschulung machen. Eine Firma muss verschiedene Voraussetzungen erfüllen. Zum Beispiel muss in der Firma eine Ausbilderin oder ein Ausbilder für den Ausbildungsberuf arbeiten. Viele Firmen wissen nicht, wie betriebliche Umschulung funktioniert. Hilfe kann man bei der Agentur für Arbeit oder dem Jobcenter bekommen.
 
-
-Viele Firmen wissen nicht, wie betriebliche Umschulung funktioniert. Hilfe kann man bei der Agentur für Arbeit oder dem Jobcenter bekommen.
-
-1. Man muss eine Bewerbung schreiben. [Was ist eine Bewerbung?](#bewerbung) Bei der betrieblichen Umschulung braucht man eine gute Argumentation, warum man die Ausbildung in weniger Zeit machen will und kann.
+3. Man muss eine Bewerbung schreiben. Bei der betrieblichen Umschulung braucht man eine gute Argumentation, warum man die Ausbildung in weniger Zeit machen will und kann.  Mehr Informationen finden Sie im Kapitel [Was ist eine Bewerbung?](#bewerbung) 
 
 Eine betriebliche Umschulung beginnt meistens zur selben Zeit wie eine duale Ausbildung. Das heißt zweimal im Jahr - im Februar\/März oder im August\/September. Meistens kann man im August\/September beginnen.
 
@@ -177,13 +168,11 @@ Ausbildungsberufe mit der Handwerkskammer \(HWK\) als zuständige Stelle:
 
 [Lehrstellen-Radar im Handwerk](http://handwerk.de/lehrstellen-radar). Die Webseite ist auf Deutsch.
 
-Es gibt noch mehr Webseiten, wo Sie nach Ausbildungen suchen können. Oft sind es dieselben Webseiten, wo Sie auch nach Arbeit suchen können.
-
-[Wie finde ich Arbeit?](#arbeit)
+Es gibt noch mehr Webseiten, wo Sie nach Ausbildungen suchen können. Oft sind es dieselben Webseiten, wo Sie auch nach Arbeit suchen können.  Mehr Informationen finden Sie im Kapitel [Wie finde ich Arbeit?](#arbeit)
 
 Manche Firmen stellen ihre Ausbildungsplätze nicht auf eine Webseite oder nur auf ihre eigene Webseite. Sie können auch in Ihrer Stadt nach Firmen suchen, die interessant für Sie sind. Sie können die Chefin oder den Chef persönlich fragen, ob Sie eine Bewerbung für eine betriebliche Umschulung abgeben können.
 
-Oft kann man auch über ein [Praktikum ](#berufliche orientierung)eine Firma für eine betriebliche Umschulung finden.
+Oft kann man auch über ein [Praktikum ](#berufliche orientierung)eine Firma für eine betriebliche Umschulung finden.  Mehr Informationen finden Sie im Kapitel Was ist berufliche Orientierung?
 
 ### Stand
 
